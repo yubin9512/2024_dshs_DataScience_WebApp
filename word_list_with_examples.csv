@@ -1,0 +1,1601 @@
+번호;영어단어;테마;품사1;의미1;예시문1;품사2;의미2;예시문2;품사3;의미3;예시문3;새 테마
+1;provide;일상 및 여가 생활;동;제공하다, 공급하다, 준비하다;The company will provide assistance to those in need.;;;;;;;일상 생활
+2;develop;일상 및 여가 생활;동;개발하다, 발달하다, 발전시키다;Scientists are working hard to develop a cure for the disease.;;;;;;;과학과 기술
+3;service;일상 및 여가 생활;명;서비스, 근무, 봉사, 공공 업무;Good customer service is crucial for retaining clients.;;;;;;;국제 및 지역
+4;inform;일상 및 여가 생활;동;알리다, 통지하다;Please inform me of any changes to the schedule.;;;;;;;국제 및 지역
+5;relationship;기타;명;관계;Building a strong relationship takes time and effort.;;;;;;;인간과 사회
+6;improve;건강과 의료;동;향상시키다, 나아지다, 향상하다;Regular exercise can improve overall health.;;;;;;;국제 및 지역
+7;individual;일상 및 여가 생활;형;개인의, 개인적인;Each person has their own individual preferences.;명;개인;An individual's success is often influenced by their determination.;;;;국제 및 지역
+8;require;일상 및 여가 생활;동;요구하다, 필요로 하다;The job will require candidates to have excellent communication skills.;;;;;;;국제 및 지역
+9;advise;일상 및 여가 생활;동;충고하다, 조언하다;I would advise you to consider all your options before making a decision.;;;;;;;국제 및 지역
+10;social;문화와 예술;형;사회의, 사교적인;Participating in social activities can improve mental well-being.;;;;;;;국제 및 지역
+11;amount;경제, 금융 및 산업;명;총액, 총계, 양;A large amount of money was spent on the project.;동;총계가 ~이 되다;The total amount of goods produced this month is higher than expected.;;;;국제 및 지역
+12;behave;일상 및 여가 생활;동;행동하다;It's important to behave respectfully towards others.;;;;;;;국제 및 지역
+13;employ;문화와 예술;동;고용하다, 쓰다;The company plans to employ new staff next quarter.;;;;;;;국제 및 지역
+14;attitude;음식과 요리;명;태도, 입장;Having a positive attitude can greatly impact one's success.;;;;;;;인간과 사회
+15;research;과학과 기술;명;연구하다, 조사하다;Recent research suggests that exercise can improve cognitive function.;;;;;;;국제 및 지역
+16;audience;일상 및 여가 생활;명;청중, 관객;The comedian entertained the audience with his jokes.;;;;;;;국제 및 지역
+17;volunteer;일상 및 여가 생활;명;지원자, 자원봉사, 자원봉사자;Many volunteers came forward to help clean up the park.;동;지원하다, 자원봉사하다;She volunteered to assist with the charity event.;;;;국제 및 지역
+18;influence;일상 및 여가 생활;명;영향, 영향을 미치는 것[사람];Parents have a significant influence on their children's development.;동;영향을 미치다;Her speech influenced the audience's opinion on the matter.;;;;국제 및 지역
+19;terrible;일상 및 여가 생활;형;끔직한, 형편없는, 무서운;The accident left a terrible impact on the community.;;;;;;;국제 및 지역
+20;opportunity;교육과 학습;명;기회;Don't miss out on this great opportunity to learn new skills.;;;;;;;국제 및 지역
+21;ability;교육과 학습;명;능력, 재능;His ability to learn quickly impressed his colleagues.;;;;;;;국제 및 지역
+22;expense;경제, 금융 및 산업;명;비용, 지출;The business incurred significant expenses during the expansion phase.;;;;;;;국제 및 지역
+23;local;경제, 금융 및 산업;형;지역의, 장소의, 지방의;Local businesses play a vital role in supporting the community.;;;;;;;인간과 사회
+24;involve;문화와 예술;동;관련시키다, 포함하다, 관련되다;The project will involve collaboration with international partners.;;;;;;;과학과 기술
+25;stress;건강과 의료;명;스트레스, 긴장, 강조;High levels of stress can negatively impact one's health.;동;강조하다, 압력을 주다;It's important to stress the importance of safety measures in the workplace.;;;;건강과 웰빙
+26;therefore;교육과 학습;부;그러므로, 그 결과;"She didn't study enough; therefore, she failed the exam.";;;;;;;국제 및 지역
+27;positive;일상 및 여가 생활;형;긍정적인, 낙관적인, 확신하는;Maintaining a positive attitude can lead to better outcomes.;;;;;;;국제 및 지역
+28;average;문화와 예술;형;평균의, 보통의;The company's performance was below average this quarter.;명;평균, 보통 수준;The average of the test scores was higher than expected.;동;평균 ~이다;His income is above average for someone in his profession.;국제 및 지역
+29;ride;일상 및 여가 생활;동;타다;The children enjoyed the thrilling ride at the amusement park.;;;;;;;국제 및 지역
+30;encourage;일상 및 여가 생활;동;격려하다, 권장하다, 부추기다, 촉구하다;Parents should encourage their children to pursue their passions.;;;;;;;국제 및 지역
+31;determine;일상 및 여가 생활;동;결정하다, 결심하다;It's important to determine the root cause of the problem before taking action.;;;;;;;인간과 사회
+32;international;일상 및 여가 생활;형;국제의, 국제적인;The company has offices in several international locations.;;;;;;;국제 및 지역
+33;consume;건강과 의료;동;소비하다, 먹다[마시다];It's important to consume a balanced diet for good health.;;;;;;;국제 및 지역
+34;impress;일상 및 여가 생활;동;감동시키다, 깊은 인상을 주다;Her performance in the interview impressed the hiring manager.;;;;;;;국제 및 지역
+35;object;일상 및 여가 생활;명;물건, 물체, 목표;He found a mysterious object buried in the sand.;동;반대하다;She didn't object to the proposal during the meeting.;;;;국제 및 지역
+36;available;교육과 학습;형;이용할 수 있는, 쓸모있는, 시간이 있는;There are many available resources for learning online.;;;;;;;국제 및 지역
+37;contain;일상 및 여가 생활;동;들어있다, 포함하다, 함유하다, 억제하다;The bottle contains a liquid solution for cleaning wounds.;;;;;;;과학과 기술
+38;recognize;일상 및 여가 생활;동;인지하다 , 인정하다, 알아보다;She was recognized for her outstanding contributions to the community.;;;;;;;인간과 사회
+39;material;문화와 예술;명;재료, 소재, 물질;The store sells a variety of materials for art projects.;형;물질의;The material used in the construction is of high quality.;;;;국제 및 지역
+40;comfort;일상 및 여가 생활;명;편안, 평안함, 위안, 위로;The soft cushions provide extra comfort for long flights.;동;편안하게 하다, 위로하다;Her words of comfort helped him through a difficult time.;;;;국제 및 지역
+41;emotion;일상 및 여가 생활;명;감정;Expressing your emotions can help alleviate stress.;;;;;;;국제 및 지역
+42;amaze;일상 및 여가 생활;동;놀라게 하다;The magician's tricks never fail to amaze the audience.;;;;;;;인간과 사회
+43;reduce;건강과 의료;동;줄이다, 낮추다;Regular exercise can help reduce the risk of heart disease.;;;;;;;국제 및 지역
+44;discover;일상 및 여가 생활;동;발견하다, 알아내다;Scientists recently discovered a new species of butterfly.;;;;;;;국제 및 지역
+45;decide;일상 및 여가 생활;동;결정하다, 결심하다;It's important to carefully decide which path to take in life.;;;;;;;인간과 사회
+46;benefit;건강과 의료;명;이익, 혜택;Regular exercise has many health benefits.;동;도움이 되다;The new policy will benefit employees by providing more flexibility.;;;;비즈니스와 경제
+47;affect;음식과 요리;동;영향을 미치다;The weather can affect our mood.;;;;;;;국제 및 지역
+48;level;일상 및 여가 생활;명;수준, 정도, 수평;The water level in the river rose after heavy rainfall.;형;수평의;Make sure the picture frame is level before hanging it on the wall.;;;;국제 및 지역
+49;chemistry;과학과 기술;명;화학;The students conducted experiments in their chemistry class.;;;;;;;국제 및 지역
+50;immediate;건강과 의료;형;즉각적인, 시급한, 직접적인;The patient needs immediate medical attention.;;;;;;;국제 및 지역
+51;thus;교육과 학습;부;그러므로, 따라서;"He didn't study for the exam; thus, he failed.";;;;;;;국제 및 지역
+52;proper;일상 및 여가 생활;형;적절한, 알맞은;It's important to follow proper safety procedures.;;;;;;;인간과 사회
+53;performance;음악과 엔터테인먼트;명;공연, 성과;The musician's performance received a standing ovation.;;;;;;;국제 및 지역
+54;essence;일상 및 여가 생활;명;본질, 정수;The essence of the argument lies in its core principles.;;;;;;;국제 및 지역
+55;economic;정치, 법률 및 사회;형;경제의, 경제학의;The government is implementing new economic policies to stimulate growth.;;;;;;;국제 및 지역
+56;cell;일상 및 여가 생활;명;세포;Each cell in the human body has a specific function.;;;;;;;국제 및 지역
+57;focus;일상 및 여가 생활;동;집중하다;It's important to focus on the task at hand to achieve success.;명;초점;The camera automatically adjusts the focus to capture clear images.;;;;국제 및 지역
+58;issue;정치, 법률 및 사회;명;논란거리, 쟁점, 문제;The government needs to address the issue of unemployment.;;;;;;;국제 및 지역
+59;participate;문화와 예술;동;참여하다, 참가하다(in);Many students choose to participate in extracurricular activities.;;;;;;;국제 및 지역
+60;demand;경제, 금융 및 산업;명;요구, 수요;There is a high demand for skilled workers in the tech industry.;동;요구하다;The protesters demand justice for the victims.;;;;국제 및 지역
+61;occur;일상 및 여가 생활;동;발생하다, 일어나다, (생각이) 떠오르다;The accident occurred at the intersection of two busy streets.;;;;;;;일상 생활
+62;complex;일상 및 여가 생활;형;복잡한;The problem is too complex to be solved easily.;명;복잡체, 복합 건물;The apartment complex offers various amenities for residents.;;;;국제 및 지역
+63;define;문화와 예술;동;정의하다, 한계 짓다, 한정하다, 규정하다;It's important to define the scope of the project before starting.;;;;;;;국제 및 지역
+64;proud;일상 및 여가 생활;형;자랑스러워하는;She felt proud of her son's academic achievements.;;;;;;;국제 및 지역
+65;aware;일상 및 여가 생활;형;인지하는, 인식하고 있는, 알고 있는;It's important to be aware of your surroundings for safety.;;;;;;;국제 및 지역
+66;contact;일상 및 여가 생활;동;연락하다;Please contact me if you have any further questions.;명;접촉, 연락;Direct contact with the skin may cause irritation.;;;;국제 및 지역
+67;profession;건강과 의료;명;직업, 직종, 전문직;He decided to pursue a profession in medicine.;;;;;;;비즈니스와 경제
+68;detail;경제, 금융 및 산업;명;세부, 세부사항;The report provides detailed information about the company's finances.;동;상술하다;He carefully detailed his plans for the project.;;;;국제 및 지역
+69;approach;스포츠;동;접근하다;The coach's approach to training focuses on teamwork and discipline.;명;접근;Each approach has its own advantages and disadvantages.;;;;국제 및 지역
+70;career;일상 및 여가 생활;명;직업, 경력;She's considering a career change to pursue her passion for cooking.;;;;;;;비즈니스와 경제
+71;package;일상 및 여가 생활;명;꾸러미, 포장, 포장된 짐;The package arrived at the doorstep early in the morning.;동;포장하다;She carefully packaged the fragile items before shipping them.;;;;국제 및 지역
+72;disappear;일상 및 여가 생활;동;사라지다;The magician made the rabbit disappear in front of the audience.;;;;;;;국제 및 지역
+73;novel;일상 및 여가 생활;명;소설;She enjoys reading mystery novels in her free time.;;;;;;;국제 및 지역
+74;secure;일상 및 여가 생활;형;안전한, 안정된;The password must be secure to prevent unauthorized access.;동;안전하게 하다;She secured the door before going to bed.;;;;국제 및 지역
+75;fashion;일상 및 여가 생활;명;유행, 패션, 방식;She follows the latest fashion trends closely.;동;만들어 내다;The designer plans to fashion a new line of clothing for the upcoming season.;;;;국제 및 지역
+76;despite;일상 및 여가 생활;;;;;;;;;;국제 및 지역
+77;background;경제, 금융 및 산업;명;(그림, 사람, 사건)배경, 배경 지식;Her background in finance helped her excel in her career.;;;;;;;국제 및 지역
+78;solution;음식과 요리;명;해결, 해결책;Finding a solution to the problem requires creative thinking.;;;;;;;국제 및 지역
+79;generate;일상 및 여가 생활;동;일으키다, 발생시키다;The wind turbines generate electricity for the entire town.;;;;;;;국제 및 지역
+80;eventually;일상 및 여가 생활;부;결국;Eventually, all your hard work will pay off.;;;;;;;국제 및 지역
+81;decrease;건강과 의료;동;줄이다[감소하다], 줄이다;Regular exercise can help decrease stress levels.;명;감소;There was a noticeable decrease in sales this quarter.;;;;국제 및 지역
+82;recycle;기타;동;재활용하다;It's important to recycle paper to help protect the environment.;;;;;;;국제 및 지역
+83;desire;일상 및 여가 생활;명;욕구, 욕망;Her desire for success drives her to work hard every day.;동;바라다;He desires a peaceful resolution to the conflict.;;;;국제 및 지역
+84;balance;일상 및 여가 생활;명;균형, 은행 잔고;Maintaining a balance between work and personal life is essential for happiness.;동;균형을 이루다;She strives to balance her academic and social commitments.;;;;국제 및 지역
+85;negative;일상 및 여가 생활;형;부정적인;She received negative feedback on her performance.;;;;;;;국제 및 지역
+86;follow;일상 및 여가 생활;동;따라가다,  (규칙을) 따르다;The dog followed its owner obediently.;;;;;;;국제 및 지역
+87;account;경제, 금융 및 산업;명;은행 계좌, 이야기, 설명;He opened a savings account to save money for his future.;동;설명하다;She gave a detailed account of what happened during the meeting.;;;;인간과 사회
+88;publish;일상 및 여가 생활;동;발표하다, 출판하다;The author plans to publish a new book next year.;;;;;;;국제 및 지역
+89;occasion;일상 및 여가 생활;명;경우, 특별한 일;We celebrate special occasions with our friends and family.;;;;;;;국제 및 지역
+90;replace;일상 및 여가 생활;동;대체하다;They decided to replace the old furniture with new pieces.;;;;;;;국제 및 지역
+91;constant;일상 및 여가 생활;형;일정한, 불변의;The only constant in life is change.;명;(수학에서의) 상수;The value of pi is a constant in mathematics.;;;;국제 및 지역
+92;expert;건강과 의료;명;전문가;She sought advice from an expert in the field of medicine.;;;;;;;국제 및 지역
+93;term;문화와 예술;명;용어, 기간, 학기;"The term ""global warming"" refers to the increase in Earth's temperature.";;;;;;;국제 및 지역
+94;relieve;일상 및 여가 생활;동;경감하다, 안도시키다;Massage therapy can help relieve muscle tension.;;;;;;;국제 및 지역
+95;describe;일상 및 여가 생활;동;묘사하다, 표현하다;She described the scene in vivid detail.;;;;;;;국제 및 지역
+96;biology;교육과 학습;명;생물학;The study of biology involves understanding living organisms and their interactions.;;;;;;;국제 및 지역
+97;due;일상 및 여가 생활;형;만기의, ~하기로 되어 있는;The assignment is due at the end of the week.;;;;;;;국제 및 지역
+98;equipment;과학과 기술;명;장치, 장비;The laboratory is equipped with state-of-the-art equipment for experiments.;;;;;;;국제 및 지역
+99;congratulate;일상 및 여가 생활;동;축하하다;She congratulated her friend on winning the competition.;;;;;;;국제 및 지역
+100;birth;일상 및 여가 생활;명;탄생;The birth of a child is a joyous occasion for the family.;;;;;;;국제 및 지역
+101;compose;음식과 요리;동;구성하다, 작곡하다, 작문하다;Composing music requires creativity.;;;;;;;비즈니스와 경제
+102;genius;일상 및 여가 생활;명;천재, 천재성;Genius is not limited to intelligence.;;;;;;;국제 및 지역
+103;reflect;일상 및 여가 생활;동;반영하다, 반사하다, 숙고하다;The mirror reflects the light.;;;;;;;국제 및 지역
+104;cause;일상 및 여가 생활;동;~의 원인이 되다, 야기하다;Each event has a cause.;명;이유;Finding the cause is crucial for problem-solving.;;;;국제 및 지역
+105;frequent;건강과 의료;형;빈번한;Frequent exercise is good for health.;동;(장소,모임에) 자주 가다;I frequent the gym.;;;;국제 및 지역
+106;factor;건강과 의료;명;요인, 요소;Genetics is a significant factor in health.;;;;;;;국제 및 지역
+107;extreme;음식과 요리;형;극단의;The weather is extremely cold today.;명;극단;The two ends of the spectrum are extreme.;;;;국제 및 지역
+108;tend;일상 및 여가 생활;동;~하는 경향이 있다, 돌보다;She tends to get angry easily.;;;;;;;국제 및 지역
+109;politics;정치, 법률 및 사회;명;정치, 정치학;Politics is a complex field.;;;;;;;국제 및 지역
+110;insist;일상 및 여가 생활;동;주장하다;He insists on doing it his way.;;;;;;;국제 및 지역
+111;extend;일상 및 여가 생활;동;연장하다, 넓히다;They plan to extend the highway.;;;;;;;국제 및 지역
+112;lonely;일상 및 여가 생활;형;외로운;He felt lonely in the big city.;;;;;;;국제 및 지역
+113;habitat;일상 및 여가 생활;명;서식지, 주거지;The forest is the habitat of many animals.;;;;;;;국제 및 지역
+114;mental;건강과 의료;형;정신의;Mental health is important.;;;;;;;국제 및 지역
+115;steady;일상 및 여가 생활;형;안정된, 한결같은, 꾸준한;She maintained a steady pace.;;;;;;;국제 및 지역
+116;exchange;일상 및 여가 생활;동;교환하다;They exchanged gifts during the holidays.;;;;;;;국제 및 지역
+117;active;일상 및 여가 생활;형;활동적인, 적극적인;He leads an active lifestyle.;;;;;;;국제 및 지역
+118;species;일상 및 여가 생활;명;(생물분류상의) 종;There are many species of birds.;;;;;;;국제 및 지역
+119;athletic;일상 및 여가 생활;형;운동의, 운동경기의;She is an athletic person.;;;;;;;국제 및 지역
+120;dental;건강과 의료;형;치아의;Dental care is essential for oral health.;;;;;;;국제 및 지역
+121;delight;일상 및 여가 생활;명;기쁨;Their faces showed pure delight.;동;기쁘게 하다;The news delighted him immensely.;;;;국제 및 지역
+122;confident;일상 및 여가 생활;형;자신 있는;She feels confident about the presentation.;;;;;;;국제 및 지역
+123;gradually;일상 및 여가 생활;부;점차, 서서히;The plant grew gradually over time.;;;;;;;국제 및 지역
+124;shadow;일상 및 여가 생활;명;그림자;She walked in the shadow of the trees.;동;그늘지게 하다;The building shadows the garden.;;;;국제 및 지역
+125;access;일상 및 여가 생활;명;접근, 이용;Access to information is crucial.;동;접근하다;They accessed the database for research.;;;;국제 및 지역
+126;announce;일상 및 여가 생활;동;발표하다, 알리다;They announced their engagement yesterday.;;;;;;;국제 및 지역
+127;allow;일상 및 여가 생활;동;허락하다, 인정하다;Parents should allow children to express themselves.;;;;;;;인간과 사회
+128;firm;일상 및 여가 생활;형;확고한, 단단한;She gave a firm handshake.;명;회사;Their firm specializes in software development.;;;;국제 및 지역
+129;vary;일상 및 여가 생활;동;바꾸다, 변하다, 다르다;The prices vary depending on the size.;;;;;;;국제 및 지역
+130;injure;스포츠;동;상처를 입히다, 손상시키다;He injured his leg while playing soccer.;;;;;;;국제 및 지역
+131;permit;일상 및 여가 생활;동;허용[허락]하다;The sign permits parking for two hours.;;;;;;;국제 및 지역
+132;response;일상 및 여가 생활;명;응답, 반응;His response surprised everyone.;;;;;;;국제 및 지역
+133;threat;음식과 요리;동;위협, 협박;The storm threatens the safety of the residents.;;;;;;;국제 및 지역
+134;electricity;일상 및 여가 생활;명;전기;Electricity powers our homes.;;;;;;;국제 및 지역
+135;disabled;일상 및 여가 생활;형;장애를 가진, 무능력하게 된;The disabled parking spot is near the entrance.;;;;;;;국제 및 지역
+136;lack;일상 및 여가 생활;명;부족;The lack of evidence made the case difficult.;동;~이 부족하다;She lacks confidence in her abilities.;;;;국제 및 지역
+137;signify;일상 및 여가 생활;동;의미하다, 중요하다;His silence signified his consent.;;;;;;;국제 및 지역
+138;concentrate;일상 및 여가 생활;동;집중하다;She concentrated on her studies.;;;;;;;국제 및 지역
+139;emphasize;스포츠;동;강조하다;He emphasized the importance of teamwork.;;;;;;;국제 및 지역
+140;astronomy;일상 및 여가 생활;명;천문학;He studied astronomy in college.;;;;;;;국제 및 지역
+141;flood;일상 및 여가 생활;명;홍수;The flood damaged many homes.;동;범람시키다;Heavy rain could flood the streets.;;;;국제 및 지역
+142;fuel;일상 및 여가 생활;명;연료;Gasoline is a common fuel for cars.;동;연료를 공급하다;The company fuels its trucks at the depot.;;;;국제 및 지역
+143;manufacture;일상 및 여가 생활;동;제조하다;The factory manufactures cars.;명;제조(업), 제품;The company is a leader in the manufacture of smartphones.;;;;국제 및 지역
+144;movement;일상 및 여가 생활;명;움직임, 운동;His movements were slow and deliberate.;;;;;;;국제 및 지역
+145;capable;일상 및 여가 생활;형;~을 할 수 있는, 유능한;She is capable of handling difficult situations.;;;;;;;국제 및 지역
+146;combine;음식과 요리;동;결합하다, 겸비하다;The recipe combines sweet and savory flavors.;;;;;;;국제 및 지역
+147;gene;일상 및 여가 생활;명;유전자;Genes determine many of our traits.;;;;;;;국제 및 지역
+148;increase;일상 및 여가 생활;동;(수량이) 증가하다;The company increased its profits this year.;명;증가, 이자;The increase in temperature was noticeable.;;;;국제 및 지역
+149;victim;일상 및 여가 생활;명;희생, 피해자;She became the victim of identity theft.;;;;;;;국제 및 지역
+150;pressure;일상 및 여가 생활;명;압력, 압박;The pressure to perform well was immense.;동;압력을 가하다;They pressured him to make a decision.;;;;국제 및 지역
+151;accompany;일상 및 여가 생활;동;동반[동행]하다, 수반하다;His wife accompanied him on the trip.;;;;;;;국제 및 지역
+152;frustrate;일상 및 여가 생활;동;좌절시키다;His failure frustrated him.;;;;;;;국제 및 지역
+153;construct;일상 및 여가 생활;동;건설하다;They plan to construct a new building.;;;;;;;국제 및 지역
+154;dwindle;일상 및 여가 생활;동;점점 줄어들다, 저하되다;The resources dwindled as the project progressed.;;;;;;;국제 및 지역
+155;commerce;일상 및 여가 생활;명;상업, 교역;Commerce between the two countries flourished.;;;;;;;국제 및 지역
+156;entertain;문화와 예술;동;즐겁게 하다;The clown entertained the children at the party.;;;;;;;국제 및 지역
+157;predict;일상 및 여가 생활;동;예언하다, 예측하다;Scientists predict a rise in global temperatures.;;;;;;;국제 및 지역
+158;apologize;일상 및 여가 생활;동;사과하다;He apologized for his mistake.;;;;;;;국제 및 지역
+159;sight;음식과 요리;명;시야, 광경, 시력;The beautiful sight took her breath away.;;;;;;;국제 및 지역
+160;quantity;일상 및 여가 생활;명;양;They measured the quantity of water in the tank.;;;;;;;국제 및 지역
+161;conclude;일상 및 여가 생활;동;결론짓다, 끝내다;They concluded the meeting with a vote.;;;;;;;국제 및 지역
+162;donate;경제, 금융 및 산업;동;기부하다;She donated money to charity.;;;;;;;국제 및 지역
+163;personality;일상 및 여가 생활;명;개성, 성격, 특색;His personality shines through in his writing.;;;;;;;국제 및 지역
+164;struggle;일상 및 여가 생활;동;싸우다, 노력하다;He struggled to find a solution to the problem.;명;투쟁, 노력;The struggle for civil rights continues.;;;;국제 및 지역
+165;advantage;일상 및 여가 생활;명;유리한 점, 이점;His experience gives him an advantage.;;;;;;;국제 및 지역
+166;variety;일상 및 여가 생활;명;다양, 다양성;There is a wide variety of fruits available.;;;;;;;국제 및 지역
+167;enable;과학과 기술;동;가능하게 하다;The new software enables faster processing.;;;;;;;국제 및 지역
+168;instruction;일상 및 여가 생활;명;지시, 제품 사용 설명서, 가르침;Follow the instructions carefully.;;;;;;;국제 및 지역
+169;assume;일상 및 여가 생활;동;추정하다, (태도 등을) 취하다;Let's not assume anything until we have all the facts.;;;;;;;인간과 사회
+170;attempt;일상 및 여가 생활;동;시도하다;She attempted to climb the mountain.;;;;;;;국제 및 지역
+171;incredible;일상 및 여가 생활;형;믿을 수 없는, (믿기 어려울 만큼) 굉장한;The view from the top of the mountain was incredible.;;;;;;;국제 및 지역
+172;feature;음식과 요리;명;특징, 특집 기사, 얼굴 생김새;The new smartphone has many advanced features.;동;~을 특징으로 하다, 주연하다;The movie features a famous actor in the lead role.;;;;과학과 기술
+173;confuse;일상 및 여가 생활;동;혼동하다, 혼란시키다;His explanation only confused me more.;;;;;;;국제 및 지역
+174;electronic;일상 및 여가 생활;형;전자의;The electronic device malfunctioned.;;;;;;;국제 및 지역
+175;absorb;일상 및 여가 생활;동;흡수하다, (사람, 마음을) 열중시키다;Plants absorb nutrients from the soil.;;;;;;;국제 및 지역
+176;indicate;건강과 의료;동;가리키다, 나타내다;The map indicates the location of the nearest hospital.;;;;;;;국제 및 지역
+177;analyze;일상 및 여가 생활;동;분석하다;Scientists analyze data to draw conclusions.;;;;;;;국제 및 지역
+178;stock;일상 및 여가 생활;명;재고품, 저장, 가축;The store has a wide stock of products.;동;저장하다, (물품을) 들여놓다;They stocked up on food before the storm.;;;;국제 및 지역
+179;resident;일상 및 여가 생활;명;거주자;The residents of the neighborhood are friendly.;;;;;;;국제 및 지역
+180;labor;일상 및 여가 생활;명;노동, 산고;She works hard at her labor.;동;노동하다;They labored all day to finish the project.;;;;국제 및 지역
+181;remark;일상 및 여가 생활;명;의견, 주목;Her remarks during the meeting were insightful.;동;의견을 말하다, ~에 주목하다;He remarked on the beautiful sunset.;;;;국제 및 지역
+182;moral;일상 및 여가 생활;형;도덕적인;The decision was based on moral principles.;;;;;;;국제 및 지역
+183;embarrassed;일상 및 여가 생활;형;당황한;He felt embarrassed about his mistake.;;;;;;;국제 및 지역
+184;claim;일상 및 여가 생활;동;주장하다;She claims to have seen a UFO.;명;요구, 주장;The insurance company rejected his claim.;;;;국제 및 지역
+185;reasonable;일상 및 여가 생활;형;논리적인, 분별력 있는;His request seemed reasonable.;;;;;;;국제 및 지역
+186;interrupt;일상 및 여가 생활;동;방해하다, 중단하다;Please don't interrupt me while I'm speaking.;;;;;;;국제 및 지역
+187;discount;일상 및 여가 생활;명;할인;The store offered a discount on all items.;동;할인하다;They discounted the price of the product.;;;;국제 및 지역
+188;creature;일상 및 여가 생활;명;생물, 피조물;The forest is home to many strange creatures.;;;;;;;국제 및 지역
+189;heal;일상 및 여가 생활;동;치료하다, 낫게 하다;Time will heal all wounds.;;;;;;;국제 및 지역
+190;establish;일상 및 여가 생활;동;설립하다, 확립하다, 제정하다;They established a new company together.;;;;;;;국제 및 지역
+191;revolution;문화와 예술;명;혁명, 갑작스러운 변화, 회전;The industrial revolution changed society.;;;;;;;국제 및 지역
+192;criticize;일상 및 여가 생활;동;비난하다;She criticized his choice of clothes.;;;;;;;국제 및 지역
+193;convince;일상 및 여가 생활;동;확신시키다, 납득시키다;He tried to convince them to go with him.;;;;;;;국제 및 지역
+194;efficient;일상 및 여가 생활;형;효율적인, 유능한;The new system is more efficient than the old one.;;;;;;;국제 및 지역
+195;stranger;일상 및 여가 생활;명;낯선 사람, 문외한;She struck up a conversation with a stranger at the bus stop.;;;;;;;국제 및 지역
+196;tide;일상 및 여가 생활;명;조수, 흐름;The tide came in and covered the beach.;;;;;;;국제 및 지역
+197;obtain;일상 및 여가 생활;동;획득하다, 통용되다, 행해지다;He obtained a copy of the document.;;;;;;;국제 및 지역
+198;assist;일상 및 여가 생활;동;도움을 주다;She assisted him with his homework.;;;;;;;국제 및 지역
+199;disaster;문화와 예술;명;재앙, 재난, 재해;The earthquake was a natural disaster.;;;;;;;국제 및 지역
+200;terrific;일상 및 여가 생활;형;굉장한, 훌륭한;She did a terrific job on her presentation.;;;;;;;국제 및 지역
+201;specific;일상 및 여가 생활;형;구체적인;Each situation requires a specific solution.;;;;;;;국제 및 지역
+202;react;일상 및 여가 생활;동;반응하다;People react differently to the same situation.;;;;;;;국제 및 지역
+203;independent;일상 및 여가 생활;형;독립적인;Independent thinking is crucial for innovation.;;;;;;;국제 및 지역
+204;theory;일상 및 여가 생활;명;이론;Each scientific theory undergoes rigorous testing.;;;;;;;국제 및 지역
+205;qualify;일상 및 여가 생활;동;자격을 얻다;To qualify for the scholarship, students must meet certain criteria.;;;;;;;국제 및 지역
+206;consider;일상 및 여가 생활;동;숙고하다;It's important to consider all possible outcomes before making a decision.;;;;;;;국제 및 지역
+207;recall;일상 및 여가 생활;동;상기하다;Recall of past events can be influenced by various factors.;;;;;;;국제 및 지역
+208;risk;경제, 금융 및 산업;명;위험;Every investment carries a certain degree of risk.;;;;;;;국제 및 지역
+209;treatment;건강과 의료;명;치료(법);Effective treatment requires a holistic approach.;;;;;;;국제 및 지역
+210;engage;일상 및 여가 생활;동;관여하다;Employees are more likely to engage with their work if they feel valued.;;;;;;;국제 및 지역
+211;motivate;기타;동;동기를 부여하다;A supportive environment can motivate employees to perform better.;;;;;;;국제 및 지역
+212;clue;일상 및 여가 생활;명;실마리;Each clue leads us closer to solving the mystery.;;;;;;;국제 및 지역
+213;cancer;과학과 기술;명;암;Cancer research has made significant strides in recent years.;;;;;;;국제 및 지역
+214;elder;일상 및 여가 생활;명;연장자;Elders in the community provide valuable wisdom and guidance.;;;;;;;국제 및 지역
+215;depress;일상 및 여가 생활;동;우울하게 하다;Constant criticism can depress even the most resilient individuals.;;;;;;;국제 및 지역
+216;fascinate;과학과 기술;동;매료시키다;The intricacies of the human mind continue to fascinate researchers.;;;;;;;국제 및 지역
+217;violent;일상 및 여가 생활;형;폭력적인;Exposure to violent media can desensitize individuals to real-life violence.;;;;;;;국제 및 지역
+218;alarm;문화와 예술;명;경보;The sound of the alarm signaled the start of the evacuation.;;;;;;;국제 및 지역
+219;edge;일상 및 여가 생활;명;가장자리;Standing on the edge of the cliff, he felt a rush of adrenaline.;;;;;;;국제 및 지역
+220;deserve;일상 및 여가 생활;동;받을 만하다;Hard work and dedication deserve recognition.;;;;;;;국제 및 지역
+221;route;일상 및 여가 생활;명;길;Finding the fastest route to your destination can save time and fuel.;;;;;;;국제 및 지역
+222;psychology;교육과 학습;명;심리학;Psychology explores the complex workings of the human mind.;;;;;;;국제 및 지역
+223;passion;음악과 엔터테인먼트;명;열정;Her passion for music drove her to pursue a career as a musician.;;;;;;;국제 및 지역
+224;import;일상 및 여가 생활;명;수입;The country relies heavily on the import of raw materials.;;;;;;;국제 및 지역
+225;purchase;일상 및 여가 생활;명;구매;Online purchases have surged in popularity in recent years.;;;;;;;국제 및 지역
+226;conscience;과학과 기술;명;양심;A guilty conscience can weigh heavily on a person's mind.;;;;;;;국제 및 지역
+227;pose;일상 및 여가 생활;동;자세를 취하다;The model struck a dramatic pose for the photographer.;;;;;;;국제 및 지역
+228;length;일상 및 여가 생활;명;길이;The length of the river determines its navigability.;;;;;;;국제 및 지역
+229;severe;음식과 요리;형;심한;Severe weather warnings prompted residents to take shelter.;;;;;;;국제 및 지역
+230;decade;일상 및 여가 생활;명;10년;Over the past decade, technological advancements have transformed our lives.;;;;;;;국제 및 지역
+231;occupy;일상 및 여가 생활;동;차지하다;The new building will occupy the entire block.;;;;;;;국제 및 지역
+232;acquire;일상 및 여가 생활;동;습득하다;Children acquire language skills through exposure and practice.;;;;;;;국제 및 지역
+233;interact;기타;동;상호 작용하다;Interactions with peers are crucial for social development.;;;;;;;국제 및 지역
+234;brief;일상 및 여가 생활;형;간단한;A brief overview of the project was presented to the stakeholders.;;;;;;;국제 및 지역
+235;observe;기타;동;관찰하다;Scientists observe changes in the environment over time.;;;;;;;국제 및 지역
+236;poetry;일상 및 여가 생활;명;시;The beauty of poetry lies in its ability to evoke emotions.;;;;;;;국제 및 지역
+237;salary;일상 및 여가 생활;명;급료;The company offers competitive salaries to attract top talent.;;;;;;;국제 및 지역
+238;grain;일상 및 여가 생활;명;낟알;Each grain of sand tells a story of erosion and deposition.;;;;;;;국제 및 지역
+239;meaningful;기타;형;의미 있는;Meaningful relationships enrich our lives and bring us joy.;;;;;;;국제 및 지역
+240;weed;일상 및 여가 생활;명;잡초;Weeding the garden is a tedious but necessary task.;;;;;;;국제 및 지역
+241;survival;일상 및 여가 생활;명;생존;The instinct for survival is deeply ingrained in all living organisms.;;;;;;;국제 및 지역
+242;comment;일상 및 여가 생활;동;논평하다;Readers often comment on blog posts to share their opinions.;;;;;;;국제 및 지역
+243;leap;일상 및 여가 생활;명;도약;The athlete's leap across the finish line secured the gold medal.;;;;;;;국제 및 지역
+244;survey;일상 및 여가 생활;명;설문 조사;A survey of customer satisfaction revealed areas for improvement.;;;;;;;국제 및 지역
+245;typical;일상 및 여가 생활;형;전형적인;A typical day for her involves meetings, emails, and deadlines.;;;;;;;국제 및 지역
+246;mere;일상 및 여가 생활;형;단지 ~에 불과한;His complaints are mere excuses for his lack of effort.;;;;;;;국제 및 지역
+247;mechanic;일상 및 여가 생활;명;기계공;The mechanic diagnosed the problem with the car engine.;;;;;;;국제 및 지역
+248;mood;음악과 엔터테인먼트;명;분위기;The music set the mood for the romantic dinner.;;;;;;;국제 및 지역
+249;approve;일상 및 여가 생활;동;승인하다;The committee will approve the budget for the new project.;;;;;;;국제 및 지역
+250;rural;일상 및 여가 생활;형;시골의;She longed for the peace and quiet of rural life.;;;;;;;국제 및 지역
+251;finance;경제, 금융 및 산업;명;재정;The finance department is responsible for budgeting and financial planning.;;;;;;;국제 및 지역
+252;seek;일상 및 여가 생활;동;찾다;The explorers seek treasure in the depths of the jungle.;;;;;;;국제 및 지역
+253;operation;일상 및 여가 생활;명;작업;The operation to remove the tumor was successful.;;;;;;;국제 및 지역
+254;crime;일상 및 여가 생활;명;범죄;The detective solved the crime using forensic evidence.;;;;;;;국제 및 지역
+255;awful;음악과 엔터테인먼트;형;끔찍한;The movie was so awful that I walked out halfway through.;;;;;;;국제 및 지역
+256;series;일상 및 여가 생활;명;연속;A series of unfortunate events led to the company's downfall.;;;;;;;국제 및 지역
+257;exhausted;일상 및 여가 생활;형;기진맥진한;After a long day at work, she felt physically and mentally exhausted.;;;;;;;국제 및 지역
+258;absolute;일상 및 여가 생활;형;절대적인;The dictator ruled with absolute power and authority.;;;;;;;국제 및 지역
+259;surround;일상 및 여가 생활;동;둘러싸다;The fortress was surrounded by enemy troops on all sides.;;;;;;;국제 및 지역
+260;display;문화와 예술;명;전시;The museum boasts an impressive display of ancient artifacts.;;;;;;;국제 및 지역
+261;policy;정치, 법률 및 사회;명;정책;The government announced a new policy to tackle climate change.;;;;;;;국제 및 지역
+262;mass;일상 및 여가 생활;명;덩어리;The spacecraft entered the planet's atmosphere at high speed, causing mass panic.;;;;;;;국제 및 지역
+263;committee;일상 및 여가 생활;명;위원회;The committee members gathered to discuss the proposed changes.;;;;;;;국제 및 지역
+264;accurate;일상 및 여가 생활;형;정확한;The scientist made accurate measurements using advanced equipment.;;;;;;;국제 및 지역
+265;arrange;일상 및 여가 생활;동;정리하다;She arranged the flowers in a beautiful bouquet for her friend's birthday.;;;;;;;일상 생활
+266;facility;일상 및 여가 생활;명;시설;The hotel offers excellent facilities for guests, including a swimming pool and gym.;;;;;;;국제 및 지역
+267;consult;정치, 법률 및 사회;동;상담하다;She consulted with her lawyer before signing the contract.;;;;;;;국제 및 지역
+268;refer;일상 및 여가 생활;동;언급하다;In the report, please refer to Figure 1 for a graphical representation of the data.;;;;;;;국제 및 지역
+269;attach;일상 및 여가 생활;동;붙이다;Please attach the document to your email before sending it to the client.;;;;;;;국제 및 지역
+270;recover;일상 및 여가 생활;동;회복하다;It took her months to recover from the accident and regain her strength.;;;;;;;국제 및 지역
+271;reward;일상 및 여가 생활;동;보답하다;The company rewarded employees who exceeded their targets with bonuses and incentives.;;;;;;;국제 및 지역
+272;enormous;일상 및 여가 생활;형;엄청난;The company faced enormous challenges in its efforts to expand globally.;;;;;;;국제 및 지역
+273;domestic;일상 및 여가 생활;형;국내의;Domestic violence is a serious issue that affects families worldwide.;;;;;;;국제 및 지역
+274;wealth;경제, 금융 및 산업;명;부;The billionaire's wealth grew exponentially as his investments paid off.;;;;;;;비즈니스와 경제
+275;elementary;일상 및 여가 생활;형;기초적인;The textbook covers elementary concepts in mathematics.;;;;;;;국제 및 지역
+276;gap;일상 및 여가 생활;명;격차;The wealth gap between the rich and the poor continues to widen.;;;;;;;국제 및 지역
+277;except;일상 및 여가 생활;동;제외하다;All students passed the exam except for one.;;;;;;;국제 및 지역
+278;journey;일상 및 여가 생활;명;여행;Life is a journey, not a destination.;;;;;;;국제 및 지역
+279;plain;일상 및 여가 생활;형;명백한;He made his intentions plain from the beginning.;;;;;;;국제 및 지역
+280;downtown;일상 및 여가 생활;명;도심;The downtown area is bustling with activity day and night.;;;;;;;국제 및 지역
+281;previous;교육과 학습;형;이전의;In the previous chapter, we discussed the basic principles of economics.;;;;;;;국제 및 지역
+282;produce;일상 및 여가 생활;동;생산하다;The factory produces thousands of units every day to meet demand.;;;;;;;국제 및 지역
+283;remain;일상 및 여가 생활;동;여전히 ~이다;Despite the challenges, he remained optimistic about the future.;;;;;;;국제 및 지역
+284;break;일상 및 여가 생활;동;깨다;She needed a break from her hectic schedule to relax and recharge.;;;;;;;국제 및 지역
+285;slight;일상 및 여가 생활;형;약간의;There was a slight delay in the delivery of the package.;;;;;;;국제 및 지역
+286;include;일상 및 여가 생활;동;포함하다;The package includes all the necessary components for assembly.;;;;;;;과학과 기술
+287;delay;음식과 요리;명;지연;The flight was delayed due to adverse weather conditions.;;;;;;;국제 및 지역
+288;file;일상 및 여가 생활;명;서류철;Please place the document in the appropriate file for easy retrieval.;;;;;;;국제 및 지역
+289;ethic;일상 및 여가 생활;명;윤리;The company's code of ethics prohibits discrimination and harassment in the workplace.;;;;;;;국제 및 지역
+290;instant;일상 및 여가 생활;명;순간;The photograph captured a fleeting instant of joy and laughter.;;;;;;;국제 및 지역
+291;reveal;일상 및 여가 생활;동;폭로하다;The investigation revealed the truth behind the mysterious disappearance.;;;;;;;국제 및 지역
+292;breed;일상 및 여가 생활;동;낳다;The farmer breeds cattle for sale in the local market.;;;;;;;국제 및 지역
+293;leisure;일상 및 여가 생활;명;여가;She spends her leisure time reading books and gardening in her backyard.;;;;;;;국제 및 지역
+294;urban;일상 및 여가 생활;형;도시의;The urban sprawl has led to the destruction of natural habitats for wildlife.;;;;;;;국제 및 지역
+295;witness;정치, 법률 및 사회;명;목격자;The witness testified in court about what he saw on the night of the crime.;;;;;;;국제 및 지역
+296;admit;일상 및 여가 생활;동;인정하다;The university will admit a limited number of students into its prestigious program.;;;;;;;인간과 사회
+297;muscle;건강과 의료;명;근육;Regular exercise helps to strengthen muscles and improve overall health.;;;;;;;국제 및 지역
+298;device;과학과 기술;명;장치;The latest smartphone comes with advanced features and cutting-edge technology.;;;;;;;국제 및 지역
+299;suppose;일상 및 여가 생활;동;추측하다;Suppose we increase the budget for marketing—how will that impact sales?;;;;;;;국제 및 지역
+300;owe;일상 및 여가 생활;동;빚지고 있다;She owes her success to years of hard work and determination.;;;;;;;국제 및 지역
+301;intend;일상 및 여가 생활;동;~할 작정이다, 의도하다;We intend to allocate resources efficiently for the project.;;;;;;;국제 및 지역
+302;aspect;일상 및 여가 생활;명;면, 관점;Every aspect of the plan requires careful consideration.;;;;;;;국제 및 지역
+303;potential;일상 및 여가 생활;형;잠재적인;The potential benefits of the new strategy are significant.;명;잠재력;Each potential for growth must be evaluated individually.;;;;국제 및 지역
+304;award;과학과 기술;명;상;The prestigious award recognized her contributions to science.;동;(상 등을) 수여하다;The committee will award grants to deserving applicants.;;;;국제 및 지역
+305;preserve;일상 및 여가 생활;동;보존하다, 보호하다;It's essential to preserve natural habitats for future generations.;;;;;;;국제 및 지역
+306;spot;일상 및 여가 생활;명;장소, 점;Let's meet at our usual spot for lunch.;동;발견하다;The ranger spotted a rare species of bird in the forest.;;;;국제 및 지역
+307;underground;일상 및 여가 생활;형;지하의, 비밀의;The rebels operated from an underground bunker.;명;지하;Each underground tunnel has its own network of passages.;;;;국제 및 지역
+308;consequence;기타;명;결과, 중요성;The consequence of ignoring climate change could be catastrophic.;;;;;;;국제 및 지역
+309;target;일상 및 여가 생활;명;목표;Our primary target is to increase market share.;동;목표로 삼다;We need to target specific demographics with our advertising campaign.;;;;국제 및 지역
+310;unless;일상 및 여가 생활;접;만약 ~이 아니면;Unless we address the issue now, it will only escalate further.;;;;;;;국제 및 지역
+311;accomplish;일상 및 여가 생활;동;이루다, 성취하다;With determination and hard work, we can accomplish our goals.;;;;;;;국제 및 지역
+312;adopt;정치, 법률 및 사회;동;입양하다, 채택하다;The committee voted to adopt the new policy unanimously.;;;;;;;국제 및 지역
+313;unique;일상 및 여가 생활;형;독특한, 유일한;Her unique perspective brought fresh ideas to the project.;;;;;;;국제 및 지역
+314;slip;일상 및 여가 생활;동;미끄러지다, 실수하다;Be careful not to slip on the wet floor.;명;종이 조각;He found a slip of paper tucked inside the old book.;;;;국제 및 지역
+315;civilization;일상 및 여가 생활;명;문명;The ancient civilization left behind remarkable architectural wonders.;;;;;;;국제 및 지역
+316;row;음악과 엔터테인먼트;명;열, 줄;She sat in the front row during the concert.;동;배를 젓다;We rowed across the lake at dawn.;;;;국제 및 지역
+317;horizon;문화와 예술;명;지평선;The sun dipped below the horizon, painting the sky in hues of orange and pink.;;;;;;;국제 및 지역
+318;atmosphere;문화와 예술;명;대기, 분위기;The atmosphere at the party was lively and festive.;;;;;;;국제 및 지역
+319;label;일상 및 여가 생활;명;꼬리표, 상표;Check the label on the package for instructions.;동;라벨을 붙이다;She carefully labeled each box before shipping.;;;;국제 및 지역
+320;decorate;문화와 예술;동;장식하다, ~에게 훈장을 주다;We'll decorate the room with balloons and streamers for the party.;;;;;;;국제 및 지역
+321;identify;일상 및 여가 생활;동;~임을 확인하다, 식별하다, 동일시하다;It's essential to identify the root cause of the problem.;;;;;;;국제 및 지역
+322;standard;경제, 금융 및 산업;명;표준, 기준;We need to adhere to industry standards in our manufacturing process.;형;기준의, 표준의;This product meets all the required standards.;;;;국제 및 지역
+323;scale;일상 및 여가 생활;명;규모, 저울, 비늘;The scale of the project is much larger than anticipated.;;;;;;;국제 및 지역
+324;evident;일상 및 여가 생활;형;명백한;The evidence against him was evident.;;;;;;;국제 및 지역
+325;seldom;일상 및 여가 생활;부;거의 ~않는;He seldom misses his morning jog.;;;;;;;국제 및 지역
+326;secretary;일상 및 여가 생활;명;비서, 장관;The secretary greeted visitors at the front desk.;;;;;;;국제 및 지역
+327;basis;일상 및 여가 생활;명;원리, 기초;The decision was made on the basis of merit.;;;;;;;국제 및 지역
+328;automatic;음식과 요리;형;자동적인, 기계적인;The system has an automatic shutdown feature.;;;;;;;국제 및 지역
+329;region;일상 및 여가 생활;명;지역;The region experienced a surge in tourism after the new attractions were built.;;;;;;;인간과 사회
+330;rise;일상 및 여가 생활;동;일어나다, 오르다;The sun began to rise over the horizon.;명;상승;We've seen a steady rise in profits over the past year.;;;;일상 생활
+331;addict;일상 및 여가 생활;동;중독시키다;Drugs have the potential to addict individuals quickly.;명;중독자;He sought help for his addiction at a rehabilitation center.;;;;국제 및 지역
+332;disappoint;일상 및 여가 생활;동;실망시키다;We must not disappoint our loyal customers with poor service.;;;;;;;국제 및 지역
+333;artificial;문화와 예술;형;인공적인, 인조의;The artificial intelligence system analyzed the data efficiently.;;;;;;;국제 및 지역
+334;possess;음악과 엔터테인먼트;동;소유하다, ~의 마음을 사로잡다;She possesses a remarkable talent for music.;;;;;;;국제 및 지역
+335;substance;일상 및 여가 생활;명;물질, 본질, 실체;The substance of his argument was hard to refute.;;;;;;;국제 및 지역
+336;realistic;일상 및 여가 생활;형;현실적인, 현실주의의;We need to take a realistic approach to solving this problem.;;;;;;;국제 및 지역
+337;encounter;음식과 요리;동;(우연히) 만나다;He never expected to encounter such a strange creature in the woods.;명;마주침;Their chance encounter led to a lifelong friendship.;;;;국제 및 지역
+338;differ;일상 및 여가 생활;동;다르다, 의견을 달리하다;Their opinions differ on the best course of action.;;;;;;;국제 및 지역
+339;principle;일상 및 여가 생활;명;원칙, 원리;She adheres to a strict set of moral principles.;;;;;;;국제 및 지역
+340;memorize;스포츠;동;기억하다;It's essential to memorize your lines for the play.;;;;;;;국제 및 지역
+341;physics;교육과 학습;명;물리학;He's studying physics at university.;;;;;;;국제 및 지역
+342;evaluate;일상 및 여가 생활;동;평가하다;We need to evaluate the effectiveness of our marketing strategy.;;;;;;;국제 및 지역
+343;tremendous;일상 및 여가 생활;형;굉장한, 무시무시한;The project achieved tremendous success in a short period.;;;;;;;국제 및 지역
+344;application;일상 및 여가 생활;명;적용, 신청;You need to submit your application before the deadline.;;;;;;;국제 및 지역
+345;vote;정치, 법률 및 사회;명;투표;The candidate won the majority of the votes in the election.;동;투표하다;We will vote on the proposal during the meeting.;;;;국제 및 지역
+346;spread;일상 및 여가 생활;명;퍼짐, 확산;The spread of the disease was rapid.;동;퍼지다, 확장되다;The fire quickly spread through the forest.;;;;국제 및 지역
+347;impact;정치, 법률 및 사회;명;충격, 영향;The new policy had a significant impact on the company.;동;충격을 주다;The crash impact damaged the front of the car.;;;;국제 및 지역
+348;cooperate;문화와 예술;동;협력하다;We need to cooperate with other departments to achieve our goals.;;;;;;;국제 및 지역
+349;emit;음식과 요리;동;(빛, 열, 소리 등을)방출하다;The sun emits light and heat.;;;;;;;국제 및 지역
+350;request;일상 및 여가 생활;명;요청;I submitted a request for additional funding.;동;요청하다;You need to request permission before accessing the files.;;;;국제 및 지역
+351;guarantee;일상 및 여가 생활;동;보장하다;We guarantee satisfaction with our products.;;;;;;;국제 및 지역
+352;resist;일상 및 여가 생활;동;저항하다;It's hard to resist the temptation of chocolate.;;;;;;;국제 및 지역
+353;fulfill;일상 및 여가 생활;동;달성하다, 이행하다;We aim to fulfill our promises to our customers.;;;;;;;국제 및 지역
+354;stink;문화와 예술;동;역겹다, 악취를 풍기다;The garbage started to stink after a few days.;;;;;;;국제 및 지역
+355;grant;일상 및 여가 생활;동;수여하다, 승인하다;The foundation will grant scholarships to deserving students.;;;;;;;국제 및 지역
+356;rely;일상 및 여가 생활;동;의지하다, 믿다;We rely on your expertise to solve this problem.;;;;;;;국제 및 지역
+357;permanent;일상 및 여가 생활;형;영원한, 영구적인;The tattoo left a permanent mark on his skin.;;;;;;;국제 및 지역
+358;emergency;일상 및 여가 생활;명;비상 사태;In case of emergency, dial 911.;;;;;;;국제 및 지역
+359;rid;일상 및 여가 생활;동;제거하다;We need to rid the house of pests.;;;;;;;국제 및 지역
+360;theme;문화와 예술;명;주제, 화제;The theme of the party was 'under the sea'.;;;;;;;국제 및 지역
+361;hesitate;일상 및 여가 생활;동;주저하다, 망설이다;Don't hesitate to ask if you need help.;;;;;;;국제 및 지역
+362;location;일상 및 여가 생활;명;위치, 장소;The location of the new store is excellent.;;;;;;;국제 및 지역
+363;restrict;일상 및 여가 생활;동;제한하다, 한정하다;The new regulations will restrict access to certain areas.;;;;;;;국제 및 지역
+364;organism;일상 및 여가 생활;명;유기체, 생물;The pond teems with various aquatic organisms.;;;;;;;국제 및 지역
+365;resolve;일상 및 여가 생활;동;해결하다, 결심하다;She resolved to overcome her fears and pursue her dreams.;;;;;;;인간과 사회
+366;offer;일상 및 여가 생활;동;제공하다, 제안하다;The company offered a generous compensation package.;;;;;;;일상 생활
+367;distribute;일상 및 여가 생활;동;분배하다, 분포시키다;We will distribute the flyers to every household in the neighborhood.;;;;;;;국제 및 지역
+368;rainforest;일상 및 여가 생활;명;열대우림;The Amazon rainforest is home to countless species of plants and animals.;;;;;;;국제 및 지역
+369;circumstance;일상 및 여가 생활;명;상황, 환경;Under the circumstances, I think we made the right decision.;;;;;;;국제 및 지역
+370;interpret;일상 및 여가 생활;동;해석하다, 통역하다;The translator interpreted the speaker's words into English.;;;;;;;국제 및 지역
+371;suitable;일상 및 여가 생활;형;적절한, 적합한;This textbook is suitable for students of all levels.;;;;;;;인간과 사회
+372;curve;일상 및 여가 생활;명;곡선, 속임수;The road curved sharply to the left.;;;;;;;국제 및 지역
+373;annoy;문화와 예술;동;괴롭히다, 귀찮게 하다;His constant interruptions were starting to annoy me.;;;;;;;인간과 사회
+374;frighten;일상 및 여가 생활;동;겁먹게 하다;The sudden loud noise frightened the children.;;;;;;;국제 및 지역
+375;estimate;일상 및 여가 생활;동;평가하다;It's difficult to estimate the cost of the project without more information.;명;견적, 평가;The estimate for the repair work was much higher than expected.;;;;국제 및 지역
+376;refuse;일상 및 여가 생활;동;거절하다;He refused to accept the offer.;;;;;;;인간과 사회
+377;adventure;일상 및 여가 생활;명;모험;They embarked on an exciting adventure through the jungle.;;;;;;;국제 및 지역
+378;entrance;일상 및 여가 생활;명;입구, 입장;The entrance to the building was grand and imposing.;;;;;;;국제 및 지역
+379;persuade;일상 및 여가 생활;동;설득하다;She tried to persuade him to change his mind.;;;;;;;국제 및 지역
+380;perceive;일상 및 여가 생활;동;인지하다, 인식하다;Different people perceive the same situation in different ways.;;;;;;;국제 및 지역
+381;recite;일상 및 여가 생활;동;암송하다;The students were asked to recite a poem from memory.;;;;;;;국제 및 지역
+382;gather;일상 및 여가 생활;동;모으다;We'll gather data from various sources before making a decision.;;;;;;;국제 및 지역
+383;cabin;일상 및 여가 생활;명;객실, 선실, 오두막집;They stayed in a cozy cabin in the woods.;;;;;;;국제 및 지역
+384;gear;일상 및 여가 생활;명;장비,  기어;Make sure you have all the necessary camping gear before you leave.;동;맞게 조정하다;He quickly geared up for the challenging hike ahead.;;;;국제 및 지역
+385;ray;일상 및 여가 생활;명;광선;The sunlight filtered through the window in bright rays.;;;;;;;국제 및 지역
+386;release;일상 및 여가 생활;동;놓아주다, 방출하다;The company will release a new product next month.;명;석방, 발표;The release of the latest smartphone generated a lot of buzz.;;;;국제 및 지역
+387;rank;일상 및 여가 생활;명;지위, 계급;He rose through the ranks to become CEO.;동;매기다, (등급을)차지하다;The movie ranked first at the box office for three consecutive weeks.;;;;국제 및 지역
+388;symphony;일상 및 여가 생활;명;교향곡;The orchestra performed Beethoven's Symphony No. 9.;;;;;;;국제 및 지역
+389;envy;일상 및 여가 생활;동;부러워하다;She envied her friend's success.;명;부러움;His success was the envy of his peers.;;;;국제 및 지역
+390;corporate;경제, 금융 및 산업;형;회사의, 법인의;The corporate culture of the company encourages innovation.;;;;;;;국제 및 지역
+391;alternative;일상 및 여가 생활;명;대안;We need to consider alternative solutions to the problem.;형;대안의;This solution provides an alternative approach to the traditional method.;;;;국제 및 지역
+392;retire;일상 및 여가 생활;동;은퇴하다;He decided to retire after working for 40 years.;;;;;;;국제 및 지역
+393;appeal;경제, 금융 및 산업;동;호소하다, 관심을 끌다;The charity's appeal for donations raised a significant amount of money.;명;호소, 항의;The appeal of the movie lies in its gripping storyline.;;;;국제 및 지역
+394;identical;일상 및 여가 생활;형;동일한, 일란성의;The twins looked nearly identical.;;;;;;;국제 및 지역
+395;investment;경제, 금융 및 산업;명;투자;He made a wise investment in the stock market.;;;;;;;국제 및 지역
+396;autograph;일상 및 여가 생활;명;서명;She asked the actor for his autograph.;동;서명하다;The celebrity autographed posters for her fans.;;;;국제 및 지역
+397;slave;일상 및 여가 생활;명;노예;Slavery was abolished in the 19th century.;;;;;;;국제 및 지역
+398;harm;건강과 의료;명;손해, 손상;Smoking can cause serious harm to your health.;동;해치다;Please be careful not to harm the delicate ecosystem.;;;;국제 및 지역
+399;authority;정치, 법률 및 사회;명;권위, 당국;The government has the authority to enforce laws.;;;;;;;국제 및 지역
+400;innocence;일상 및 여가 생활;명;결백, 무죄, 순진;He maintained his innocence throughout the trial.;;;;;;;국제 및 지역
+401;infant;일상 및 여가 생활;명;유아, 유치원생;Babies are born as infants.;;;;;;;국제 및 지역
+402;calculate;일상 및 여가 생활;동;계산하다;We need to calculate the total cost of the project.;;;;;;;국제 및 지역
+403;charity;일상 및 여가 생활;명;자선 단체;Supporting a local charity can make a big difference in the community.;;;;;;;국제 및 지역
+404;receive;일상 및 여가 생활;동;받다;She was excited to receive a gift from her friend.;;;;;;;국제 및 지역
+405;whereas;음악과 엔터테인먼트;접;그런데, ~에 반해서;I enjoy reading, whereas my sister prefers watching movies.;;;;;;;국제 및 지역
+406;board;일상 및 여가 생활;명;판자, 게시판;Please write your name on the board.;동;타다;The passengers began to board the plane.;;;;국제 및 지역
+407;ignorant;일상 및 여가 생활;형;무지한, 무식한;He was ignorant of the consequences of his actions.;;;;;;;국제 및 지역
+408;depend;스포츠;동;의존하다, ~에 달려 있다;Our success depends on teamwork.;;;;;;;국제 및 지역
+409;pure;일상 및 여가 생활;형;순수한, 깨끗한;The water in the mountain stream is pure and clear.;;;;;;;국제 및 지역
+410;extinct;일상 및 여가 생활;형;멸종된, 사라진;The dodo bird is an extinct species.;;;;;;;국제 및 지역
+411;household;일상 및 여가 생활;명;가정;We need to buy groceries for the household.;형;가정의;Household chores include cooking and cleaning.;;;;국제 및 지역
+412;chapter;일상 및 여가 생활;명;(책의) 장, 시기, 사제단;The final chapter of the book revealed the truth about the mystery.;;;;;;;국제 및 지역
+413;refund;일상 및 여가 생활;동;환불하다;I returned the item to the store and requested a refund.;명;환불금;They issued a refund for the defective product.;;;;국제 및 지역
+414;institute;과학과 기술;명;기관, 협회;The institute conducts research on environmental issues.;;;;;;;국제 및 지역
+415;lately;일상 및 여가 생활;부;최근에;"I haven't seen him lately; he must be busy.";;;;;;;국제 및 지역
+416;accept;일상 및 여가 생활;동;받아들이다;She finally accepted the job offer after much consideration.;;;;;;;국제 및 지역
+417;ashamed;문화와 예술;형;부끄러워하는;She felt ashamed of her behavior at the party.;;;;;;;국제 및 지역
+418;dense;일상 및 여가 생활;형;밀집한, (앞이 안 보이게) 짙은;The forest became dense as we ventured deeper into it.;;;;;;;국제 및 지역
+419;rescue;일상 및 여가 생활;동;구출하다;The firefighters rescued the cat from the burning building.;명;구출;The rescue of the hikers trapped in the mountains was successful.;;;;국제 및 지역
+420;continue;일상 및 여가 생활;동;계속하다;We will continue our efforts until we achieve our goal.;;;;;;;국제 및 지역
+421;destination;일상 및 여가 생활;명;목적지;Their dream vacation spot was their ultimate destination.;;;;;;;국제 및 지역
+422;expand;일상 및 여가 생활;동;확장되다, 확장시키다;The company plans to expand its operations overseas.;;;;;;;국제 및 지역
+423;evolution;문화와 예술;명;진화, 발전;The theory of evolution explains the diversity of life on Earth.;;;;;;;국제 및 지역
+424;hire;일상 및 여가 생활;동;고용하다;The company decided to hire additional staff for the project.;;;;;;;국제 및 지역
+425;isolate;교육과 학습;동;고립시키다, 격리시키다;The scientists isolated the bacteria in the lab for study.;;;;;;;국제 및 지역
+426;gravity;일상 및 여가 생활;명;중력;The apple fell from the tree due to the force of gravity.;;;;;;;국제 및 지역
+427;genuine;일상 및 여가 생활;형;진짜의, 진실된;I could tell by her genuine smile that she was happy.;;;;;;;국제 및 지역
+428;statue;일상 및 여가 생활;명;조각상;The city erected a statue in honor of the founding father.;;;;;;;국제 및 지역
+429;compete;일상 및 여가 생활;동;경쟁하다;Athletes from around the world will compete in the Olympics.;;;;;;;국제 및 지역
+430;military;일상 및 여가 생활;형;군의, 군사의;He served in the military for ten years.;명;군, 군대;The military conducted a training exercise in the desert.;;;;국제 및 지역
+431;logic;정치, 법률 및 사회;명;논리, 논리학;She used flawless logic to argue her case.;;;;;;;국제 및 지역
+432;commit;일상 및 여가 생활;동;(죄 등을) 저지르다, 약속하다, 헌신하다;He committed a crime and was arrested by the police.;;;;;;;국제 및 지역
+433;sensible;경제, 금융 및 산업;형;합리적인, 현명한;It would be sensible to save some money for emergencies.;;;;;;;국제 및 지역
+434;sum;일상 및 여가 생활;명;금액, 합계;The total sum of their expenses exceeded their budget.;;;;;;;국제 및 지역
+435;conserve;기타;동;보존하다, 보호하다;We need to conserve energy to protect the environment.;;;;;;;국제 및 지역
+436;swing;스포츠;동;흔들다, 휘두르다;The children were swinging on the playground swings.;;;;;;;국제 및 지역
+437;marriage;일상 및 여가 생활;명;결혼, 결혼 생활;Their marriage lasted for over fifty years.;;;;;;;국제 및 지역
+438;reproduce;일상 및 여가 생활;동;번식하다, 재생하다, 복제하다;The goal of every species is to reproduce and pass on its genes.;;;;;;;국제 및 지역
+439;tone;일상 및 여가 생활;명;음조, 어조, 억양;Her tone of voice indicated that she was upset.;동;조화하다, 탄력있게 만들다;She tried to tone down her criticism to avoid hurting his feelings.;;;;국제 및 지역
+440;concept;일상 및 여가 생활;명;개념;The concept of time is difficult for young children to grasp.;;;;;;;국제 및 지역
+441;invitation;일상 및 여가 생활;명;초대;She received an invitation to the wedding.;;;;;;;국제 및 지역
+442;precise;일상 및 여가 생활;형;정확한, 정밀한;The instructions must be followed with precise attention to detail.;;;;;;;국제 및 지역
+443;formal;일상 및 여가 생활;형;공식적인, 격식을 차린;He wore a formal suit to the wedding.;;;;;;;국제 및 지역
+444;particle;문화와 예술;명;작은 조각, 입자;Particles of dust floated in the sunlight.;;;;;;;국제 및 지역
+445;cancel;음식과 요리;동;취소하다;They had to cancel the concert due to bad weather.;;;;;;;국제 및 지역
+446;return;일상 및 여가 생활;동;돌아가다, 돌려주다;He promised to return the book to the library by the due date.;명;돌아감, 귀향;Their return home after years of traveling was a joyous occasion.;;;;국제 및 지역
+447;departure;문화와 예술;명;출발, 떠남, 일탈;The departure of the train was delayed by thirty minutes.;;;;;;;국제 및 지역
+448;apparent;일상 및 여가 생활;형;명백한;His lack of interest was apparent from his bored expression.;;;;;;;국제 및 지역
+449;visual;음식과 요리;형;눈에 보이는, 시각의;The artist created a stunning visual masterpiece.;;;;;;;국제 및 지역
+450;agriculture;경제, 금융 및 산업;명;농업;The country relies heavily on agriculture for its economy.;;;;;;;국제 및 지역
+451;rite;문화와 예술;명;의식, 의례;The wedding ceremony included traditional rites and rituals.;;;;;;;국제 및 지역
+452;poverty;정치, 법률 및 사회;명;가난;The government implemented programs to alleviate poverty.;;;;;;;국제 및 지역
+453;sculpture;문화와 예술;명;조각상;The museum displayed ancient sculptures from various civilizations.;;;;;;;국제 및 지역
+454;descend;일상 및 여가 생활;동;내려가다, 내려오다;The hikers began to descend the mountain as night fell.;;;;;;;국제 및 지역
+455;leak;문화와 예술;동;새다;The roof of the house started to leak during the heavy rain.;;;;;;;국제 및 지역
+456;portion;음식과 요리;명;부분, 1인분;She served herself a generous portion of food.;;;;;;;국제 및 지역
+457;companion;일상 및 여가 생활;명;친구, 동료;She went for a walk with her faithful canine companion.;;;;;;;국제 및 지역
+458;diligent;일상 및 여가 생활;형;근면한;He was known for his diligent work ethic.;;;;;;;국제 및 지역
+459;distinct;일상 및 여가 생활;형;뚜렷한, 다른;Each species has distinct characteristics.;;;;;;;국제 및 지역
+460;component;일상 및 여가 생활;명;구성 요소;The engine consists of many intricate components.;;;;;;;국제 및 지역
+461;current;일상 및 여가 생활;형;현재의, 지금의;We need to stay informed about current events.;;;;;;;국제 및 지역
+462;universal;일상 및 여가 생활;형;보편적인, 전 세계의;The desire for happiness is universal among all people.;;;;;;;국제 및 지역
+463;trap;일상 및 여가 생활;명;덫;The hunter set a trap to catch the elusive rabbit.;동;가두다;They managed to trap the mouse in a box.;;;;국제 및 지역
+464;eager;문화와 예술;형;갈망하는;She was eager to start her new job.;;;;;;;국제 및 지역
+465;legal;정치, 법률 및 사회;형;법률의, 합법적인;He sought legal advice before signing the contract.;;;;;;;국제 및 지역
+466;demonstrate;과학과 기술;동;입증하다, 시위하다, 설명하다;The scientist demonstrated the experiment to the students.;;;;;;;인간과 사회
+467;democracy;일상 및 여가 생활;명;민주주의;The country transitioned to a democracy after years of dictatorship.;;;;;;;국제 및 지역
+468;mature;일상 및 여가 생활;형;성숙한;She showed a mature understanding of the situation.;동;성숙하다;He needed time to mature emotionally.;;;;국제 및 지역
+469;brilliant;스포츠;형;빛나는, 훌륭한;Her performance in the play was brilliant.;;;;;;;국제 및 지역
+470;annual;문화와 예술;형;연간의, 해마다의;The annual conference attracts participants from around the world.;;;;;;;국제 및 지역
+471;faith;일상 및 여가 생활;명;믿음, 신념;Her faith in humanity remained unshaken despite the hardships.;;;;;;;국제 및 지역
+472;spare;일상 및 여가 생활;동;(시간, 돈을) 할애하다, (고생을) 면하게 하다;She spared no effort in completing the project on time.;형;여분의;Do you have any spare change for the parking meter?;;;;국제 및 지역
+473;transfer;문화와 예술;동;이동하다, 옮기다, 환승하다;She decided to transfer to a different department within the company.;명;이;The transfer of funds was completed electronically.;동;환승;We need to transfer to another train to reach our destination.;국제 및 지역
+474;refrigerator;일상 및 여가 생활;명;냉장고;She stored the leftovers in the refrigerator.;;;;;;;국제 및 지역
+475;oppose;정치, 법률 및 사회;동;반대하다;Many people oppose the new law.;;;;;;;국제 및 지역
+476;desperate;음식과 요리;형;절망적인, 필사적인;The refugees were in desperate need of food and shelter.;;;;;;;국제 및 지역
+477;remote;일상 및 여가 생활;형;멀리 떨어진, 원격 조정의;Their village was located in a remote area of the mountains.;;;;;;;국제 및 지역
+478;offend;일상 및 여가 생활;동;불쾌하게 하다;She didn't mean to offend anyone with her comments.;;;;;;;국제 및 지역
+479;awake;일상 및 여가 생활;형;깨어있는;He was wide awake despite the late hour.;;;;;;;국제 및 지역
+480;aim;일상 및 여가 생활;동;목표로 하다, 겨누다;Her aim was to finish the race in under two hours.;명;목표;Setting realistic aims can help you achieve success.;;;;국제 및 지역
+481;option;일상 및 여가 생활;명;선택, 선택권;You have the option to pay by cash or credit card.;;;;;;;국제 및 지역
+482;insight;일상 및 여가 생활;명;통찰력;His insights into the market trends were invaluable.;;;;;;;국제 및 지역
+483;achieve;일상 및 여가 생활;동;이루다, 성취하다;She worked hard to achieve her goals.;;;;;;;국제 및 지역
+484;civil;문화와 예술;형;시민의, 민간의;Civil liberties are essential for a democratic society.;;;;;;;국제 및 지역
+485;pause;일상 및 여가 생활;동;잠시 멈추다;She paused for a moment to collect her thoughts.;명;중단;There was a brief pause in the conversation.;;;;국제 및 지역
+486;prove;정치, 법률 및 사회;동;입증하다;He needed to prove his innocence in court.;;;;;;;인간과 사회
+487;lecture;과학과 기술;명;강의;The professor delivered an engaging lecture on neuroscience.;동;강의를 하다;She was invited to lecture at the prestigious university.;;;;국제 및 지역
+488;minor;일상 및 여가 생활;명;미성년자, 사소한;He was still a minor at the time of the accident.;형;사소한, 중요하지 않은;The issue was minor and easily resolved.;동;부전공하다;She decided to minor in psychology while majoring in biology.;국제 및 지역
+489;duty;일상 및 여가 생활;명;의무, 관세;It's my duty to take care of my family.;;;;;;;국제 및 지역
+490;vigor;일상 및 여가 생활;명;활력;Despite his age, he approached the task with vigor.;;;;;;;국제 및 지역
+491;organize;일상 및 여가 생활;동;조직하다, 구성하다;She helped organize the charity event.;;;;;;;비즈니스와 경제
+492;chief;일상 및 여가 생활;명;우두머리;The chief of police arrived at the scene of the crime.;형;우두머리의, 주요한;The chief concern was the safety of the passengers.;;;;국제 및 지역
+493;complicated;일상 및 여가 생활;형;복잡한;The instructions were complicated and difficult to understand.;;;;;;;국제 및 지역
+494;digest;음식과 요리;동;소화하다;It takes time for the body to digest heavy foods.;명;요약;He wrote a digest of the main points discussed in the meeting.;;;;국제 및 지역
+495;shortage;일상 및 여가 생활;명;부족, 결함;There is a shortage of affordable housing in the city.;;;;;;;국제 및 지역
+496;laboratory;과학과 기술;명;실험실;The scientists conducted experiments in the laboratory.;;;;;;;국제 및 지역
+497;arrive;일상 및 여가 생활;동;도착하다;They arrived at their destination after a long journey.;;;;;;;국제 및 지역
+498;generous;일상 및 여가 생활;형;관대한, 넉넉한;She was known for her generous donations to charity.;;;;;;;국제 및 지역
+499;laundry;일상 및 여가 생활;명;세탁물;She hung the laundry out to dry in the sun.;;;;;;;국제 및 지역
+500;transform;일상 및 여가 생활;동;변형시키다, 변환하다;The caterpillar will transform into a butterfly.;;;;;;;국제 및 지역
+501;discipline;일상 및 여가 생활;명;규율, 훈련;The military emphasizes discipline.;동;훈육하다, 징계하다;Parents discipline their children to instill good behavior.;;;;국제 및 지역
+502;forbid;교육과 학습;동;금지하다;The teacher forbids students from using their phones during class.;;;;;;;국제 및 지역
+503;ultimate;일상 및 여가 생활;형;궁극적인, 최후의;The ultimate goal of the project is to increase efficiency.;;;;;;;국제 및 지역
+504;thrive;경제, 금융 및 산업;동;번영하다, 발전하다;The business thrives in a competitive market.;;;;;;;국제 및 지역
+505;conversation;기타;명;대화, 회담;Meaningful conversations enhance relationships.;;;;;;;국제 및 지역
+506;bet;문화와 예술;명;내기;Participants place bets on the outcome of the race.;형;돈을 걸고 있는;He is known for being a bet enthusiast.;;;;국제 및 지역
+507;royal;일상 및 여가 생활;형;왕족의, 왕의;The royal family resides in the palace.;;;;;;;국제 및 지역
+508;ruin;일상 및 여가 생활;동;망치다, 파멸시키다;The storm ruined the crops.;명;파멸, 파산;The economic ruin resulted in widespread unemployment.;;;;국제 및 지역
+509;worship;일상 및 여가 생활;동;숭배하다, 예배하다;People worship in the church on Sundays.;명;숭배, 예배;The ritual of worship brings communities together.;;;;국제 및 지역
+510;evil;일상 및 여가 생활;형;사악한;Evil intentions lead to harmful actions.;명;악;The battle between good and evil continues.;;;;국제 및 지역
+511;scarce;일상 및 여가 생활;형;부족한, 드문;Clean water is scarce in arid regions.;;;;;;;국제 및 지역
+512;afterward;일상 및 여가 생활;부;나중에, 그 후에;The meeting ended, and afterward, we went for lunch.;;;;;;;국제 및 지역
+513;client;정치, 법률 및 사회;명;고객, 의뢰인;The lawyer met with a new client to discuss the case.;;;;;;;국제 및 지역
+514;insure;일상 및 여가 생활;동;보험을 계약하다, 안전하게 하다;It's important to insure your car against accidents.;;;;;;;국제 및 지역
+515;fancy;문화와 예술;명;공상;His artwork reflects a touch of fancy.;형;화려한;She wore a fancy dress to the party.;동;상상하다;Children often fancy themselves as superheroes.;국제 및 지역
+516;surgery;일상 및 여가 생활;명;외과 수술;She underwent surgery to remove the tumor.;;;;;;;국제 및 지역
+517;assign;교육과 학습;동;할당하다, 지정하다;The teacher assigns homework to students every day.;;;;;;;국제 및 지역
+518;regulate;문화와 예술;동;규제하다, 조절하다;Government agencies regulate the use of pesticides in agriculture.;;;;;;;국제 및 지역
+519;shelf;일상 및 여가 생활;명;선반;He placed the books on the top shelf.;;;;;;;국제 및 지역
+520;utility;일상 및 여가 생활;명;공익사업, 유용성;The utility of renewable energy sources is becoming more apparent.;;;;;;;국제 및 지역
+521;necessity;일상 및 여가 생활;명;필요, 필수, 필수품;Clean water is a necessity for life.;;;;;;;국제 및 지역
+522;yield;일상 및 여가 생활;동;생산하다, 굴복하다, 양도하다;Farmers hope for a high yield of crops this season.;명;수확(물);The yield of the investment exceeded expectations.;;;;국제 및 지역
+523;decline;일상 및 여가 생활;명;감소, 쇠퇴;There has been a decline in the population of endangered species.;동;감소하다, 쇠퇴하다, 거절하다;The company's profits continue to decline.;;;;인간과 사회
+524;coincidence;일상 및 여가 생활;명;우연의 일치, 동시에 일어난 사건;Their meeting was merely a coincidence.;;;;;;;국제 및 지역
+525;aside;일상 및 여가 생활;부;한쪽으로, 제쳐 두고;He pushed the books aside to make space on the desk.;;;;;;;국제 및 지역
+526;contemporary;음식과 요리;형;현대의, 동시대의;The museum features contemporary artwork.;;;;;;;국제 및 지역
+527;bless;일상 및 여가 생활;동;축복하다, 감사하다;She blessed the newlyweds with a long and happy marriage.;;;;;;;국제 및 지역
+528;explain;교육과 학습;동;설명하다;The teacher explained the math problem step by step.;;;;;;;인간과 사회
+529;prior;일상 및 여가 생활;형;이전의, 우선하는;He had a prior commitment and couldn't attend the meeting.;;;;;;;국제 및 지역
+530;tolerate;교육과 학습;동;참다, 용인하다;Parents must teach children to tolerate differences.;;;;;;;국제 및 지역
+531;measure;일상 및 여가 생활;동;측정하다;He used a ruler to measure the length of the table.;명;측정, 수단;The new safety measures significantly reduced accidents.;;;;국제 및 지역
+532;abstract;문화와 예술;형;추상적인;The painting was an abstract representation of emotions.;명;추상, 개요;The book begins with an abstract outlining the main points.;;;;국제 및 지역
+533;cottage;일상 및 여가 생활;명;오두막집;They rented a cottage by the lake for their vacation.;;;;;;;국제 및 지역
+534;correct;일상 및 여가 생활;형;올바른, 정확한;Please provide the correct answer to the question.;동;바로잡다, 정정하다;She corrected her mistake after realizing it.;;;;국제 및 지역
+535;confirm;건강과 의료;동;확인하다, 입증하다, (결심을) 굳게 하다;The doctor confirmed the diagnosis after running tests.;;;;;;;인간과 사회
+536;imitate;일상 및 여가 생활;동;모방하다;Children often imitate their parents' behavior.;;;;;;;국제 및 지역
+537;prey;일상 및 여가 생활;명;먹이, 희생자;The lion stalked its prey in the tall grass.;;;;;;;국제 및 지역
+538;defeat;일상 및 여가 생활;동;패배시키다;The team defeated their rivals in the championship game.;명;패배;They were disappointed by their defeat in the final match.;;;;국제 및 지역
+539;illustrate;일상 및 여가 생활;동;설명하다, (분명히) 보여주다, 삽화를 넣다;The diagram illustrates the process of photosynthesis.;;;;;;;인간과 사회
+540;fuse;일상 및 여가 생활;명;퓨즈, 도화선;He replaced the blown fuse in the electrical panel.;동;융합하다;The two companies merged to fuse their resources.;;;;국제 및 지역
+541;pupil;교육과 학습;명;학생, 눈동자;The teacher praised the pupil for excellent performance.;;;;;;;국제 및 지역
+542;intellect;일상 및 여가 생활;명;지성;Her intellect allowed her to solve complex problems.;;;;;;;국제 및 지역
+543;spice;일상 및 여가 생활;명;향신료, 양념;She added a pinch of spice to enhance the flavor.;;;;;;;국제 및 지역
+544;tempt;일상 및 여가 생활;동;유혹하다 (관심을) 끌다;The delicious aroma tempted him to try the dessert.;;;;;;;국제 및 지역
+545;inspire;일상 및 여가 생활;동;영감을 주다, 고무시키다, 격려하다;Her speech inspired the audience to pursue their dreams.;;;;;;;국제 및 지역
+546;dine;일상 및 여가 생활;동;식사하다, 만찬을 대접하다;They chose to dine at an elegant restaurant for their anniversary.;;;;;;;국제 및 지역
+547;literally;일상 및 여가 생활;부;문자 그대로;He took the phrase literally and misunderstood its meaning.;;;;;;;국제 및 지역
+548;appropriate;일상 및 여가 생활;형;적절한;It's important to choose the appropriate words for the occasion.;;;;;;;인간과 사회
+549;resort;일상 및 여가 생활;명;휴양지, 의지;They decided to go to a beach resort for their vacation.;동;의지하다, 자주 가다;He resorted to asking for help when he couldn't solve the problem.;;;;국제 및 지역
+550;grab;일상 및 여가 생활;동;움켜쥐다;He grabbed his coat and rushed out the door.;명;움켜쥠;She made a quick grab for the falling vase.;;;;국제 및 지역
+551;propose;일상 및 여가 생활;동;제안하다, 청혼하다;He proposed a new strategy for increasing sales.;;;;;;;국제 및 지역
+552;wreck;일상 및 여가 생활;명;난파선, 사고;The wreck of the ship was visible from the shore.;동;난파시키다;The storm wrecked havoc on the coastal town.;;;;국제 및 지역
+553;document;일상 및 여가 생활;명;문서, 서류;Please submit the required documents with your application.;동;기록하다;She documented her travels in a journal.;;;;국제 및 지역
+554;suspect;일상 및 여가 생활;동;의심하다;The police suspected him of committing the crime.;명;용의자;The suspect was arrested after a lengthy investigation.;;;;국제 및 지역
+555;alien;일상 및 여가 생활;형;외국의, 이질적인;The concept seemed alien to him at first.;명;외국인, 외계인;The movie depicted an encounter with an alien species.;;;;국제 및 지역
+556;prohibit;일상 및 여가 생활;동;금지하다;The sign prohibits parking in this area.;;;;;;;국제 및 지역
+557;install;과학과 기술;동;설치하다;He hired a technician to install the new software.;;;;;;;국제 및 지역
+558;triumph;일상 및 여가 생활;명;승리;The team celebrated their triumph in the championship game.;동;승리하다;She triumphed over adversity to achieve her goals.;;;;국제 및 지역
+559;scholarship;교육과 학습;명;장학금, 학문;He received a scholarship to study abroad.;;;;;;;국제 및 지역
+560;execute;일상 및 여가 생활;동;실행하다, 처형하다;The CEO decided to execute the plan immediately.;;;;;;;국제 및 지역
+561;ensure;정치, 법률 및 사회;동;반드시 ~하게 하다, 보장하다, 확실하게 하다;The insurance policy ensures financial security for the family.;;;;;;;국제 및 지역
+562;receipt;일상 및 여가 생활;명;영수증;Please keep your receipt as proof of purchase.;;;;;;;국제 및 지역
+563;defect;일상 및 여가 생활;명;결점, 결함;The product was returned due to a defect in manufacturing.;동;(국가•당 등을) 버리다;He chose to defect to the opposing political party.;;;;국제 및 지역
+564;trait;일상 및 여가 생활;명;특징, 특성;His sense of humor is one of his most endearing traits.;;;;;;;과학과 기술
+565;modest;일상 및 여가 생활;형;겸손한, 미천한, 알맞은;She lived in a modest house in the countryside.;;;;;;;국제 및 지역
+566;virtual;일상 및 여가 생활;형;실제의, 가상의, 사실상의;Virtual reality allows users to experience imaginary worlds.;;;;;;;국제 및 지역
+567;compare;일상 및 여가 생활;동;비교하다, 비유하다;She compared the two products before making a decision.;;;;;;;국제 및 지역
+568;address;일상 및 여가 생활;명;주소, 연설, 인사말;He wrote his address on the envelope.;동;연설하다, 접근하다;The mayor will address the crowd at the ceremony.;;;;국제 및 지역
+569;inner;일상 및 여가 생활;형;안쪽의, 내적인, 내부의;She focused on her inner thoughts during meditation.;;;;;;;국제 및 지역
+570;contrary;일상 및 여가 생활;형;반대의, 불리한;His actions were contrary to his words.;명;정반대, 반대의 것;Despite his protests, the decision was made contrary to his wishes.;;;;국제 및 지역
+571;split;일상 및 여가 생활;동;나뉘다, 분열되다, 찢다, 쪼개다;The board members were split on the issue.;명;틈, 분열;The split in the company's leadership led to chaos.;;;;국제 및 지역
+572;supervise;일상 및 여가 생활;동;감독하다, 관리하다, 통제하다;The manager supervises the employees to ensure productivity.;;;;;;;국제 및 지역
+573;inhabit;일상 및 여가 생활;동;~에 살다, 거주하다;The island is inhabited by a diverse range of wildlife.;;;;;;;국제 및 지역
+574;appear;일상 및 여가 생활;동;나타나다, 보이다;The sun appeared from behind the clouds.;;;;;;;국제 및 지역
+575;serve;일상 및 여가 생활;동;제공하다, 서빙하다, 복무하다;She served dinner to her guests.;;;;;;;국제 및 지역
+576;courage;음식과 요리;명;용기, 용기를 내다;She showed great courage in facing her fears.;;;;;;;국제 및 지역
+577;fashion;일상 및 여가 생활;명;유행, 패션;She followed the latest fashion trends.;동;만들다, 조성하다;He fashioned a makeshift raft out of driftwood.;;;;국제 및 지역
+578;display;문화와 예술;동;보이다, 전시하다;The museum displays artifacts from ancient civilizations.;;;;;;;국제 및 지역
+579;recruit;일상 및 여가 생활;동;모집하다, 신입사원을 뽑다;The company plans to recruit new employees next month.;;;;;;;국제 및 지역
+580;conquer;일상 및 여가 생활;동;정복하다, 이기다, 극복하다;The army sought to conquer new territories.;;;;;;;국제 및 지역
+581;nevertheless;일상 및 여가 생활;부;그럼에도 불구하고;"She was tired; nevertheless, she continued working.";;;;;;;국제 및 지역
+582;seal;일상 및 여가 생활;동;봉인하다;He used wax to seal the letter shut.;;;;;;;국제 및 지역
+583;greed;일상 및 여가 생활;명;탐욕, 식탐;His greed for power led to his downfall.;;;;;;;국제 및 지역
+584;contract;일상 및 여가 생활;명;계약, 계약서;They signed a contract to purchase the property.;동;계약하다, 수축하다;The muscles contract when you lift weights.;;;;국제 및 지역
+585;nutrition;건강과 의료;명;영양;She studied nutrition to improve her health.;;;;;;;국제 및 지역
+586;retail;일상 및 여가 생활;명;소매;She worked in retail for many years.;동;소매하다;The company decided to retail their products online.;부;소매로;He started his business with retail as his main distribution channel.;국제 및 지역
+587;prejudice;일상 및 여가 생활;명;편견, 선입관;He overcame his prejudice and became friends with his neighbor.;동;편견을 갖게 하다;The media's biased reporting can prejudice public opinion.;;;;국제 및 지역
+588;register;일상 및 여가 생활;동;등록하다, 기재하다;She forgot to register for the conference.;명;등록부;Please sign the register when you enter the building.;;;;국제 및 지역
+589;agency;정치, 법률 및 사회;명;기관, 대행사, 대리점;The government agency oversees environmental regulations.;;;;;;;국제 및 지역
+590;nurture;일상 및 여가 생활;동;양육하다, 양성하다, 교육하다;She tried to nurture a love of reading in her children.;명;교육, 양육;The school provided a nurturing environment for students to grow.;;;;국제 및 지역
+591;priest;일상 및 여가 생활;명;성직자;The priest performed the marriage ceremony.;;;;;;;국제 및 지역
+592;elegant;일상 및 여가 생활;형;우아한, 고상한;She wore an elegant gown to the gala.;;;;;;;국제 및 지역
+593;impose;정치, 법률 및 사회;동;부과하다, 강요하다;The government decided to impose new taxes.;;;;;;;국제 및 지역
+594;arise;일상 및 여가 생활;동;발생하다, 일어나다, 생겨나다;Issues arose during the negotiation process.;;;;;;;일상 생활
+595;modify;일상 및 여가 생활;동;수정하다, 변형하다;He had to modify his plans due to unforeseen circumstances.;;;;;;;국제 및 지역
+596;masterpiece;문화와 예술;명;대표작, 대작, 명작;The painting was considered a masterpiece of the Renaissance.;;;;;;;국제 및 지역
+597;harsh;일상 및 여가 생활;형;가혹한, 거친;The harsh winter weather made traveling difficult.;;;;;;;국제 및 지역
+598;drought;일상 및 여가 생활;명;가뭄;The drought caused crops to wither and die.;;;;;;;국제 및 지역
+599;criteria;일상 및 여가 생활;형;기준, 표준 (criterion의 복수형);The criteria for admission to the program were strict.;;;;;;;국제 및 지역
+600;extraordinary;일상 및 여가 생활;형;비범한, 기이한, 놀라운;The magician performed an extraordinary trick that left the audience in awe.;;;;;;;국제 및 지역
+601;dim;일상 및 여가 생활;형;희미한, 어둑한;The dim light of the moon cast eerie shadows.;동;어둑하게 하다;Turning off unnecessary lights helps to dim resources efficiently.;;;;국제 및 지역
+602;general;일상 및 여가 생활;형;일반적인, 전반적인;His remarks were too general and lacked specifics.;명;장군;Each general has its unique characteristics.;;;;국제 및 지역
+603;scream;일상 및 여가 생활;동;비명을 지르다;The child screamed in terror when she saw the spider.;명;비명;The scream pierced through the silence of the night.;;;;국제 및 지역
+604;spill;일상 및 여가 생활;동;흘리다, 쏟다;Be careful not to spill any water while carrying the bucket.;;;;;;;국제 및 지역
+605;glare;교육과 학습;동;노려보다, 반짝 반짝 빛나다;The angry teacher glared at the misbehaving students.;명;노려봄, 눈부신 빛;The glare of the sun made it difficult to see.;;;;국제 및 지역
+606;swallow;문화와 예술;명;삼킴, 제비;The swallow darted through the air catching insects.;동;삼키다;Swallowing large pills can be difficult for some people.;;;;국제 및 지역
+607;usual;일상 및 여가 생활;형;늘 하는, 흔히 있는;His usual routine consisted of breakfast, work, and then the gym.;;;;;;;국제 및 지역
+608;routine;일상 및 여가 생활;명;틀에 박힌 일;The morning routine included brushing teeth and washing face.;형;일상적인, 지루한;The routine tasks were completed without much thought.;;;;국제 및 지역
+609;eliminate;과학과 기술;동;제거하다, 삭제하다;The new software program helped to eliminate unnecessary steps in the process.;;;;;;;국제 및 지역
+610;deny;일상 및 여가 생활;동;부인하다, 거절하다;He denied any involvement in the crime.;;;;;;;인간과 사회
+611;sensitive;일상 및 여가 생활;형;민감한, 예민한;The sensitive microphone picked up even the faintest sounds.;;;;;;;국제 및 지역
+612;tragic;일상 및 여가 생활;형;비극적인;The tragic story of the Titanic continues to capture the imagination.;;;;;;;국제 및 지역
+613;deprive;일상 및 여가 생활;동;빼앗다, 강탈하다;The drought deprived the farmers of their livelihoods.;;;;;;;국제 및 지역
+614;conscious;일상 및 여가 생활;형;의식하는, 의식이 있는;She was conscious of every step she took in the unfamiliar surroundings.;;;;;;;국제 및 지역
+615;interfere;과학과 기술;동;간섭하다;Please refrain from interfering with the experiment.;;;;;;;국제 및 지역
+616;temporary;일상 및 여가 생활;형;임시의;The temporary shelter provided refuge for the homeless.;;;;;;;국제 및 지역
+617;council;일상 및 여가 생활;명;의회;The city council met to discuss the proposed budget.;;;;;;;국제 및 지역
+618;adolescent;일상 및 여가 생활;명;청소년;The adolescent years are a time of rapid growth and change.;형;청소년의;The adolescent population requires specific educational programs.;;;;국제 및 지역
+619;arctic;일상 및 여가 생활;형;북극의;The arctic winds howled outside the cabin.;;;;;;;국제 및 지역
+620;capture;기타;동;붇잡다, 점유하다;The photographer aimed to capture the beauty of nature in his photos.;;;;;;;국제 및 지역
+621;dilute;일상 및 여가 생활;형;묽은;Dilute the juice with water to make it less sweet.;동;묽게 하다, 약화시키다;Adding water will dilute the concentration of the solution.;;;;국제 및 지역
+622;associate;일상 및 여가 생활;동;연상하다, 어울리다;She didn't want to associate with people who brought negativity into her life.;명;동료;The business associate was impressed with his colleague's presentation.;;;;국제 및 지역
+623;figure;일상 및 여가 생활;명;숫자, 인물;The scientist scribbled figures on the chalkboard as she explained the data.;동;이해하다, 계산하다;He struggled to figure out the solution to the math problem.;;;;국제 및 지역
+624;warehouse;일상 및 여가 생활;명;창고;The warehouse stored thousands of boxes filled with merchandise.;;;;;;;국제 및 지역
+625;crew;일상 및 여가 생활;명;승무원, (특별한 기술의)팀;The airline crew prepared for takeoff.;동;승무원으로 일하다;She crewed on a fishing boat during the summer months.;;;;국제 및 지역
+626;barrier;일상 및 여가 생활;명;장벽, 장애물;The barrier prevented cars from entering the construction zone.;;;;;;;국제 및 지역
+627;pedestrian;일상 및 여가 생활;명;보행자;The pedestrian waited for the traffic light to change.;형;보행자의;The pedestrian pathway was lined with trees and benches.;;;;국제 및 지역
+628;glance;일상 및 여가 생활;동;흘꿋 보다;She glanced at her watch and realized she was running late.;명;흘끗 봄;A quick glance was all it took for her to recognize him.;;;;국제 및 지역
+629;errand;일상 및 여가 생활;명;심부름;She ran errands for her elderly neighbor every Saturday.;;;;;;;국제 및 지역
+630;irritate;음악과 엔터테인먼트;동;짜증나게 하다, 자극하다;The loud music irritated her sensitive ears.;;;;;;;국제 및 지역
+631;welfare;정치, 법률 및 사회;명;복지, 행복;The government implemented policies to improve the welfare of its citizens.;;;;;;;국제 및 지역
+632;cruel;건강과 의료;형;잔인한, 비참한;The cruel treatment of animals sparked outrage among animal rights activists.;;;;;;;국제 및 지역
+633;fold;일상 및 여가 생활;동;주름;She carefully folded the letter and placed it in the envelope.;동;접다;He taught her how to fold origami cranes.;;;;국제 및 지역
+634;trial;일상 및 여가 생활;명;재판, 시험;The defendant awaited trial for his alleged crimes.;;;;;;;국제 및 지역
+635;tribe;일상 및 여가 생활;명;부족;The tribe gathered around the fire to tell stories of their ancestors.;;;;;;;국제 및 지역
+636;profound;일상 및 여가 생활;형;깊은, 심오한;His profound knowledge of philosophy impressed his classmates.;;;;;;;국제 및 지역
+637;tradition;문화와 예술;명;전통;The tradition of exchanging gifts during the holidays dates back centuries.;;;;;;;국제 및 지역
+638;distinguish;일상 및 여가 생활;동;구별하다;She could easily distinguish between identical twins.;;;;;;;국제 및 지역
+639;statement;일상 및 여가 생활;명;진술, 성명, 진술서;The witness gave a statement to the police regarding the incident.;;;;;;;국제 및 지역
+640;prevail;정치, 법률 및 사회;동;만연하다, 우세하다;Despite the odds, justice will prevail in the end.;;;;;;;국제 및 지역
+641;widespread;일상 및 여가 생활;형;널리 퍼진;The flu epidemic became widespread across the country.;;;;;;;국제 및 지역
+642;result;과학과 기술;명;결과;The result of the experiment was unexpected.;;;;;;;국제 및 지역
+643;fade;일상 및 여가 생활;동;사라지다, (색깔이) 바래다;The colors of the sunset began to fade as darkness fell.;;;;;;;국제 및 지역
+644;progress;과학과 기술;명;진전, 진보;The progress made in medical research has saved countless lives.;동;진보하다;The project continues to progress despite setbacks.;;;;국제 및 지역
+645;weapon;일상 및 여가 생활;명;무기;The soldier carried a rifle, his primary weapon in combat.;;;;;;;국제 및 지역
+646;drastic;경제, 금융 및 산업;형;과감한, 격렬한;The company made drastic changes to its business model.;;;;;;;국제 및 지역
+647;reinforcement;일상 및 여가 생활;명;병력 증강, 강화;The reinforcement of troops along the border heightened tensions between the two countries.;;;;;;;국제 및 지역
+648;wonder;일상 및 여가 생활;동;궁금해하다, 놀라다;I wonder what the future holds for us.;명;놀라움;The sight of the Grand Canyon filled her with wonder.;;;;국제 및 지역
+649;pile;일상 및 여가 생활;명;더미;The pile of books on her desk grew taller each day.;동;쌓다;She piled the dirty laundry into the hamper.;;;;국제 및 지역
+650;protect;정치, 법률 및 사회;동;보호하다;It's the government's duty to protect its citizens.;;;;;;;국제 및 지역
+651;infection;일상 및 여가 생활;명;감염;The infection spread rapidly throughout the crowded city.;;;;;;;국제 및 지역
+652;stiffen;일상 및 여가 생활;동;굳어지다;His muscles began to stiffen after sitting in the same position for hours.;;;;;;;국제 및 지역
+653;endanger;일상 및 여가 생활;동;위험에 빠뜨리다;His reckless behavior endangered the lives of everyone around him.;;;;;;;국제 및 지역
+654;adjust;일상 및 여가 생활;동;조절하다, 적응하다;She adjusted the temperature of the thermostat to make the room more comfortable.;;;;;;;국제 및 지역
+655;peer;일상 및 여가 생활;명;동료, 또래;Her peers at work respected her opinion.;동;자세히 들여다보다;He peered into the darkness, trying to make out shapes in the distance.;;;;국제 및 지역
+656;renew;일상 및 여가 생활;동;새롭게 하다, 연장하다;They renewed their vows on their 25th wedding anniversary.;;;;;;;국제 및 지역
+657;germ;건강과 의료;명;세균, 싹, 근원;The doctor explained how germs can spread through contact.;;;;;;;국제 및 지역
+658;atom;일상 및 여가 생활;명;원자;The scientist studied the behavior of atoms in different conditions.;;;;;;;국제 및 지역
+659;realize;일상 및 여가 생활;동;깨닫다, 실현하다;It took her years to realize her true potential.;;;;;;;국제 및 지역
+660;enrich;문화와 예술;동;부유하게 하다;The experience of living abroad enriched her understanding of different cultures.;;;;;;;국제 및 지역
+661;noble;일상 및 여가 생활;형;고결한, 귀족의;His noble actions during the crisis earned him the respect of his peers.;;;;;;;국제 및 지역
+662;repair;일상 및 여가 생활;동;수리하다;He called a plumber to repair the leaky faucet in the kitchen.;;;;;;;국제 및 지역
+663;candidate;일상 및 여가 생활;명;후보자;The candidate promised to lower taxes if elected.;;;;;;;국제 및 지역
+664;ideal;기타;형;이상적인;Their relationship was far from ideal.;명;이상;The pursuit of perfection is an ideal that many strive for.;;;;국제 및 지역
+665;crop;일상 및 여가 생활;명;농작물;The farmer harvested his crop in the early morning hours.;;;;;;;국제 및 지역
+666;ethnic;문화와 예술;형;민족의;The neighborhood was a melting pot of ethnicities and cultures.;;;;;;;국제 및 지역
+667;foretell;일상 및 여가 생활;동;예언하다;The fortune teller claimed to be able to foretell the future.;;;;;;;국제 및 지역
+668;wholesale;일상 및 여가 생활;형;도매의, 대량의;The wholesale price of goods was significantly lower than retail prices.;;;;;;;국제 및 지역
+669;debt;일상 및 여가 생활;명;부채;He struggled to pay off his mounting debts.;;;;;;;국제 및 지역
+670;representative;경제, 금융 및 산업;명;대표자;The union sent a representative to negotiate with management.;;;;;;;국제 및 지역
+671;shift;일상 및 여가 생활;동;바꾸다;The company decided to shift its focus to online sales.;명;변화;A shift in consumer preferences led to declining sales.;;;;국제 및 지역
+672;strict;일상 및 여가 생활;형;엄격한, 엄밀한;The school had a strict dress code that students had to follow.;;;;;;;국제 및 지역
+673;appliance;일상 및 여가 생활;명;가전제품;The new kitchen appliances made cooking much easier.;;;;;;;국제 및 지역
+674;furthermore;과학과 기술;부;더욱이, 게다가;"The test results were inconclusive; furthermore, more research is needed to draw definitive conclusions.";;;;;;;국제 및 지역
+675;excess;건강과 의료;명;초과, 과다;Eating excess amounts of sugar can lead to health problems.;;;;;;;국제 및 지역
+676;command;일상 및 여가 생활;동;명령하다, 지휘하다;The general commanded his troops to advance.;명;명령, 지휘;He issued a command for all personnel to evacuate the building.;;;;국제 및 지역
+677;ecosystem;음식과 요리;명;생태계;The destruction of the rainforest threatens the delicate ecosystem.;;;;;;;국제 및 지역
+678;fame;음악과 엔터테인먼트;명;명성;The actor achieved fame after starring in several blockbuster movies.;;;;;;;인간과 사회
+679;oral;일상 및 여가 생활;형;입의;The oral presentation was well-received by the audience.;명;구술시험;She had to prepare for her upcoming oral exam in French.;;;;국제 및 지역
+680;drift;일상 및 여가 생활;명;표류, 일반적인 경향;The drift of the conversation shifted to more serious topics.;동;떠돌다, 방황하다;The boat began to drift aimlessly in the open sea.;;;;국제 및 지역
+681;outstanding;일상 및 여가 생활;형;뛰어난, 눈에 띄는;The student received an outstanding grade on his final project.;;;;;;;국제 및 지역
+682;mislead;일상 및 여가 생활;동;잘못 판단하게 하다;The false advertising misled consumers into purchasing the product.;;;;;;;국제 및 지역
+683;dedicate;일상 및 여가 생활;동;(시간, 노력을) 바치다;She dedicated her life to helping others in need.;;;;;;;국제 및 지역
+684;avoid;일상 및 여가 생활;동;피하다, 방지하다;He tried to avoid making eye contact with his ex-girlfriend.;;;;;;;국제 및 지역
+685;initial;과학과 기술;형;초기의, 처음의;The initial results of the experiment were promising.;명;머리글자 (이니셜);Please write your initials at the bottom of the page.;;;;국제 및 지역
+686;sink;일상 및 여가 생활;동;가라앉다;The ship began to sink after hitting an iceberg.;;;;;;;국제 및 지역
+687;beard;일상 및 여가 생활;명;턱수염;He decided to grow a beard during the winter months.;;;;;;;국제 및 지역
+688;haste;일상 및 여가 생활;명;서두름;In her haste to catch the train, she forgot her umbrella.;;;;;;;국제 및 지역
+689;crush;음식과 요리;동;으스러뜨리다, 빻다;The heavy rock crushed the small car beneath it.;;;;;;;국제 및 지역
+690;confront;일상 및 여가 생활;동;맞서다, 직면하다;She knew she had to confront her fears if she wanted to move forward.;;;;;;;국제 및 지역
+691;destiny;일상 및 여가 생활;명;운명;He believed that his destiny was written in the stars.;;;;;;;국제 및 지역
+692;hardship;일상 및 여가 생활;명;고난, 고통;The family endured many hardships during the war.;;;;;;;국제 및 지역
+693;escape;일상 및 여가 생활;동;탈출하다, 벗어나다;The prisoners attempted to escape through a tunnel they had dug.;명;탈출, 도피;The escape from the burning building was nothing short of miraculous.;;;;국제 및 지역
+694;valid;일상 및 여가 생활;형;타당한, 유효한;Her argument was valid and supported by evidence.;;;;;;;국제 및 지역
+695;entire;일상 및 여가 생활;형;전체의, 완전한;The entire city was covered in snow after the blizzard.;;;;;;;국제 및 지역
+696;dispose;일상 및 여가 생활;동;배치하다, 처리하다;He disposed of the trash in the dumpster behind the building.;;;;;;;국제 및 지역
+697;optimal;일상 및 여가 생활;형;최적의;The optimal solution to the problem required careful consideration.;;;;;;;국제 및 지역
+698;hydrogen;일상 및 여가 생활;명;수소;Hydrogen is the most abundant element in the universe.;;;;;;;국제 및 지역
+699;thread;일상 및 여가 생활;명;실;She sewed the button back on using a needle and thread.;동;실을 꿰다;She carefully threaded the needle before beginning to sew.;;;;국제 및 지역
+700;dynasty;일상 및 여가 생활;명;왕조;The dynasty ruled for over three centuries before being overthrown.;;;;;;;국제 및 지역
+701;scatter;일상 및 여가 생활;동;뿌리다, 흩어지다;Seeds scatter in the wind.;;;;;;;국제 및 지역
+702;gamble;일상 및 여가 생활;동;돈을 걸다, 도박을 하다;He likes to gamble at the casino.;명;도박;Taking risks in business can be like a gamble.;;;;국제 및 지역
+703;temper;일상 및 여가 생활;명;성질, 기분;His temper flared when he heard the news.;;;;;;;국제 및 지역
+704;exist;일상 및 여가 생활;동;존재하다, 살아가다;Do aliens exist in outer space?;;;;;;;국제 및 지역
+705;undoubtedly;일상 및 여가 생활;부;의심할 여지없이, 확실히;Undoubtedly, he was the best candidate for the job.;;;;;;;국제 및 지역
+706;raft;일상 및 여가 생활;명;뗏목, 비닐보트;They went rafting down the river on a sunny afternoon.;;;;;;;국제 및 지역
+707;minimal;일상 및 여가 생활;형;최소의, 아주 적은;The instructions were minimal and easy to follow.;;;;;;;국제 및 지역
+708;soak;일상 및 여가 생활;동;흠뻑 적시다;She likes to soak in a warm bath after a long day.;;;;;;;국제 및 지역
+709;craft;일상 및 여가 생활;명;공예, 기술;Woodworking is his favorite craft.;동;공들여 만들다;He likes to craft handmade gifts for his friends.;;;;국제 및 지역
+710;combat;일상 및 여가 생활;명;전투;The soldiers prepared for combat.;동;싸우다;We must combat climate change with urgent action.;;;;국제 및 지역
+711;cease;일상 및 여가 생활;동;중단하다;The rain began to cease after hours of pouring.;;;;;;;국제 및 지역
+712;ceiling;문화와 예술;명;천장, 최고 한도;The ceiling of the cathedral was painted with intricate designs.;;;;;;;국제 및 지역
+713;unify;음식과 요리;동;통합하다, 통일하다;The treaty aimed to unify the two warring factions.;;;;;;;국제 및 지역
+714;perspective;일상 및 여가 생활;명;견해, 관점;From her perspective, the situation looked dire.;;;;;;;국제 및 지역
+715;doom;일상 및 여가 생활;명;나쁜 운명;The prophet predicted doom and destruction.;동;운명 짓다;Their reckless actions will surely doom them to failure.;;;;국제 및 지역
+716;bump;일상 및 여가 생활;동;부딫치다;He accidentally bumped into the table.;;;;;;;국제 및 지역
+717;primary;교육과 학습;형;주된, 초기의;Education is a primary concern for parents.;;;;;;;국제 및 지역
+718;genre;일상 및 여가 생활;명;형식, 장르;She enjoys reading books of various genres.;;;;;;;국제 및 지역
+719;erase;일상 및 여가 생활;동;지우다;He used an eraser to erase the mistake.;;;;;;;국제 및 지역
+720;review;일상 및 여가 생활;동;복습하다, 재검토하다;She reviewed her notes before the exam.;명;복습, 검토, 비평;The newspaper published a review of the new movie.;;;;국제 및 지역
+721;vital;일상 및 여가 생활;형;필수적인, 중요한, 생명 유지와 관련된;Fresh air and water are vital for survival.;;;;;;;국제 및 지역
+722;incident;일상 및 여가 생활;명;사건, 일어난 일;The incident at the factory caused panic among workers.;형;일어나기 쉬운;Their behavior was indicative of an incident waiting to happen.;;;;국제 및 지역
+723;session;일상 및 여가 생활;명;시간, 회의, 기간, 학기;The therapy session lasted for an hour.;;;;;;;국제 및 지역
+724;obvious;일상 및 여가 생활;형;분명한, 명백한;His lies were obvious to everyone in the room.;;;;;;;국제 및 지역
+725;moderate;건강과 의료;형;온건한, 적당한;She takes a moderate approach to diet and exercise.;;;;;;;국제 및 지역
+726;budget;정치, 법률 및 사회;명;예산, 예산안;The government announced a new budget for the fiscal year.;;;;;;;국제 및 지역
+727;graze;일상 및 여가 생활;동;풀을 뜯다, 방목하다;The cows grazed in the meadow.;;;;;;;국제 및 지역
+728;fragile;일상 및 여가 생활;형;부서지기 쉬운;"Handle the vase with care; it's very fragile.";;;;;;;국제 및 지역
+729;myth;문화와 예술;명;신화, 사회적 통념;The story of King Arthur is a famous myth.;;;;;;;국제 및 지역
+730;fur;일상 및 여가 생활;명;부드러운 털, 모피;The fur of the rabbit is soft and warm.;;;;;;;국제 및 지역
+731;indifferent;일상 및 여가 생활;형;무관심한;She was indifferent to his pleas for help.;;;;;;;국제 및 지역
+732;strain;일상 및 여가 생활;명;긴장, 압박;The strain of the job was taking its toll on him.;동;잡아당기다, 긴장시키다, 혹사하다;He strained his muscles lifting the heavy box.;;;;건강과 웰빙
+733;ingredient;일상 및 여가 생활;명;재료, 성분;Flour is an important ingredient in baking.;;;;;;;국제 및 지역
+734;dismiss;일상 및 여가 생활;동;묵살하다, 해고하다, 해산시키다;The judge dismissed the case due to lack of evidence.;;;;;;;국제 및 지역
+735;geometry;일상 및 여가 생활;명;기하학;Geometry was her favorite subject in school.;;;;;;;국제 및 지역
+736;glacier;일상 및 여가 생활;명;빙하;They hiked to see the glacier up close.;;;;;;;국제 및 지역
+737;urge;일상 및 여가 생활;동;촉구하다, 강요하다;He felt the urge to run away from the situation.;;;;;;;국제 및 지역
+738;celebrity;일상 및 여가 생활;명;유명 인사, 명성;The restaurant was frequented by celebrities.;;;;;;;인간과 사회
+739;antique;일상 및 여가 생활;형;고대의, 옛날의, 고풍의;The antique furniture in the room gave it a cozy feel.;명;골동품;She collected antiques from around the world.;;;;국제 및 지역
+740;profit;문화와 예술;명;이익, 이윤;The company reported a record profit this quarter.;동;이익을 얻다;Investors hope to profit from the stock market.;;;;비즈니스와 경제
+741;sphere;일상 및 여가 생활;명;구, 구체;The crystal ball revealed secrets of the future.;;;;;;;국제 및 지역
+742;inherit;일상 및 여가 생활;동;상속받다, 물려받다;She inherited the family fortune after her father passed away.;;;;;;;국제 및 지역
+743;disgrace;일상 및 여가 생활;명;불명예, 수치;His actions brought disgrace upon the family.;;;;;;;국제 및 지역
+744;crawl;교육과 학습;동;기어가다, 서행하다;The baby learned to crawl before he could walk.;명;기어가기, 서행;Traffic was at a crawl due to the accident.;;;;국제 및 지역
+745;scratch;일상 및 여가 생활;동;긁다, 할퀴다;The cat scratched the furniture.;명;긁힌 자국, 찰과상;There was a scratch on the surface of the table.;;;;국제 및 지역
+746;diabetes;일상 및 여가 생활;명;당뇨병;She manages her diabetes with medication and diet.;;;;;;;국제 및 지역
+747;congestion;일상 및 여가 생활;명;혼잡, 밀집;Traffic congestion was a problem during rush hour.;;;;;;;국제 및 지역
+748;constitute;일상 및 여가 생활;동;구성하다, 설립하다, 제정하다;The five members constitute the board of directors.;;;;;;;비즈니스와 경제
+749;flow;일상 및 여가 생활;명;흐름;The flow of the river was swift and dangerous.;동;흐르다;Ideas flowed freely during the brainstorming session.;;;;국제 및 지역
+750;investigate;일상 및 여가 생활;동;조사하다, 수사하다;The police will investigate the crime thoroughly.;;;;;;;국제 및 지역
+751;barter;문화와 예술;명;물물 교환, 교역품;Barter was a common practice in ancient times.;동;물물 교환하다;They bartered goods for services with their neighbors.;;;;국제 및 지역
+752;circular;일상 및 여가 생활;형;원의, 순환의;The room had a circular layout.;;;;;;;국제 및 지역
+753;chilly;일상 및 여가 생활;형;쌀쌀한, 냉담한;The air was chilly in the early morning.;;;;;;;국제 및 지역
+754;ancestor;일상 및 여가 생활;명;조상, 선조;He traced his ancestors back to Scotland.;;;;;;;국제 및 지역
+755;fierce;일상 및 여가 생활;형;사나운, 맹렬한;The tiger had a fierce look in its eyes.;;;;;;;국제 및 지역
+756;vague;일상 및 여가 생활;형;희미한, 막연한, 모호한;Her memories of that day were vague and unclear.;;;;;;;국제 및 지역
+757;rough;일상 및 여가 생활;형;거친, 난폭한, 대강의;The path through the forest was rough and uneven.;;;;;;;국제 및 지역
+758;content;일상 및 여가 생활;명;내용, 목차;The content of the book was interesting and informative.;형;만족하는;He felt content with his life as it was.;;;;국제 및 지역
+759;obstacle;일상 및 여가 생활;명;장애물, 방해가 되는 것;The fallen tree was an obstacle on the trail.;;;;;;;국제 및 지역
+760;editorial;일상 및 여가 생활;형;편집자의;The newspaper published an editorial on the current political situation.;명;사설, 논설;She writes editorials for the local newspaper.;;;;국제 및 지역
+761;abolish;정치, 법률 및 사회;동;폐지하다;The government decided to abolish the outdated law.;;;;;;;국제 및 지역
+762;assure;일상 및 여가 생활;동;확실하게 하다, 보증하다;He assured her that everything would be fine.;;;;;;;국제 및 지역
+763;form;일상 및 여가 생활;명;형태, 종류;The clouds took on the form of various animals.;동;형성하다;The committee will form a plan of action.;;;;국제 및 지역
+764;gender;일상 및 여가 생활;명;성, 성별;There are two genders: male and female.;;;;;;;국제 및 지역
+765;innovation;문화와 예술;명;혁신;The company prides itself on its culture of innovation.;;;;;;;국제 및 지역
+766;opponent;일상 및 여가 생활;명;상대, 반대자;He faced a tough opponent in the boxing ring.;형;반대하는;The opponent team scored a goal against us.;;;;국제 및 지역
+767;present;일상 및 여가 생활;형;현재의;The present situation calls for immediate action.;명;현재, 선물;He gave her a present for her birthday.;동;제출하다 나타내다;He will present his findings at the conference.;국제 및 지역
+768;fertile;일상 및 여가 생활;형;비옥한, 기름진;The land was fertile and perfect for farming.;;;;;;;국제 및 지역
+769;emperor;일상 및 여가 생활;명;황제;The emperor ruled over a vast empire.;;;;;;;국제 및 지역
+770;dwell;일상 및 여가 생활;동;거주하다, 살다;They dwell in a small cottage by the sea.;;;;;;;국제 및 지역
+771;chore;일상 및 여가 생활;명;허드렛일, 집안일;Doing the laundry is one of her daily chores.;;;;;;;국제 및 지역
+772;rehearsal;일상 및 여가 생활;명;리허설, 예행연습;The actors gathered for a final rehearsal before the show.;;;;;;;국제 및 지역
+773;fossil;일상 및 여가 생활;명;화석;The fossil of a dinosaur was discovered in the desert.;;;;;;;국제 및 지역
+774;glitter;일상 및 여가 생활;;;;;;;;;;국제 및 지역
+775;carve;일상 및 여가 생활;동;새기다, 조각하다;He carved his initials into the tree trunk.;;;;;;;국제 및 지역
+776;decay;일상 및 여가 생활;동;부패하다, 쇠퇴하다;The old house was decaying from neglect.;명;부패, 쇠퇴;The decay of the once vibrant city was evident.;;;;국제 및 지역
+777;protein;일상 및 여가 생활;명;단백질;Athletes need protein for muscle growth.;;;;;;;국제 및 지역
+778;backward;일상 및 여가 생활;부;뒤쪽으로 후방에 거꾸로;He took a step backward to avoid the oncoming car.;;;;;;;국제 및 지역
+779;translate;일상 및 여가 생활;동;번역하다, 옮기다;She could translate the document into multiple languages.;;;;;;;국제 및 지역
+780;refresh;일상 및 여가 생활;동;상쾌하게 하다, 새롭게 하다;A cold shower can refresh you on a hot day.;;;;;;;국제 및 지역
+781;tissue;일상 및 여가 생활;명;(생물) 조직;Damaged tissue healed over time.;;;;;;;국제 및 지역
+782;lord;일상 및 여가 생활;명;군주;The lord of the manor welcomed his guests.;;;;;;;국제 및 지역
+783;substitute;음식과 요리;동;대체하다;You can substitute oil with applesauce in this recipe.;명;대리자, 대체물;He served as a substitute teacher for the day.;;;;국제 및 지역
+784;scan;일상 및 여가 생활;동;정밀 검사하다, 유심히 쳐다보다;He scanned the document for any errors.;;;;;;;국제 및 지역
+785;pottery;일상 및 여가 생활;명;도자기, 도예;She made beautiful pottery in her ceramics class.;;;;;;;국제 및 지역
+786;layer;일상 및 여가 생활;명;층, 겹;The cake had layer upon layer of frosting.;;;;;;;국제 및 지역
+787;property;일상 및 여가 생활;명;재산, 소유물 , 부동산;The property was listed for sale at a high price.;;;;;;;비즈니스와 경제
+788;justify;일상 및 여가 생활;동;정당화하다;He tried to justify his actions, but no one believed him.;;;;;;;국제 및 지역
+789;polish;일상 및 여가 생활;동;닦다, 윤을 내다, (문장 등을)다듬다;She polished the silverware until it gleamed.;;;;;;;국제 및 지역
+790;flavor;일상 및 여가 생활;명;맛동사 맛을 내다;The chef used spices to flavor the dish.;;;;;;;국제 및 지역
+791;imprint;일상 및 여가 생활;동;찍다 감명시키다명사 찍은 자국, 인상;The puppy left its imprint in the wet cement.;;;;;;;국제 및 지역
+792;heritage;문화와 예술;명;유산, 세습 재산;The city's heritage was preserved in its historic buildings.;;;;;;;비즈니스와 경제
+793;strive;일상 및 여가 생활;동;노력하다, 애쓰다 , 투쟁하다;She strove to achieve her goals despite the obstacles.;;;;;;;국제 및 지역
+794;radiant;일상 및 여가 생활;형;빛나는, 아주 밝은;The radiant sun illuminated the whole room.;;;;;;;국제 및 지역
+795;exclaim;일상 및 여가 생활;동;(감탄하며)외치다;She exclaimed with joy when she heard the news.;;;;;;;국제 및 지역
+796;asset;일상 및 여가 생활;명;자산, 재산;The company's most valuable asset was its intellectual property.;;;;;;;비즈니스와 경제
+797;portray;문화와 예술;동;묘사하다, 설명하다, 초상을 그리다;The artist portrayed the landscape with vivid colors.;;;;;;;인간과 사회
+798;administer;일상 및 여가 생활;동;관리•운영하다, 집행하다, 주다;The nurse will administer the medication to the patient.;;;;;;;국제 및 지역
+799;wage;일상 및 여가 생활;명;급료;She earned a good wage working at the factory.;;;;;;;국제 및 지역
+800;subscribe;일상 및 여가 생활;동;정기 구독하다;He subscribed to the magazine for a year.;;;;;;;국제 및 지역
+801;architecture;문화와 예술;명;건축학, 건축 양식;The architecture of the building reflects the culture of the region.;;;;;;;국제 및 지역
+802;territory;정치, 법률 및 사회;명;영토, 영역;Each territory has its own set of laws and regulations.;;;;;;;국제 및 지역
+803;strategy;일상 및 여가 생활;명;전략, 계획;The strategy employed by the company was innovative and effective.;;;;;;;국제 및 지역
+804;hence;일상 및 여가 생활;부;그러므로, 향후;Hence, we can expect better results in the future.;;;;;;;국제 및 지역
+805;panic;일상 및 여가 생활;명;공황;The panic in the crowd was palpable as the fire alarm blared.;형;당황한;Her panic-stricken face revealed the severity of the situation.;;;;국제 및 지역
+806;wilderness;일상 및 여가 생활;명;황무지;The vast wilderness stretched out before them, untouched by civilization.;;;;;;;국제 및 지역
+807;attract;일상 및 여가 생활;동;끌다, 매혹하다;The vibrant colors of the flowers attract bees and butterflies.;;;;;;;국제 및 지역
+808;category;일상 및 여가 생활;명;부류, 종류;There are several categories of products available in the market.;;;;;;;국제 및 지역
+809;murder;경제, 금융 및 산업;명;살인;The investigation into the murder of the businessman is still ongoing.;동;죽이다;He was arrested for attempting to murder his business partner.;;;;국제 및 지역
+810;funeral;일상 및 여가 생활;명;장례식;The funeral procession moved slowly through the streets of the town.;형;장례의;She wore a black dress to the funeral service.;;;;국제 및 지역
+811;humiliation;일상 및 여가 생활;명;창피 줌, 굴욕;The humiliation he felt after being fired from his job was unbearable.;;;;;;;국제 및 지역
+812;ban;일상 및 여가 생활;명;금지;The ban on smoking in public places has led to cleaner air.;동;금지하다;The government decided to ban the sale of alcohol after 10 PM.;;;;국제 및 지역
+813;flush;일상 및 여가 생활;명;물로 씻어냄, 홍조;A flush of embarrassment spread across her cheeks as she realized her mistake.;동;물로 씻어내리다, (얼굴이) 붉어지다;His face flushed with anger as he listened to the accusations.;;;;국제 및 지역
+814;omit;일상 및 여가 생활;동;생략하다;Please do not omit any details when filling out the form.;;;;;;;국제 및 지역
+815;outcome;과학과 기술;명;결과;The outcome of the experiment was better than expected.;;;;;;;국제 및 지역
+816;despair;문화와 예술;동;절망하다;She felt herself starting to despair as the situation seemed hopeless.;;;;;;;국제 및 지역
+817;alert;일상 및 여가 생활;명;경계;The security guard sounded the alert when he noticed something suspicious.;동;경고하다;Please alert me if there are any changes to the schedule.;;;;국제 및 지역
+818;compact;일상 및 여가 생활;명;계약, 협정;They signed a compact to ensure the terms of their agreement.;형;아담한, 빽빽한;She carried her belongings in a compact suitcase.;;;;국제 및 지역
+819;likewise;일상 및 여가 생활;부;마찬가지로;"He enjoys swimming; likewise, he enjoys surfing.";;;;;;;국제 및 지역
+820;astonish;일상 및 여가 생활;동;깜짝 놀라게 하다;Her performance on the stage never failed to astonish the audience.;;;;;;;인간과 사회
+821;optimistic;일상 및 여가 생활;형;낙천적인;Despite the challenges, she remained optimistic about the future.;;;;;;;국제 및 지역
+822;loyal;일상 및 여가 생활;형;충성스러운;The loyal dog never left his side, even in difficult times.;;;;;;;국제 및 지역
+823;humid;음식과 요리;형;습한;The air was hot and humid, making it difficult to breathe.;;;;;;;국제 및 지역
+824;pretend;일상 및 여가 생활;동;척하다;He pretended to be interested in her story, but his mind was elsewhere.;;;;;;;국제 및 지역
+825;graduate;일상 및 여가 생활;명;졸업생;The graduates threw their caps into the air in celebration.;동;졸업하다;She will graduate from college next year.;;;;국제 및 지역
+826;delicate;일상 및 여가 생활;형;연약한, 섬세한, 미묘한;Handle the glassware with delicate care to avoid breakage.;;;;;;;국제 및 지역
+827;inflate;일상 및 여가 생활;동;부풀리다;He used a pump to inflate the air mattress before going camping.;;;;;;;국제 및 지역
+828;adequate;일상 및 여가 생활;형;적절한;She felt confident that she had provided an adequate explanation.;;;;;;;인간과 사회
+829;physician;일상 및 여가 생활;명;의사;The physician prescribed medication to alleviate her symptoms.;;;;;;;국제 및 지역
+830;joint;일상 및 여가 생활;형;공동의;They made a joint decision to invest in the company.;;;;;;;국제 및 지역
+831;via;일상 및 여가 생활;;;;;;;;;;국제 및 지역
+832;passage;일상 및 여가 생활;명;통로, (책의) 구절;The passage to the secret garden was hidden behind a thick hedge.;;;;;;;국제 및 지역
+833;prefer;일상 및 여가 생활;동;선호하다;I prefer tea over coffee in the morning.;;;;;;;국제 및 지역
+834;vessel;일상 및 여가 생활;명;선박;The vessels in the harbor bobbed gently in the water.;;;;;;;국제 및 지역
+835;restore;일상 및 여가 생활;동;복원하다;Efforts are underway to restore the ancient ruins to their former glory.;;;;;;;국제 및 지역
+836;passive;일상 및 여가 생활;형;수동적인;She took a passive approach to solving the problem, waiting for others to take action.;;;;;;;국제 및 지역
+837;experience;일상 및 여가 생활;명;경험;His years of experience in the field made him a valuable asset to the company.;;;;;;;국제 및 지역
+838;marble;일상 및 여가 생활;명;대리석;The countertops in the kitchen were made of polished marble.;;;;;;;국제 및 지역
+839;classify;일상 및 여가 생활;동;분류하다;It is important to classify the documents according to their content.;;;;;;;국제 및 지역
+840;fundamental;일상 및 여가 생활;형;근본적인;Respect for human rights is a fundamental principle of democracy.;;;;;;;국제 및 지역
+841;majesty;음식과 요리;명;위엄, 장엄;The majesty of the mountains took her breath away.;;;;;;;국제 및 지역
+842;intimate;일상 및 여가 생활;형;친밀한, 친숙한;They shared an intimate conversation over dinner.;;;;;;;국제 및 지역
+843;merit;일상 및 여가 생활;명;장점, 가치;The proposal has many merits and deserves serious consideration.;;;;;;;국제 및 지역
+844;launch;음식과 요리;명;발사, 출시;The launch of the new product was met with great excitement.;동;시작하다, 출시하다;They decided to launch a new advertising campaign next month.;;;;국제 및 지역
+845;conference;일상 및 여가 생활;명;회의;She attended a conference on renewable energy sources.;;;;;;;국제 및 지역
+846;reception;일상 및 여가 생활;명;접수처, 환영연회;The receptionist greeted them warmly as they entered the hotel.;;;;;;;국제 및 지역
+847;shrug;일상 및 여가 생활;동;어깨를 으쓱하다;He shrugged his shoulders in response to her question.;;;;;;;국제 및 지역
+848;vicious;일상 및 여가 생활;형;악랄한;The dog had a vicious temper and would often bite strangers.;;;;;;;국제 및 지역
+849;cherish;일상 및 여가 생활;동;소중히 하다;She cherished the memories of her childhood spent by the sea.;;;;;;;국제 및 지역
+850;accuse;경제, 금융 및 산업;동;비난하다;He was accused of stealing money from the company.;;;;;;;국제 및 지역
+851;eternal;일상 및 여가 생활;형;영원한;Their love for each other seemed eternal and unchanging.;;;;;;;국제 및 지역
+852;shrink;일상 및 여가 생활;동;줄어들다, 피하다;The fabric shrunk in the wash and no longer fit.;;;;;;;국제 및 지역
+853;colleague;일상 및 여가 생활;명;동료;She discussed the project with her colleagues before making a decision.;;;;;;;국제 및 지역
+854;transmit;일상 및 여가 생활;동;보내다, 전염시키다;The radio tower transmits signals across long distances.;;;;;;;국제 및 지역
+855;copper;일상 및 여가 생활;명;구리;The pipes in the old house were made of copper.;;;;;;;국제 및 지역
+856;orbit;문화와 예술;명;궤도;The satellite was placed into a stable orbit around the Earth.;;;;;;;국제 및 지역
+857;overwhelm;일상 및 여가 생활;동;압도하다;She was overwhelmed by the amount of work that needed to be done.;;;;;;;국제 및 지역
+858;discard;음식과 요리;동;버리다;Please discard any food that has passed its expiration date.;;;;;;;국제 및 지역
+859;famine;일상 및 여가 생활;명;기근;The famine in the region was caused by a prolonged drought.;;;;;;;국제 및 지역
+860;pill;일상 및 여가 생활;명;알약;She took a sleeping pill to help her fall asleep.;;;;;;;국제 및 지역
+861;enhance;과학과 기술;동;강화하다;The new software update is designed to enhance the user experience.;;;;;;;국제 및 지역
+862;immune;건강과 의료;형;면역의;Regular exercise can help boost your immune system.;;;;;;;국제 및 지역
+863;superior;일상 및 여가 생활;형;뛰어난;Their product is of superior quality compared to others on the market.;;;;;;;국제 및 지역
+864;string;일상 및 여가 생활;동;끈을 달다;She strung the lights along the edge of the roof.;;;;;;;국제 및 지역
+865;cope;일상 및 여가 생활;동;대처하다;He struggled to cope with the demands of his new job.;;;;;;;국제 및 지역
+866;raw;일상 및 여가 생활;형;날것의, 가공하지 않은;She preferred to eat her vegetables raw rather than cooked.;;;;;;;국제 및 지역
+867;apply;일상 및 여가 생활;동;적용되다;The same rules apply to everyone, regardless of their status.;;;;;;;국제 및 지역
+868;cattle;일상 및 여가 생활;명;소;The rancher herded the cattle into the pen for feeding.;;;;;;;국제 및 지역
+869;loan;일상 및 여가 생활;명;대여;He took out a loan from the bank to buy a new car.;;;;;;;국제 및 지역
+870;obedient;일상 및 여가 생활;형;순종하는;The obedient dog always followed its owner's commands.;;;;;;;국제 및 지역
+871;procedure;일상 및 여가 생활;명;절차;The procedure for applying for a visa is straightforward.;;;;;;;국제 및 지역
+872;bond;기타;명;유대;Their friendship formed a strong bond that lasted a lifetime.;;;;;;;국제 및 지역
+873;angle;일상 및 여가 생활;동;비스듬히 움직이다;He angled the mirror so that he could see behind him.;;;;;;;국제 및 지역
+874;subtle;문화와 예술;형;미묘한;There was a subtle difference in the color of the two paintings.;;;;;;;국제 및 지역
+875;depict;문화와 예술;동;묘사하다;The painting depicts a beautiful sunset over the ocean.;;;;;;;국제 및 지역
+876;radical;건강과 의료;형;급진적인;The new government implemented radical changes to the healthcare system.;;;;;;;국제 및 지역
+877;therapy;일상 및 여가 생활;명;치료법;She underwent therapy to help her overcome her fear of flying.;;;;;;;국제 및 지역
+878;caution;일상 및 여가 생활;명;경고;He ignored the caution of the lifeguard and went swimming in the dangerous currents.;;;;;;;국제 및 지역
+879;persist;일상 및 여가 생활;동;지속하다;Despite numerous setbacks, she persisted in her efforts to achieve her goals.;;;;;;;국제 및 지역
+880;reverse;일상 및 여가 생활;명;후진;He put the car into reverse and backed out of the parking space.;;;;;;;국제 및 지역
+881;support;일상 및 여가 생활;동;지지하다;She was grateful for the support of her friends during difficult times.;;;;;;;국제 및 지역
+882;mammal;일상 및 여가 생활;명;포유동물;Humans are classified as mammals because they give birth to live young.;;;;;;;국제 및 지역
+883;iceberg;일상 및 여가 생활;명;빙산;The ship had to navigate carefully to avoid hitting the iceberg.;;;;;;;국제 및 지역
+884;monetary;일상 및 여가 생활;형;화폐의;The company donated a large sum of monetary aid to the charity.;;;;;;;국제 및 지역
+885;revise;일상 및 여가 생활;동;수정하다;She revised her essay several times before submitting it.;;;;;;;국제 및 지역
+886;resent;건강과 의료;동;분개하다;She resented her brother for always getting special treatment.;;;;;;;국제 및 지역
+887;superb;일상 및 여가 생활;형;뛰어난;The chef prepared a superb meal that left everyone satisfied.;;;;;;;국제 및 지역
+888;abrupt;음식과 요리;형;갑작스러운;The abrupt change in weather caught everyone by surprise.;;;;;;;국제 및 지역
+889;diverse;문화와 예술;형;다양한;The conference attracted a diverse range of participants from around the world.;;;;;;;국제 및 지역
+890;internal;일상 및 여가 생활;형;내부의;The company hired an internal auditor to review its financial records.;;;;;;;국제 및 지역
+891;gloom;음식과 요리;명;우울;The gloom of the rainy weather matched her mood perfectly.;;;;;;;국제 및 지역
+892;refine;음식과 요리;동;정제하다;The chef continued to refine the recipe until it was perfect.;;;;;;;국제 및 지역
+893;dynamic;음악과 엔터테인먼트;형;활발한;The dynamic nature of the music kept the audience engaged throughout the performance.;;;;;;;국제 및 지역
+894;nerve;일상 및 여가 생활;명;신경;His constant tapping on the table was getting on her nerves.;;;;;;;국제 및 지역
+895;prompt;교육과 학습;동;자극하다;The teacher's question prompted a lively discussion among the students.;;;;;;;국제 및 지역
+896;suspend;일상 및 여가 생활;동;보류하다;The company decided to suspend production of the product due to low demand.;;;;;;;국제 및 지역
+897;control;과학과 기술;명;통제;The experiment required precise control of temperature and humidity.;;;;;;;국제 및 지역
+898;distraction;교육과 학습;명;주의산만;The noise outside was a constant distraction while she was trying to study.;;;;;;;국제 및 지역
+899;collapse;일상 및 여가 생활;동;붕괴하다;The building collapsed after being weakened by years of neglect.;;;;;;;국제 및 지역
+900;monologue;일상 및 여가 생활;명;독백;The actor delivered a powerful monologue that moved the audience to tears.;;;;;;;국제 및 지역
+901;martial;문화와 예술;형;군대의, 전쟁의;He had a martial spirit, ready to defend his country at all costs.;;;;;;;국제 및 지역
+902;deliberate;일상 및 여가 생활;형;고의의, 신중한;She made a deliberate decision after careful consideration of all options.;;;;;;;국제 및 지역
+903;trigger;일상 및 여가 생활;동;작동시키다, 촉발시키다;The alarm clock is designed to trigger at 6 AM every morning.;명;방아쇠, 계기;The trigger of the gun was pulled.;;;;국제 및 지역
+904;plot;정치, 법률 및 사회;명;줄거리, 음모;The detective uncovered a complex plot to overthrow the government.;동;음모를 꾸미다;She decided to plot her revenge against those who wronged her.;;;;국제 및 지역
+905;rod;일상 및 여가 생활;명;막대, 낚싯대;He used a sturdy rod to reel in the large fish he caught.;;;;;;;국제 및 지역
+906;Atlantic;일상 및 여가 생활;명;대서양;The cruise ship sailed across the vast expanse of the Atlantic.;형;대서양의;The Atlantic coast is known for its stunning beaches.;;;;국제 및 지역
+907;industry;경제, 금융 및 산업;명;산업;The automotive industry is constantly evolving with new technology.;;;;;;;국제 및 지역
+908;weird;문화와 예술;형;이상한, 괴상한;His weird behavior made everyone uncomfortable at the party.;;;;;;;국제 및 지역
+909;suggest;일상 및 여가 생활;동;제안하다, 암시하다;She suggested going to the park for a picnic on Sunday.;;;;;;;국제 및 지역
+910;partial;문화와 예술;형;부분적인, 편파적인;His partiality towards certain employees was evident in his decision-making.;;;;;;;국제 및 지역
+911;priceless;일상 및 여가 생활;형;대단히 소중한;Her smile was priceless and could brighten anyone's day.;;;;;;;국제 및 지역
+912;mutual;기타;형;상호 간의, 공동의;Their mutual respect for each other strengthened their friendship.;;;;;;;국제 및 지역
+913;fate;일상 및 여가 생활;명;운명;He believed in fate and that everything happened for a reason.;;;;;;;국제 및 지역
+914;booth;일상 및 여가 생활;명;작은 공간;They set up a booth at the trade fair to showcase their products.;;;;;;;국제 및 지역
+915;pursue;문화와 예술;동;추구하다;She decided to pursue her dream of becoming an artist.;;;;;;;국제 및 지역
+916;prescribe;건강과 의료;동;처방하다, 규정하다;The doctor prescribed medication to help with her illness.;;;;;;;국제 및 지역
+917;erupt;일상 및 여가 생활;동;(화산이) 폭발하다;The volcano erupted, sending ash and smoke into the air.;;;;;;;국제 및 지역
+918;insult;일상 및 여가 생활;동;모욕하다;She felt insulted by his rude remarks during the meeting.;명;모욕, 모욕적인 말;The insult stung, leaving her feeling hurt and angry.;;;;국제 및 지역
+919;gaze;일상 및 여가 생활;동;응시하다;She gazed out of the window, lost in thought.;명;응시;Their intense gaze locked onto each other, conveying their love without words.;;;;국제 및 지역
+920;supreme;음식과 요리;명;최고;The pizza was topped with a supreme combination of meats and vegetables.;형;최고의;Her performance was considered supreme earning her a standing ovation.;;;;국제 및 지역
+921;transaction;문화와 예술;명;거래, 매매;The transaction was completed smoothly with both parties satisfied with the outcome.;;;;;;;국제 및 지역
+922;sufficient;정치, 법률 및 사회;형;충분한;He had sufficient evidence to prove his innocence in court.;;;;;;;국제 및 지역
+923;stable;일상 및 여가 생활;형;안정된;She felt stable and secure in her new job.;명;마구간;The stable was clean and well-maintained for the horses.;;;;국제 및 지역
+924;sympathy;일상 및 여가 생활;명;연민, 동의;Her heart overflowed with sympathy for the homeless man on the street.;;;;;;;국제 및 지역
+925;by-product;기타;명;부산물;The factory disposed of its by-products in an environmentally friendly manner.;;;;;;;국제 및 지역
+926;edible;일상 및 여가 생활;형;먹을 수 있는;The berries were ripe and edible, ready to be picked and enjoyed.;;;;;;;국제 및 지역
+927;federal;정치, 법률 및 사회;형;연방의, 연방 정부의;The federal government announced new measures to combat inflation.;;;;;;;국제 및 지역
+928;bud;일상 및 여가 생활;명;싹, 봉오리, 친구;The flowers began to bloom from tiny buds on the branches.;;;;;;;국제 및 지역
+929;trivial;일상 및 여가 생활;형;사소한;She didn't want to waste time on trivial matters.;;;;;;;국제 및 지역
+930;anxiety;일상 및 여가 생활;명;걱정, 불안, 열망;He struggled with anxiety before important exams.;;;;;;;국제 및 지역
+931;tablet;일상 및 여가 생활;명;알약;She took a tablet to relieve her headache.;;;;;;;국제 및 지역
+932;prepare;일상 및 여가 생활;동;준비하다;She prepared a delicious meal for her guests.;;;;;;;일상 생활
+933;trade;경제, 금융 및 산업;명;무역하다, 교환하다;International trade plays a significant role in the global economy.;;;;;;;국제 및 지역
+934;liquid;일상 및 여가 생활;명;액체;The spill caused a puddle of liquid on the floor.;형;액체의, 유동적의;The substance turned from solid to liquid when heated.;;;;국제 및 지역
+935;contend;일상 및 여가 생활;동;싸우다, 주장하다;He had to contend with fierce competition in the job market.;;;;;;;국제 및 지역
+936;outlook;일상 및 여가 생활;명;전망, 경치, 견해;She had a positive outlook on life, always seeing the bright side of things.;;;;;;;국제 및 지역
+937;roam;일상 및 여가 생활;동;배회하다, 돌아다니다;The children loved to roam freely in the fields near their house.;;;;;;;국제 및 지역
+938;decent;일상 및 여가 생활;형;괜찮은, 예의 바른, 적절한;He made a decent living working as a carpenter.;;;;;;;인간과 사회
+939;concern;일상 및 여가 생활;명;걱정, 관심;She expressed concern for her friend's well-being.;동;걱정하다, 관심을 갖다;He didn't concern himself with trivial matters.;;;;국제 및 지역
+940;behalf;일상 및 여가 생활;명;측, 편, 이익;He spoke on behalf of the company at the conference.;;;;;;;비즈니스와 경제
+941;suffer;일상 및 여가 생활;동;고통 받다, 겪다;She suffered a minor injury in the accident.;;;;;;;국제 및 지역
+942;distortion;음식과 요리;명;왜곡, 찌그러뜨림;The artist used distortion to create a sense of movement in the painting.;;;;;;;국제 및 지역
+943;infinite;일상 및 여가 생활;형;무한한;The universe seemed infinite with endless possibilities.;;;;;;;국제 및 지역
+944;anticipate;일상 및 여가 생활;동;예상하다, 기대하다;She eagerly anticipated the arrival of her long-lost friend.;;;;;;;국제 및 지역
+945;symbolic;일상 및 여가 생활;형;상징적인;The dove is symbolic of peace and harmony.;;;;;;;국제 및 지역
+946;municipal;정치, 법률 및 사회;형;지방 자치제의;The municipal government announced plans to improve local infrastructure.;;;;;;;국제 및 지역
+947;phenomenon;일상 및 여가 생활;명;현상;The aurora borealis is a natural phenomenon that captivates viewers.;;;;;;;국제 및 지역
+948;devote;음악과 엔터테인먼트;동;(시간, 노력)쏟다;She devoted all her time and energy to her passion for music.;;;;;;;국제 및 지역
+949;peasant;일상 및 여가 생활;명;소작농;The peasants worked hard in the fields to harvest their crops.;;;;;;;국제 및 지역
+950;tenant;문화와 예술;명;세입자;The landlord had trouble finding a new tenant for the apartment.;;;;;;;국제 및 지역
+951;worthwhile;일상 및 여가 생활;형;가치있는;She believed the project was worthwhile and would make a difference.;;;;;;;국제 및 지역
+952;pavement;일상 및 여가 생활;명;포장도로;She walked along the pavement enjoying the hustle and bustle of the city.;;;;;;;국제 및 지역
+953;dioxide;기타;명;(화학)이산화물;Carbon dioxide is a greenhouse gas that contributes to climate change.;;;;;;;국제 및 지역
+954;diminish;일상 및 여가 생활;동;줄이다, 약화시키다;The value of the antique vase diminished over time.;;;;;;;국제 및 지역
+955;jealous;일상 및 여가 생활;형;질투하는, 시기하는;Her success made her colleagues jealous of her achievements.;;;;;;;국제 및 지역
+956;limp;일상 및 여가 생활;형;기운이 없는, 축 처진;He walked with a limp after injuring his leg in a skiing accident.;;;;;;;국제 및 지역
+957;exclude;일상 및 여가 생활;동;제외하다, 차단하다;The club excluded members who didn't adhere to the rules.;;;;;;;국제 및 지역
+958;flexible;일상 및 여가 생활;형;융통성 있는, 잘 구부러지는;She admired his flexible approach to problem-solving.;;;;;;;국제 및 지역
+959;nominate;일상 및 여가 생활;동;지명하다;She nominated her colleague for the Employee of the Month award.;;;;;;;국제 및 지역
+960;sacred;일상 및 여가 생활;형;성스러운, 종교적인;The temple was a sacred place for worship and meditation.;;;;;;;국제 및 지역
+961;context;일상 및 여가 생활;명;맥락;She understood the meaning of the word within the context of the sentence.;;;;;;;국제 및 지역
+962;complete;교육과 학습;형;완벽한;She achieved complete mastery over the subject after years of study.;동;완료하다;He completed the task ahead of schedule.;;;;국제 및 지역
+963;race;일상 및 여가 생활;명;경주, 인종;The race for the presidency was highly competitive.;동;경주하다;They raced against each other to reach the finish line.;;;;국제 및 지역
+964;dominate;일상 및 여가 생활;동;지배하다;The giant corporation dominated the market leaving little room for competition.;;;;;;;국제 및 지역
+965;vehicle;일상 및 여가 생활;명;탈것;She drove a luxurious vehicle to the event.;;;;;;;국제 및 지역
+966;complain;일상 및 여가 생활;동;불평하다;She complained about the poor service at the restaurant.;;;;;;;국제 및 지역
+967;brochure;일상 및 여가 생활;명;브로셔;She picked up a brochure with information about tourist attractions in the area.;;;;;;;국제 및 지역
+968;force;일상 및 여가 생활;명;힘;The force of the impact caused significant damage to the vehicle.;동;강요하다;They were forced to evacuate their homes due to the approaching hurricane.;;;;국제 및 지역
+969;nest;일상 및 여가 생활;명;둥지;The birds built their nest high up in the tree.;;;;;;;국제 및 지역
+970;gain;일상 및 여가 생활;동;얻다;He hoped to gain valuable experience from his internship.;;;;;;;국제 및 지역
+971;curriculum;일상 및 여가 생활;명;교육 과정;The curriculum for the new semester included a variety of subjects.;;;;;;;국제 및 지역
+972;sew;교육과 학습;동;바느질하다;She learned how to sew her own clothes.;;;;;;;국제 및 지역
+973;masculine;일상 및 여가 생활;형;남자의;He had a masculine physique with broad shoulders and strong muscles.;;;;;;;국제 및 지역
+974;frown;일상 및 여가 생활;동;눈살을 찌푸리다;She frowned at the news of her friend's illness.;명;찡그린 얼굴;His constant frown made him appear unapproachable.;;;;국제 및 지역
+975;astound;일상 및 여가 생활;동;놀라게 하다, 깜짝 놀라게 하다;The magician's tricks never failed to astound the audience.;;;;;;;국제 및 지역
+976;dictator;일상 및 여가 생활;명;독재자;The dictator ruled the country with an iron fist.;;;;;;;국제 및 지역
+977;assessment;일상 및 여가 생활;명;평가;Her assessment of the situation was accurate and insightful.;;;;;;;국제 및 지역
+978;crucial;일상 및 여가 생활;형;중대한, 결정적인;The final exam was crucial for his graduation.;;;;;;;국제 및 지역
+979;paralysis;일상 및 여가 생활;명;마비;The accident left him paralyzed from the waist down.;;;;;;;국제 및 지역
+980;deck;일상 및 여가 생활;명;(배의) 갑판;They enjoyed the view from the deck of the cruise ship.;;;;;;;국제 및 지역
+981;cheer;스포츠;명;환호;The crowd erupted into cheers as the team scored the winning goal.;동;환호하다;She cheered on her favorite team from the sidelines.;;;;국제 및 지역
+982;miserable;일상 및 여가 생활;형;비참한;He felt miserable after failing his driving test for the third time.;;;;;;;국제 및 지역
+983;tease;일상 및 여가 생활;동;괴롭히다;He liked to tease his little sister by hiding her toys.;;;;;;;인간과 사회
+984;aggressive;일상 및 여가 생활;형;공격적인;The dog became aggressive when approached by strangers.;;;;;;;국제 및 지역
+985;cure;건강과 의료;동;치료하다;Doctors are working hard to find a cure for cancer.;명;치료;Herbs were used as a cure for various ailments in traditional medicine.;;;;국제 및 지역
+986;attribute;일상 및 여가 생활;동;~의 결과로 여기다;She attributed her success to hard work and determination.;명;속성;One important attribute of a good leader is honesty.;;;;국제 및 지역
+987;foster;음식과 요리;동;육성하다;The organization aims to foster creativity and innovation among its employees.;;;;;;;국제 및 지역
+988;phychologist;일상 및 여가 생활;명;심리학자;The psychologist helped her work through her anxiety issues.;;;;;;;국제 및 지역
+989;postpone;일상 및 여가 생활;동;연기하다;The meeting was postponed until next week due to scheduling conflicts.;;;;;;;국제 및 지역
+990;rob;일상 및 여가 생활;동;강탈하다, 훔치다;The thieves robbed the bank and fled with millions of dollars.;;;;;;;국제 및 지역
+991;abuse;일상 및 여가 생활;동;남용하다, 학대하다;He was arrested for abusing his position of authority for personal gain.;명;남용, 학대;She suffered years of abuse at the hands of her ex-husband.;;;;국제 및 지역
+992;unemployed;일상 및 여가 생활;형;실업의;The unemployed workers protested outside the factory for better conditions.;;;;;;;국제 및 지역
+993;breakdown;문화와 예술;명;고장, 쇠약;The breakdown of communication between departments led to inefficiencies.;;;;;;;국제 및 지역
+994;disguise;일상 및 여가 생활;동;숨기다, 변장;The spy disguised himself as a waiter to gather information.;;;;;;;국제 및 지역
+995;blueprint;일상 및 여가 생활;명;청사진;The architect presented the blueprint for the new building.;;;;;;;국제 및 지역
+996;rear;일상 및 여가 생활;형;뒤의;The rear entrance of the building was used for deliveries.;명;뒤;The rear of the car was damaged in the accident.;동;기르다;She helped rear her younger siblings after their parents passed away.;국제 및 지역
+997;output;일상 및 여가 생활;명;생산량;The factory increased its output to meet growing demand.;;;;;;;국제 및 지역
+998;sermon;일상 및 여가 생활;명;설교;The pastor delivered a powerful sermon on forgiveness.;;;;;;;국제 및 지역
+999;sprout;일상 및 여가 생활;동;싹이 트다. 싹;The seeds sprouted after being planted in fertile soil.;;;;;;;국제 및 지역
+1000;tin;일상 및 여가 생활;명;주석, 양철;She stored cookies in a tin to keep them fresh.;;;;;;;국제 및 지역
+1001;reform;건강과 의료;동;개혁하다;The government initiated a reform to improve the healthcare system.;명;개혁;A reform in the education system led to significant improvements in student performance.;;;;국제 및 지역
+1002;deal;일상 및 여가 생활;동;다루다;He's skilled at dealing with difficult situations.;명;거래;The company struck a deal with its competitors to expand its market share.;;;;국제 및 지역
+1003;recruit;일상 및 여가 생활;동;모집하다;The army recruits new soldiers every year.;명;신병;The recruit showed great promise during training.;;;;국제 및 지역
+1004;maintain;일상 및 여가 생활;동;유지하다;It's important to maintain good relations with your neighbors.;명;유지;Maintenance of the machinery is crucial for smooth operation.;;;;국제 및 지역
+1005;workshop;문화와 예술;명;작업장;The workshop was equipped with state-of-the-art tools.;명;워크숍, 강습;He attended a workshop on financial planning.;;;;국제 및 지역
+1006;patient;건강과 의료;명;환자;The hospital treated hundreds of patients every day.;형, 명;참을성 있는, 참을성;Patience is a virtue that he lacks.;;;;국제 및 지역
+1007;convention;일상 및 여가 생활;명;총회;The convention attracted delegates from all over the world.;명, 형;관습, 관습적인;The convention of tipping waiters is common in many countries.;;;;국제 및 지역
+1008;devastate;일상 및 여가 생활;동;황폐시키다;The hurricane devastated the coastal town.;형,명;황폐, 황폐한;The aftermath of the war left the city in a state of devastation.;;;;국제 및 지역
+1009;reap;일상 및 여가 생활;동;수확하다;After years of hard work, he finally reaped the rewards of his labor.;명,형;수확, 수확기;The harvest season is when farmers reap the fruits of their labor.;;;;국제 및 지역
+1010;overlook;일상 및 여가 생활;동;간과하다;She overlooked the importance of double-checking her work.;동,부;내려다보다, 내려다보는;From the mountain peak, they could overlook the entire valley below.;;;;국제 및 지역
+1011;deliver;일상 및 여가 생활;동;배달하다;The courier delivered the package to the wrong address.;동;(연설을)하다, (연설을)하고 나서;The president will deliver a speech at the conference tomorrow.;;;;국제 및 지역
+1012;reject;일상 및 여가 생활;동;거부하다;The committee decided to reject the proposal.;명,형;거부, 거부하는;The rejection of his application was disappointing.;;;;인간과 사회
+1013;nourish;일상 및 여가 생활;동;영양분을 주다;The mother nourished her baby with breast milk.;동,형;기르다, 기르는;The soil was nourished by regular applications of fertilizer.;;;;국제 및 지역
+1014;bay;일상 및 여가 생활;명;만;The ship anchored in the sheltered bay.;명;분만, 해역;The bay was dotted with fishing boats.;;;;국제 및 지역
+1015;stun;일상 및 여가 생활;동;놀라게 하다;Her performance on stage stunned the audience into silence.;형;깜짝 놀라게 하는;The sudden news of his resignation stunned everyone in the office.;;;;인간과 사회
+1016;particular;문화와 예술;형;특정한;He had a particular interest in ancient history.;부;특히;This particular solution is effective for solving complex problems.;;;;국제 및 지역
+1017;bulletin;스포츠;명;게시(물);The bulletin board displayed important announcements.;명, 동;소식, 소식을 전하다;The daily bulletin included weather forecasts and local news.;;;;국제 및 지역
+1018;fluid;일상 및 여가 생활;형;유동성의;Fluid dynamics is a branch of physics that studies the behavior of fluids.;명;유동체;The mechanics of fluid flow are complex and fascinating.;;;;국제 및 지역
+1019;affair;일상 및 여가 생활;명;일;His personal affairs were in disarray after the divorce.;명;사건, 이벤트;The political affair caused a scandal in the media.;;;;국제 및 지역
+1020;dawn;문화와 예술;명;새벽;The birds started chirping at the break of dawn.;동;날이 새다;The sky began to lighten as dawn approached.;;;;국제 및 지역
+1021;hostile;일상 및 여가 생활;형;적대적인;The hostile takeover bid was met with strong opposition from shareholders.;명,형;적대, 적대적인;His hostile attitude made it difficult to negotiate with him.;;;;국제 및 지역
+1022;characteristic;일상 및 여가 생활;명;특징;One characteristic of a good leader is the ability to listen to others.;형;특징적인;The region is known for its characteristic cuisine and culture.;;;;과학과 기술
+1023;respect;일상 및 여가 생활;동;존경하다;She respected her mentor for his wisdom and guidance.;명;존경;Respect for elders is a common value in many cultures.;;;;국제 및 지역
+1024;await;일상 및 여가 생활;동;기다리다;She awaited the arrival of her long-lost brother with anticipation.;형;기다리는;The troops awaited further orders from their commanding officer.;;;;국제 및 지역
+1025;concrete;일상 및 여가 생활;형;구체적인;The architect presented concrete plans for the new building.;명;콘크리트;The sidewalk was made of concrete.;;;;국제 및 지역
+1026;lease;일상 및 여가 생활;동;임대하다;They decided to lease the office space rather than buy it outright.;명;임대차 계약;The lease agreement stipulated the terms and conditions of the rental.;;;;국제 및 지역
+1027;racial;일상 및 여가 생활;형;인종의;Racial discrimination is a serious problem in many societies.;명,형;인종, 인종적인;The racial makeup of the neighborhood was diverse.;;;;국제 및 지역
+1028;variable;과학과 기술;형;변수;The success of the experiment depended on controlling all variables.;명,형;변동, 변동하는;The weather in this region is highly variable.;;;;국제 및 지역
+1029;satisfy;문화와 예술;동;만족시키다;He satisfied his hunger with a hearty meal.;명, 형;만족, 만족스러운;The customer's needs were satisfied by the company's prompt service.;;;;국제 및 지역
+1030;rule;일상 및 여가 생활;명;규칙;The rules of the game were simple and easy to follow.;동;지배하다;The dictator ruled the country with an iron fist.;;;;국제 및 지역
+1031;perseverance;일상 및 여가 생활;명;인내심;His perseverance in the face of adversity was admirable.;;;;;;;국제 및 지역
+1032;fatal;일상 및 여가 생활;형;치명적인;The disease had a fatal outcome for many of its victims.;;;;;;;국제 및 지역
+1033;remove;일상 및 여가 생활;동;제거하다;She carefully removed the splinter from her finger.;;;;;;;국제 및 지역
+1034;invert;일상 및 여가 생활;동;뒤집다;The image was inverted in the mirror.;;;;;;;국제 및 지역
+1035;tension;일상 및 여가 생활;명;긴장;The tension in the room was palpable as they awaited the results.;;;;;;;건강과 웰빙
+1036;reign;일상 및 여가 생활;명;통치;During his reign; the king implemented many reforms.;;;;;;국제 및 지역
+1037;crack;일상 및 여가 생활;명;금이 가다;The crack in the vase was barely noticeable at first.;;;;;;;국제 및 지역
+1038;startle;문화와 예술;동;깜짝 놀라게 하다;The loud noise startled the cat.;;;;;;;인간과 사회
+1039;discourage;일상 및 여가 생활;동;낙담시키다;Despite the setbacks; she refused to be discouraged.;;;;;;국제 및 지역
+1040;compensate;일상 및 여가 생활;동;보상하다;The company compensated the workers for their overtime.;;;;;;;국제 및 지역
+1041;convert;일상 및 여가 생활;동;전환시키다;They converted the old warehouse into a modern office space.;;;;;;;국제 및 지역
+1042;strike;일상 및 여가 생활;동;치다;The lightning strike caused a power outage in the neighborhood.;;;;;;;국제 및 지역
+1043;suppress;정치, 법률 및 사회;동;억압하다;The government sought to suppress dissent among the population.;;;;;;;국제 및 지역
+1044;core;일상 및 여가 생활;명;핵심;The core of the argument lies in the interpretation of the data.;;;;;;;국제 및 지역
+1045;contribute;일상 및 여가 생활;동;공헌하다;She contributed her time and effort to the charity organization.;;;;;;;국제 및 지역
+1046;spear;일상 및 여가 생활;명;창;The warrior wielded his spear with deadly accuracy.;;;;;;;국제 및 지역
+1047;renowned;과학과 기술;형;명성 있는;The renowned scientist received the Nobel Prize for his groundbreaking research.;;;;;;;인간과 사회
+1048;era;문화와 예술;명;시대;The Renaissance era was characterized by a flourishing of arts and culture.;;;;;;;국제 및 지역
+1049;withdraw;일상 및 여가 생활;동;인출하다;He decided to withdraw his savings from the bank.;;;;;;;국제 및 지역
+1050;immigrate;일상 및 여가 생활;동;이주하다;Many people immigrate to other countries in search of better opportunities.;;;;;;;국제 및 지역
+1051;dignity;일상 및 여가 생활;명;존엄;He conducted himself with dignity even in the face of criticism.;;;;;;;국제 및 지역
+1052;notify;일상 및 여가 생활;동;통보하다;The school will notify parents of any changes to the schedule.;;;;;;;국제 및 지역
+1053;animate;문화와 예술;동;생명을 주다;The artist animated the characters with skill and precision.;;;;;;;국제 및 지역
+1054;prevent;건강과 의료;동;예방하다;Regular exercise can help prevent many diseases.;;;;;;;국제 및 지역
+1055;bilingual;일상 및 여가 생활;형;2개 국어의;She is fluent in both English and French; making her bilingual.;;;;;;국제 및 지역
+1056;mischief;일상 및 여가 생활;명;나쁜 짓;The children got into mischief when left unsupervised.;;;;;;;국제 및 지역
+1057;discriminate;정치, 법률 및 사회;동;차별하다;It is illegal to discriminate against someone based on their race or religion.;;;;;;;국제 및 지역
+1058;exemplify;일상 및 여가 생활;동;모범이 되다;His dedication to his work exemplified the company's values.;;;;;;;국제 및 지역
+1059;adhere;일상 및 여가 생활;동;고수하다;It's important to adhere to the principles of honesty and integrity.;;;;;;;국제 및 지역
+1060;judge;음식과 요리;동;판단하다;She will judge the competition based on creativity and originality.;;;;;;;국제 및 지역
+1061;peculiar;일상 및 여가 생활;형;독특한;His peculiar behavior often puzzled his colleagues.;;;;;;;국제 및 지역
+1062;sake;일상 및 여가 생활;명;위함;He sacrificed his own sake for the sake of others.;;;;;;;국제 및 지역
+1063;choke;음식과 요리;동;질식시키다;The thick smoke made it difficult to breathe and threatened to choke him.;;;;;;;국제 및 지역
+1064;folktale;문화와 예술;명;민담;Folktales are traditional stories passed down through generations.;;;;;;;국제 및 지역
+1065;simultaneously;일상 및 여가 생활;부;동시에;The two events happened simultaneously; causing confusion among the audience.;;;;;;국제 및 지역
+1066;range;일상 및 여가 생활;명;범위;The store offers a wide range of products to suit every customer's needs.;;;;;;;국제 및 지역
+1067;groom;일상 및 여가 생활;동;양육하다;She spent hours grooming her horse for the competition.;;;;;;;국제 및 지역
+1068;supernatural;일상 및 여가 생활;형;초자연적인;The supernatural elements in the story added an air of mystery and intrigue.;;;;;;;국제 및 지역
+1069;tender;음식과 요리;형;부드러운;The meat was so tender that it melted in your mouth.;;;;;;;국제 및 지역
+1070;instinct;일상 및 여가 생활;명;본능;His instinct told him that something was wrong.;;;;;;;국제 및 지역
+1071;gigantic;일상 및 여가 생활;형;거대한;The construction project involved moving gigantic boulders.;;;;;;;국제 및 지역
+1072;meditate;일상 및 여가 생활;동;명상하다;He liked to meditate in the quiet solitude of the forest.;;;;;;;국제 및 지역
+1073;mow;정치, 법률 및 사회;동;베다;He mowed the lawn every Sunday morning.;;;;;;;국제 및 지역
+1074;evolve;일상 및 여가 생활;동;진화하다;Over time; plants and animals evolve to adapt to their environment.;;;;;;국제 및 지역
+1075;chase;일상 및 여가 생활;동;추격하다;The police chased the suspect through the narrow streets of the city.;;;;;;;국제 및 지역
+1076;afflict;일상 및 여가 생활;동;괴롭히다;The disease afflicts millions of people around the world.;;;;;;;인간과 사회
+1077;literate;문화와 예술;형;글을 읽고 쓸 수 있는;In today's society; it's essential to be literate to succeed in life.;;;;;;국제 및 지역
+1078;coherent;일상 및 여가 생활;형;일관성 있는;His argument was logical and coherent.;;;;;;;국제 및 지역
+1079;intolerable;음식과 요리;형;참을 수 없는;The heat in the room was intolerable.;;;;;;;국제 및 지역
+1080;fountain;일상 및 여가 생활;명;분수;The fountain in the park was a popular spot for tourists to take photos.;;;;;;;국제 및 지역
+1081;bold;일상 및 여가 생활;형;대담한;She made a bold decision to quit her job and travel the world.;;;;;;;국제 및 지역
+1082;compliment;일상 및 여가 생활;동;칭찬하다;She complimented him on his excellent presentation.;명;칭찬;Receiving a compliment from her boss made his day.;;;;국제 및 지역
+1083;summit;일상 및 여가 생활;명;정상;They reached the summit of the mountain just as the sun began to rise.;;;;;;;국제 및 지역
+1084;troop;일상 및 여가 생활;명;군대;The troops marched in formation down the street.;;;;;;;국제 및 지역
+1085;alter;일상 및 여가 생활;동;변경하다;They decided to alter the original plan to accommodate the new requirements.;;;;;;;국제 및 지역
+1086;conceive;일상 및 여가 생활;동;상상하다;The idea for the novel was conceived during a long train journey.;;;;;;;국제 및 지역
+1087;durability;일상 및 여가 생활;명;내구성;The durability of the product is one of its key selling points.;;;;;;;국제 및 지역
+1088;destroy;문화와 예술;동;파괴하다;The earthquake destroyed many buildings in the city.;;;;;;;국제 및 지역
+1089;shallow;일상 및 여가 생활;형;얕은;The pond was so shallow that you could see the bottom.;;;;;;;국제 및 지역
+1090;face;일상 및 여가 생활;명;얼굴;Her face lit up with joy when she saw him.;동;직면하다;He had to face the consequences of his actions.;;;;국제 및 지역
+1091;promote;일상 및 여가 생활;동;촉진하다;The company promoted him to a higher position.;;;;;;;국제 및 지역
+1092;weep;일상 및 여가 생활;동;울다;She wept tears of joy at the news of her sister's recovery.;;;;;;;국제 및 지역
+1093;grasp;일상 및 여가 생활;동;이해하다;She couldn't quite grasp the concept of quantum physics.;;;;;;;국제 및 지역
+1094;overall;일상 및 여가 생활;형;전반적인;His overall performance was satisfactory.;;;;;;;국제 및 지역
+1095;superstition;일상 및 여가 생활;명;미신;Superstitions are beliefs based on irrational fears.;;;;;;;국제 및 지역
+1096;colony;일상 및 여가 생활;명;식민지;The British established a colony in the New World.;;;;;;;국제 및 지역
+1097;absurd;문화와 예술;형;터무니없는;The idea that the Earth is flat is absurd.;;;;;;;국제 및 지역
+1098;dormitory;교육과 학습;명;기숙사;The students gathered in the dormitory to study together.;;;;;;;국제 및 지역
+1099;conduct;일상 및 여가 생활;동;행동하다;He conducted himself with dignity at all times.;명;행위;The scientist's conduct during the experiment was professional.;;;;국제 및 지역
+1100;prone;일상 및 여가 생활;형;~하는 경향이 있는;She's prone to getting sunburned easily.;;;;;;;국제 및 지역
+1101;conceal;일상 및 여가 생활;동;숨기다;They tried to conceal their laughter during the serious meeting.;;;;;;;국제 및 지역
+1102;retreat;음식과 요리;동;후퇴하다;The army was forced to retreat in the face of overwhelming enemy forces.;명;후퇴;The mountain retreat offered a peaceful escape from city life.;;;;국제 및 지역
+1103;compulsive;일상 및 여가 생활;형;강제적인, 강박의;Compulsive behavior often requires professional intervention to address effectively.;;;;;;;국제 및 지역
+1104;clinic;일상 및 여가 생활;명;전문 병원;She visited the clinic for her regular check-up.;;;;;;;국제 및 지역
+1105;banner;스포츠;명;현수막;The banner displayed the company's logo and slogan.;;;;;;;국제 및 지역
+1106;formulate;일상 및 여가 생활;동;만들어내다;The scientist formulated a new theory to explain the phenomenon.;;;;;;;국제 및 지역
+1107;vow;일상 및 여가 생활;명;맹세;They exchanged vows in front of their friends and family at the wedding.;;;;;;;국제 및 지역
+1108;malnutrition;건강과 의료;명;영양실조;Children in developing countries often suffer from malnutrition due to lack of access to proper food and healthcare.;;;;;;;국제 및 지역
+1109;relate;과학과 기술;동;관련시키다;The professor related the new research findings to previous studies in the field.;;;;;;;국제 및 지역
+1110;undergo;일상 및 여가 생활;동;겪다;She underwent surgery to repair the damage to her knee.;;;;;;;국제 및 지역
+1111;boast;일상 및 여가 생활;동;자랑하다;He boasted about his achievements at work.;;;;;;;국제 및 지역
+1112;neutral;일상 및 여가 생활;형;중립의;The judge remained neutral throughout the trial.;;;;;;;국제 및 지역
+1113;stain;일상 및 여가 생활;명;얼룩;The red wine left a stain on the carpet.;;;;;;;국제 및 지역
+1114;incentive;일상 및 여가 생활;명;장려책;The company offers incentives for employees who meet their targets.;;;;;;;국제 및 지역
+1115;float;일상 및 여가 생활;동;뜨다;The boat floated peacefully on the calm waters of the lake.;;;;;;;국제 및 지역
+1116;tendency;일상 및 여가 생활;명;경향;She has a tendency to procrastinate when faced with difficult tasks.;;;;;;;국제 및 지역
+1117;applause;일상 및 여가 생활;명;박수갈채;The performance received a standing ovation and thunderous applause from the audience.;;;;;;;국제 및 지역
+1118;wrestle;일상 및 여가 생활;동;싸우다;The two wrestlers wrestled fiercely for the championship title.;;;;;;;국제 및 지역
+1119;sensation;음식과 요리;명;감각;The warm sunlight on her skin created a pleasant sensation.;;;;;;;국제 및 지역
+1120;Confucian;문화와 예술;형;유교의;In Confucian tradition, 60th birthdays are particularly significant.;;;;;;;국제 및 지역
+1121;diameter;일상 및 여가 생활;명;지름;The diameter of the circle is twice the length of its radius.;;;;;;;국제 및 지역
+1122;ultrasound;건강과 의료;명;초음파;Doctors use ultrasound to monitor the development of the fetus during pregnancy.;;;;;;;국제 및 지역
+1123;propriety;일상 및 여가 생활;명;적절성;He conducted himself with propriety at the formal dinner.;;;;;;;국제 및 지역
+1124;anecdote;문화와 예술;명;일화;She shared an amusing anecdote from her childhood at the party.;;;;;;;국제 및 지역
+1125;shrub;일상 및 여가 생활;명;관목;The garden was filled with colorful shrubs and flowers.;;;;;;;국제 및 지역
+1126;pledge;일상 및 여가 생활;명;서약;They made a pledge to support each other through thick and thin.;;;;;;;국제 및 지역
+1127;cost;일상 및 여가 생활;명;가격;The cost of living in the city is much higher than in rural areas.;;;;;;;국제 및 지역
+1128;geology;교육과 학습;명;지질학;The study of geology helps us understand the formation of the Earth's crust.;;;;;;;국제 및 지역
+1129;detect;일상 및 여가 생활;동;찾아내다;The detective was able to detect the hidden clues in the crime scene.;;;;;;;국제 및 지역
+1130;temperate;건강과 의료;형;절제하는;She maintained a temperate diet to improve her overall health.;;;;;;;국제 및 지역
+1131;soar;일상 및 여가 생활;동;급등하다;The stock prices soared after the company announced record profits.;;;;;;;국제 및 지역
+1132;mock;일상 및 여가 생활;동;조롱하다;She felt hurt when her classmates mocked her for being different.;형;모조의;The mock exam helped students prepare for the final test.;;;;국제 및 지역
+1133;disclose;일상 및 여가 생활;동;폭로하다;The whistleblower decided to disclose the company's unethical practices to the authorities.;;;;;;;국제 및 지역
+1134;exhibit;문화와 예술;동;전시하다;The museum will exhibit rare artifacts from ancient civilizations next month.;명;전시품;Each exhibit showcased a different aspect of the artist's work.;;;;국제 및 지역
+1135;symptom;일상 및 여가 생활;명;증상;One common symptom of the flu is a high fever.;;;;;;;국제 및 지역
+1136;manage;일상 및 여가 생활;동;관리하다;She managed her time effectively to balance work and family responsibilities.;;;;;;;국제 및 지역
+1137;awkward;문화와 예술;형;어색한;He felt awkward at the party because he didn't know anyone.;;;;;;;국제 및 지역
+1138;grind;일상 및 여가 생활;동;갈다;She used a mortar and pestle to grind the spices into a fine powder.;;;;;;;국제 및 지역
+1139;expose;일상 및 여가 생활;동;노출시키다;The documentary aims to expose the truth behind the conspiracy theories.;;;;;;;국제 및 지역
+1140;closet;음식과 요리;명;벽장;She organized her clothes neatly in the closet.;;;;;;;국제 및 지역
+1141;damp;일상 및 여가 생활;형;축축한;The basement felt damp and musty after the heavy rain.;;;;;;;국제 및 지역
+1142;script;문화와 예술;명;대본;The actors rehearsed their lines from the script before filming started.;;;;;;;국제 및 지역
+1143;possibility;일상 및 여가 생활;명;가능성;There is a possibility of rain later this afternoon.;;;;;;;국제 및 지역
+1144;fad;일상 및 여가 생활;명;유행;The latest diet fad promises quick weight loss with minimal effort.;;;;;;;국제 및 지역
+1145;sibling;일상 및 여가 생활;명;형제자매;He has a close bond with his siblings.;;;;;;;국제 및 지역
+1146;linger;일상 및 여가 생활;동;남아 있다;The smell of freshly baked bread lingered in the kitchen.;;;;;;;국제 및 지역
+1147;flourish;일상 및 여가 생활;동;번성하다;Under the right conditions, plants will flourish and grow rapidly.;;;;;;;국제 및 지역
+1148;discharge;일상 및 여가 생활;명;해고;He received a discharge from the army after completing his service.;동;방출하다;The factory was fined for discharging pollutants into the river.;;;;국제 및 지역
+1149;thorough;경제, 금융 및 산업;형;철저한;She conducted a thorough investigation into the company's finances.;;;;;;;국제 및 지역
+1150;undertake;일상 및 여가 생활;동;착수하다;The company will undertake a comprehensive review of its operations.;;;;;;;국제 및 지역
+1151;cord;일상 및 여가 생활;명;끈;She tied the package with a sturdy cord before sending it in the mail.;;;;;;;국제 및 지역
+1152;linguistic;문화와 예술;형;언어의;Linguistic differences can sometimes lead to misunderstandings between cultures.;;;;;;;국제 및 지역
+1153;remedy;일상 및 여가 생활;명;치료;Home remedies such as herbal teas can help alleviate symptoms of the common cold.;;;;;;;국제 및 지역
+1154;sole;일상 및 여가 생활;형;유일한;She was the sole survivor of the plane crash.;;;;;;;국제 및 지역
+1155;sophomore;일상 및 여가 생활;명;2학년생;As a sophomore in college, she was excited to explore new academic opportunities.;;;;;;;국제 및 지역
+1156;panel;일상 및 여가 생활;명;판;The committee appointed a panel of experts to review the proposed changes.;;;;;;;국제 및 지역
+1157;suitor;일상 및 여가 생활;명;구혼자;She received numerous letters from potential suitors after her debutante ball.;;;;;;;국제 및 지역
+1158;pillar;일상 및 여가 생활;명;기둥;The ancient temple was supported by massive stone pillars.;;;;;;;국제 및 지역
+1159;explode;스포츠;동;폭발하다;The fireworks exploded in a dazzling display of colors.;;;;;;;국제 및 지역
+1160;illusion;음식과 요리;명;착각;His success was merely an illusion created by clever marketing.;;;;;;;국제 및 지역
+1161;draft;일상 및 여가 생활;명;초안;She revised the draft of her novel before submitting it to the publisher.;동;초안을 그리다;The architect drafted plans for the new building.;;;;국제 및 지역
+1162;crude;문화와 예술;형;조잡한;The painting was a crude attempt at capturing the beauty of nature.;;;;;;;국제 및 지역
+1163;supplement;일상 및 여가 생활;명;보충;He took vitamin supplements to boost his immune system.;동;보충하다;The company will supplement its workforce with temporary employees during the busy season.;;;;국제 및 지역
+1164;velocity;일상 및 여가 생활;명;속도;The velocity of the car increased as it went down the hill.;;;;;;;국제 및 지역
+1165;tame;일상 및 여가 생활;동;길들이다;She spent months trying to tame the wild horse.;형;길들여진;The once wild animal had become tame after years of domestication.;;;;국제 및 지역
+1166;molecule;일상 및 여가 생활;명;분자;The scientist studied the structure of the molecule under a microscope.;;;;;;;국제 및 지역
+1167;reed;일상 및 여가 생활;명;갈대;The wind rustled through the tall reeds growing along the riverbank.;;;;;;;국제 및 지역
+1168;dismay;일상 및 여가 생활;명;실망;She felt a sense of dismay when she saw the damage caused by the storm.;동;실망시키다;The news of the layoffs dismayed the employees.;;;;국제 및 지역
+1169;diagnose;건강과 의료;동;진단하다;The doctor was able to diagnose the illness based on the patient's symptoms.;;;;;;;국제 및 지역
+1170;versus;일상 및 여가 생활;전;~대, ~비해;It is France versus Brazil in the final.;;;;;;;국제 및 지역
+1171;reservoir;일상 및 여가 생활;명;저수지;The reservoir provided water for the entire city.;;;;;;;국제 및 지역
+1172;conform;일상 및 여가 생활;동;따르다;Employees are expected to conform to the company's dress code.;;;;;;;국제 및 지역
+1173;spacious;문화와 예술;형;넓은;The apartment was spacious and filled with natural light.;;;;;;;국제 및 지역
+1174;weave;일상 및 여가 생활;명;짜기;The intricate weave of the fabric made it highly desirable.;;;;;;;국제 및 지역
+1175;ceremony;일상 및 여가 생활;명;의식;The wedding ceremony was a beautiful celebration of love and commitment.;;;;;;;국제 및 지역
+1176;motive;일상 및 여가 생활;명;동기;The police investigated the suspect's possible motives for committing the crime.;;;;;;;국제 및 지역
+1177;prominent;건강과 의료;형;두드러진;She was a prominent figure in the field of medicine.;;;;;;;국제 및 지역
+1178;archaeology;음식과 요리;명;고고학;The archaeology team discovered ancient artifacts buried beneath the desert sands.;;;;;;;국제 및 지역
+1179;rigid;교육과 학습;형;엄격한;The teacher had a rigid teaching style that didn't allow for much creativity.;;;;;;;국제 및 지역
+1180;inferior;일상 및 여가 생활;형;열등한;He always felt inferior to his more successful siblings.;;;;;;;국제 및 지역
+1181;subtract;일상 및 여가 생활;동;빼다;To find the total, you need to subtract the smaller number from the larger one.;;;;;;;국제 및 지역
+1182;impulse;일상 및 여가 생활;명;충동;She bought the dress on impulse without considering the cost.;;;;;;;국제 및 지역
+1183;utmost;일상 및 여가 생활;형;최대한의;The firefighters worked with the utmost bravery to save the trapped family.;;;;;;;국제 및 지역
+1184;proficient;일상 및 여가 생활;형;숙달된;He is proficient in three languages.;;;;;;;국제 및 지역
+1185;accumulate;일상 및 여가 생활;동;모으다;Over time, dust and dirt accumulate on surfaces if not regularly cleaned.;;;;;;;국제 및 지역
+1186;navigate;일상 및 여가 생활;동;길을 찾다;He used a map to navigate his way through the unfamiliar city.;;;;;;;국제 및 지역
+1187;equity;일상 및 여가 생활;명;공평;The company strives to achieve gender equity in its hiring practices.;;;;;;;국제 및 지역
+1188;violate;일상 및 여가 생활;동;위반하다;He was fined for violating the terms of his probation.;;;;;;;국제 및 지역
+1189;ambitious;경제, 금융 및 산업;형;야망을 가진;She has ambitious plans to start her own business.;;;;;;;국제 및 지역
+1190;intact;일상 및 여가 생활;형;온전한;The ancient ruins remained intact despite centuries of neglect.;;;;;;;국제 및 지역
+1191;plea;일상 및 여가 생활;명;애원;The defendant made a plea for leniency during sentencing.;;;;;;;국제 및 지역
+1192;attend;일상 및 여가 생활;동;참석하다;She was unable to attend the meeting due to a prior commitment.;;;;;;;국제 및 지역
+1193;trim;음식과 요리;명;정돈;She gave the hedge a trim to keep it neat and tidy.;;;;;;;국제 및 지역
+1194;embody;일상 및 여가 생활;동;구체화하다;His actions embody the values of honesty and integrity.;;;;;;;과학과 기술
+1195;characteristic;일상 및 여가 생활;형;특유의;The characteristic smell of fresh bread filled the bakery.;;;;;;;과학과 기술
+1196;consist;일상 및 여가 생활;동;구성되다;The committee will consist of five members.;;;;;;;국제 및 지역
+1197;boundary;일상 및 여가 생활;명;경계;The river forms the boundary between the two countries.;;;;;;;국제 및 지역
+1198;attack;일상 및 여가 생활;명;공격;The army launched a surprise attack on the enemy's position.;;;;;;;국제 및 지역
+1199;confine;일상 및 여가 생활;동;가두다;The prisoners were confined to their cells during the riot.;;;;;;;국제 및 지역
+1200;dispatch;음식과 요리;명;발송;The dispatch of the urgent documents was delayed due to bad weather.;;;;;;;국제 및 지역
+1201;regret;교육과 학습;동;후회하다;He regretted not studying harder for the exam.;명;후회;Each regret has its unique characteristics.;;;;국제 및 지역
+1202;coffin;일상 및 여가 생활;명;관;The coffin was lowered into the ground during the funeral service.;;;;;;;국제 및 지역
+1203;divine;일상 및 여가 생활;형;신성한;The ancient temple was a place of divine worship.;;;;;;;국제 및 지역
+1204;revenue;일상 및 여가 생활;명;수익;The company's revenue increased significantly after implementing the new marketing strategy.;;;;;;;국제 및 지역
+1205;corrupt;정치, 법률 및 사회;형;부패한, 타락한;Corrupt practices in the government led to widespread public outrage.;동;부패하다, 타락하다;Corrupt helps to 부패하다 resources efficiently.;;;;국제 및 지역
+1206;probe;일상 및 여가 생활;동;조사하다, 연구하다;The scientists used specialized equipment to probe the depths of the ocean.;명;조사;Each probe has its unique characteristics.;;;;국제 및 지역
+1207;factual;일상 및 여가 생활;형;실제의;The news report provided factual information about the incident.;;;;;;;국제 및 지역
+1208;swamp;일상 및 여가 생활;명;늪, 습지;The swamp was home to a diverse range of wildlife.;;;;;;;국제 및 지역
+1209;expedition;일상 및 여가 생활;명;탐험;The expedition to the Arctic was fraught with challenges.;;;;;;;국제 및 지역
+1210;abnormal;음식과 요리;형;이상한, 비정상의;The abnormal weather patterns were causing concern among meteorologists.;;;;;;;국제 및 지역
+1211;storage;일상 및 여가 생활;명;저장소, 저장;The storage room was filled with boxes of old documents.;;;;;;;국제 및 지역
+1212;revive;문화와 예술;동;되살아나다;Efforts to revive the ancient art of calligraphy have been successful.;;;;;;;국제 및 지역
+1213;stool;일상 및 여가 생활;명;(등받이 없는) 의자;The kitchen had a small stool for reaching high shelves.;;;;;;;국제 및 지역
+1214;hinder;음식과 요리;동;방해하다;The bad weather hindered our progress on the hiking trail.;;;;;;;국제 및 지역
+1215;flattery;일상 및 여가 생활;명;아첨;She saw through his flattery and refused to be swayed by it.;;;;;;;국제 및 지역
+1216;virtue;일상 및 여가 생활;명;미덕;The ancient philosopher extolled the virtues of wisdom and courage.;;;;;;;국제 및 지역
+1217;deadline;일상 및 여가 생활;명;기한, 마감시간;The deadline for submitting the project is next Friday.;;;;;;;국제 및 지역
+1218;equator;문화와 예술;명;적도;The equator divides the Earth into the Northern and Southern Hemispheres.;;;;;;;국제 및 지역
+1219;cognitive;교육과 학습;형;인식의;Cognitive psychology focuses on understanding mental processes such as perception and memory.;;;;;;;국제 및 지역
+1220;motion;일상 및 여가 생활;명;운동, 동작;The motion of the waves fascinated the young child.;동;움직임을 보이다;Motion helps to 움직임을 보이다 resources efficiently.;;;;국제 및 지역
+1221;humble;일상 및 여가 생활;형;겸손한, 비천한;His humble demeanor endeared him to everyone he met.;;;;;;;국제 및 지역
+1222;bounce;일상 및 여가 생활;동;튀어 오르다, 깡충깡충 뛰다, (공이) 튀다;The children were delighted to bounce on the trampoline in the backyard.;;;;;;;국제 및 지역
+1223;imprison;일상 및 여가 생활;동;투옥하다;The criminal was imprisoned for his role in the robbery.;;;;;;;국제 및 지역
+1224;enlist;일상 및 여가 생활;동;모집하다;He decided to enlist in the army after graduating from high school.;;;;;;;국제 및 지역
+1225;hygiene;일상 및 여가 생활;명;위생, 위생학;Good hygiene practices are essential for preventing the spread of disease.;;;;;;;국제 및 지역
+1226;upcoming;음식과 요리;형;다가오는;The upcoming conference promises to be a great opportunity for networking.;;;;;;;국제 및 지역
+1227;trace;일상 및 여가 생활;명;자취, 흔적;There was no trace of the missing hikers in the dense forest.;동;추적하다, 밝혀내다;Trace helps to 추적하다 resources efficiently.;;;;국제 및 지역
+1228;pulse;건강과 의료;명;맥박;The doctor checked the patient's pulse to assess his condition.;;;;;;;국제 및 지역
+1229;controversy;음식과 요리;명;논쟁, 언쟁, 논란;The controversial decision sparked heated controversy among the members of the committee.;;;;;;;국제 및 지역
+1230;locate;일상 및 여가 생활;동;(장소를) 찾아내다, -에 위치하다;After hours of searching, they finally managed to locate the missing keys.;;;;;;;국제 및 지역
+1231;patent;일상 및 여가 생활;명;특허;The inventor applied for a patent to protect his new invention.;형;특허를 받은;This solution is particularly patent in its approach.;동;특허권을 얻다;Consultants help to patent resources efficiently.;국제 및 지역
+1232;lyric;일상 및 여가 생활;명;가사;The singer wrote the lyrics for her new song.;;;;;;;국제 및 지역
+1233;convenience;일상 및 여가 생활;명;편의, 편리, 편의시설;The hotel boasted many conveniences for its guests including a swimming pool and gym.;;;;;;;국제 및 지역
+1234;rush;일상 및 여가 생활;동;돌진하다, 급하게 가다;They had to rush to catch the last train home.;명;돌진, 혼잡;Each rush has its unique characteristics.;;;;국제 및 지역
+1235;carbon;기타;명;탄소;Carbon dioxide is a greenhouse gas that contributes to climate change.;;;;;;;국제 및 지역
+1236;contaminate;일상 및 여가 생활;동;오염시키다, 더럽히다;Industrial waste has contaminated the river making it unsafe for swimming.;;;;;;;국제 및 지역
+1237;external;일상 및 여가 생활;형;외부의;The company hired an external consultant to review its marketing strategy.;;;;;;;국제 및 지역
+1238;herd;일상 및 여가 생활;명;떼, 무리;The herd of cattle grazed peacefully in the field.;동;떼를 짓다;Herd helps to herd resources efficiently.;;;;국제 및 지역
+1239;allocate;교육과 학습;동;할당하다, 배분하다;The government plans to allocate more funds for education in the next budget.;;;;;;;국제 및 지역
+1240;gorgeous;일상 및 여가 생활;형;아주 멋진, 화려한;The bride looked gorgeous in her wedding gown.;;;;;;;국제 및 지역
+1241;confess;일상 및 여가 생활;동;고백하다;He finally found the courage to confess his love to her.;;;;;;;국제 및 지역
+1242;subjective;일상 및 여가 생활;형;주관적인;The decision to promote him was based on subjective criteria rather than objective performance metrics.;;;;;;;국제 및 지역
+1243;hell;일상 및 여가 생활;명;지옥;The condemned man believed he would spend eternity in hell for his sins.;;;;;;;국제 및 지역
+1244;acknowledge;일상 및 여가 생활;동;인정하다;She acknowledged her mistake and apologized for it.;;;;;;;인간과 사회
+1245;accord;문화와 예술;명;일치, 합의;The two parties reached an accord after weeks of negotiations.;;;;;;;국제 및 지역
+1246;immense;음식과 요리;형;엄청난;The artist was known for his immense talent and creativity.;;;;;;;국제 및 지역
+1247;extract;일상 및 여가 생활;동;추출하다,;The dentist had to extract the decayed tooth to prevent further infection.;명;추출물;Each extract has its unique characteristics.;;;;국제 및 지역
+1248;sewage;일상 및 여가 생활;명;하수, 오물;The city installed a new sewage system to prevent pollution of the river.;;;;;;;국제 및 지역
+1249;reconciliation;음식과 요리;명;화해;The two countries signed a treaty of reconciliation to end years of conflict.;;;;;;;국제 및 지역
+1250;amid;일상 및 여가 생활;전;~중에;Amid the chaos of the city, she found a moment of peace.;;;;;;;국제 및 지역
+1251;warrant;일상 및 여가 생활;명;보증서, 영장, 정당한 이유;The police obtained a search warrant to enter the suspect's house.;;;;;;;국제 및 지역
+1252;complement;음식과 요리;동;보완하다;Her skills complemented his perfectly making them a great team.;;;;;;;국제 및 지역
+1253;ceramic;문화와 예술;명;도자기, 요업;The museum had a large collection of ancient ceramic artifacts.;;;;;;;국제 및 지역
+1254;license;경제, 금융 및 산업;명;면허, 인가;He applied for a license to operate his own business.;동;면허를 주다, 허가하다;The agency license examinee after few process.;;;;국제 및 지역
+1255;emerge;일상 및 여가 생활;동;나타나다;The sun emerged from behind the clouds bathing the landscape in golden light.;;;;;;;국제 및 지역
+1256;halt;일상 및 여가 생활;동;정지시키다;The construction work came to a halt due to lack of funding.;명;정지, 멈춤;Each halt has its unique characteristics.;;;;국제 및 지역
+1257;ivory;문화와 예술;명;상아, 상아색;The artist carved intricate designs into the ivory tusk.;;;;;;;국제 및 지역
+1258;ponder;일상 및 여가 생활;동;곰곰이 생각하다, 심사숙고하다;She sat by the window pondering the meaning of life.;;;;;;;국제 및 지역
+1259;lottery;일상 및 여가 생활;명;복권, 추첨;He won the lottery and became an instant millionaire.;;;;;;;국제 및 지역
+1260;stroke;일상 및 여가 생활;명;타격, 뇌졸증;The stroke of midnight signaled the beginning of the new year.;;;;;;;국제 및 지역
+1261;burglar;일상 및 여가 생활;명;강도;The burglar was caught red-handed trying to break into the house.;;;;;;;국제 및 지역
+1262;blame;일상 및 여가 생활;동;비난하다, ~을 탓하다;She couldn't help but blame herself for the accident.;명;비난;Each blame has its unique characteristics.;;;;국제 및 지역
+1263;transplant;일상 및 여가 생활;동;이식하다;She received a kidney transplant from her brother.;;;;;;;국제 및 지역
+1264;cluster;일상 및 여가 생활;명;무리;A cluster of stars twinkled in the night sky.;;;;;;;국제 및 지역
+1265;borrow;경제, 금융 및 산업;동;빌리다;He had to borrow money from his parents to pay for college tuition.;;;;;;;국제 및 지역
+1266;derive;일상 및 여가 생활;동;끌어내다, ~에서 비롯되다;The word 'gourmet' is derived from the French word 'groumette'.;;;;;;;국제 및 지역
+1267;plague;일상 및 여가 생활;명;전염병;The plague decimated the population of Europe during the Middle Ages.;동;괴롭히다;They plague a student consistently.;;;;인간과 사회
+1268;certificate;스포츠;명;증명서;She proudly displayed her certificate of achievement on the wall.;;;;;;;국제 및 지역
+1269;deluxe;일상 및 여가 생활;형;호화로운, 고급의;They booked a deluxe suite for their honeymoon.;;;;;;;국제 및 지역
+1270;convey;일상 및 여가 생활;동;나르다,전달하다, (생각, 감정을) 전하다;She used body language to convey her feelings when words failed her.;;;;;;;국제 및 지역
+1271;depth;일상 및 여가 생활;명;깊이;The depth of the ocean is still largely unexplored.;;;;;;;국제 및 지역
+1272;evaporate;일상 및 여가 생활;동;증발하다;The puddle of water evaporated quickly in the hot sun.;;;;;;;국제 및 지역
+1273;lame;일상 및 여가 생활;형;절름발이의, 설득력이 없는;The excuse he gave for being late was pretty lame.;;;;;;;국제 및 지역
+1274;conduct;스포츠;동;실시하다, 수행하다, 행동하다;The conductor raised his baton and the orchestra began to play.;명;행위;Each conduct has its unique characteristics.;;;;국제 및 지역
+1275;sour;일상 및 여가 생활;형;(맛이)신;The lemonade tasted sour because it had too much sugar in it.;;;;;;;국제 및 지역
+1276;repetitive;기타;형;반복성의;The repetitive nature of the job soon became tedious.;;;;;;;국제 및 지역
+1277;oppress;일상 및 여가 생활;동;억압하다, 탄압하다;The dictator's regime oppressed its citizens and denied them basic freedoms.;;;;;;;국제 및 지역
+1278;leftover;일상 및 여가 생활;명;남은 음식, 잔재;She packed up the leftover food to take home after the party.;;;;;;;국제 및 지역
+1279;embrace;일상 및 여가 생활;동;포옹하다, 껴안다, 수용하다;He opened his arms to embrace his long-lost friend.;;;;;;;국제 및 지역
+1280;blade;일상 및 여가 생활;명;칼날;He sharpened the blade of the knife before starting to cook.;;;;;;;국제 및 지역
+1281;abundant;일상 및 여가 생활;형;풍부한;The forest was abundant with wildlife and plant species.;;;;;;;국제 및 지역
+1282;duplicate;일상 및 여가 생활;형;똑같은;She made a duplicate copy of the document for her records.;동;복사하다;Duplicate helps to 복사하다 resources efficiently.;명;사본;Each duplicate has its unique characteristics.;국제 및 지역
+1283;remind;일상 및 여가 생활;동;상기시키다, 생각나게 하다;The old photograph reminded him of his childhood spent by the lake.;;;;;;;국제 및 지역
+1284;altitude;일상 및 여가 생활;명;고도;The airplane ascended to a cruising altitude of 35,000 feet.;;;;;;;국제 및 지역
+1285;glimpse;일상 및 여가 생활;동;흘끗 보다;She caught a glimpse of him through the crowd before he disappeared.;명;흘끗 봄;Each glimpse has its unique characteristics.;;;;국제 및 지역
+1286;blend;음식과 요리;동;섞다;The chef carefully blended the ingredients to create a delicious sauce.;;;;;;;국제 및 지역
+1287;swell;일상 및 여가 생활;동;부풀다,;The river began to swell after days of heavy rainfall.;명;팽창;Each swell has its unique characteristics.;;;;국제 및 지역
+1288;grief;음식과 요리;명;비탄, 큰 슬픔;She was overcome with grief when she heard the news of her father's death.;;;;;;;국제 및 지역
+1289;beverage;정치, 법률 및 사회;명;음료수;The café offered a wide selection of hot and cold beverages.;;;;;;;국제 및 지역
+1290;warrior;일상 및 여가 생활;명;전사, 용사;The ancient warrior fought bravely in battle.;;;;;;;국제 및 지역
+1291;earn;일상 및 여가 생활;동;(평판을) 얻다, 벌다;He worked hard to earn the respect of his colleagues.;;;;;;;국제 및 지역
+1292;slice;문화와 예술;명;(얇게 썬)조각;She cut a slice of cake for each of the guests at the party.;동;얇게 썰다;Slice helps to 얇게 썰다 resources efficiently.;;;;국제 및 지역
+1293;exotic;일상 및 여가 생활;형;이국적인;They sampled exotic dishes from around the world during their vacation.;;;;;;;국제 및 지역
+1294;arrogant;일상 및 여가 생활;형;거만한, 건방진;His arrogant behavior alienated him from his coworkers.;;;;;;;국제 및 지역
+1295;vanish;일상 및 여가 생활;동;사라지다;The magician made the rabbit vanish into thin air.;;;;;;;국제 및 지역
+1296;rational;일상 및 여가 생활;형;이성적인, 합리적인;She approached the problem in a rational manner, weighing the pros and cons before making a decision.;;;;;;;국제 및 지역
+1297;predominant;문화와 예술;형;우세한, 두드러진;The dominant color in the painting was blue.;;;;;;;국제 및 지역
+1298;cozy;일상 및 여가 생활;형;안락한, 아늑한;The cabin was small but cozy with a fireplace and comfortable chairs.;;;;;;;국제 및 지역
+1299;broker;일상 및 여가 생활;명;중개인, 브로커;She hired a broker to help her find the perfect home.;동;중개하다;Broker helps to 중개하다 resources efficiently.;;;;국제 및 지역
+1300;auction;문화와 예술;명;경매;The painting was sold at auction for a record price.;동;경매로 팔다;Auction helps to 경매로 팔다 resources efficiently.;;;;국제 및 지역
+1301;obsess;일상 및 여가 생활;동;집착하다, 괴롭히다;She would obsess over every detail of her work often neglecting other aspects of her life.;;;;;;;국제 및 지역
+1302;feed;일상 및 여가 생활;동;먹이를 주다, 기를 채우다;She fed the stray cat with some leftover fish.;;;;;;;국제 및 지역
+1303;outbreak;일상 및 여가 생활;명;발발, 창궐;The sudden outbreak of violence took everyone by surprise.;;;;;;;국제 및 지역
+1304;invent;일상 및 여가 생활;동;창조하다;She had to invent a new excuse for being late to work.;;;;;;;국제 및 지역
+1305;pioneer;일상 및 여가 생활;명;개척자;Marie Curie was a pioneer in the field of radioactivity.;동;개척하다;They decided to pioneer a new approach to solving the problem.;;;;국제 및 지역
+1306;assert;일상 및 여가 생활;동;주장하다;She had to assert her authority in order to maintain control of the situation.;;;;;;;국제 및 지역
+1307;undo;일상 및 여가 생활;동;되돌리다;It's difficult to undo the damage caused by years of neglect.;;;;;;;국제 및 지역
+1308;bouquet;일상 및 여가 생활;명;꽃다발;He presented her with a beautiful bouquet of flowers.;;;;;;;국제 및 지역
+1309;elaborate;일상 및 여가 생활;형;정교한;She gave an elaborate explanation of her theory.;;;;;;;국제 및 지역
+1310;toss;일상 및 여가 생활;동;던지다;He tossed the ball to his friend.;;;;;;;국제 및 지역
+1311;retain;일상 및 여가 생활;동;보유하다;It's important to retain the knowledge gained from this experience.;;;;;;;국제 및 지역
+1312;radioactive;일상 및 여가 생활;형;방사능의;The area was deemed unsafe due to its radioactive contamination.;;;;;;;국제 및 지역
+1313;buildup;일상 및 여가 생활;명;축적;There was a buildup of tension between the two countries.;;;;;;;국제 및 지역
+1314;machinery;일상 및 여가 생활;명;기계;The factory invested in new machinery to increase production efficiency.;;;;;;;국제 및 지역
+1315;passerby;일상 및 여가 생활;명;통행인;The passerby offered to help carry the heavy load.;;;;;;;국제 및 지역
+1316;auditorium;일상 및 여가 생활;명;강당;The auditorium was filled with eager listeners.;;;;;;;국제 및 지역
+1317;lay;일상 및 여가 생활;동;놓다;He lay the book on the table and walked away.;;;;;;;국제 및 지역
+1318;neglect;일상 및 여가 생활;동;소홀히하다;The landlord was accused of neglecting the maintenance of the property.;;;;;;;국제 및 지역
+1319;feedback;일상 및 여가 생활;명;피드백;She eagerly awaited feedback on her latest project.;;;;;;;국제 및 지역
+1320;promote;일상 및 여가 생활;동;촉진하다;The company launched a new advertising campaign to promote its products.;;;;;;;국제 및 지역
+1321;impair;일상 및 여가 생활;동;손상시키다;His drinking habit began to impair his ability to function at work.;;;;;;;국제 및 지역
+1322;metaphor;일상 및 여가 생활;명;은유;The author used a metaphor to describe the complexity of human emotions.;;;;;;;국제 및 지역
+1323;dispense;일상 및 여가 생활;동;분배하다;The vending machine dispensed a can of soda when the button was pressed.;;;;;;;국제 및 지역
+1324;bruise;일상 및 여가 생활;명;멍;She had a bruise on her arm from where she bumped into the table.;;;;;;;국제 및 지역
+1325;attorney;일상 및 여가 생활;명;변호사;The attorney presented her case to the jury.;;;;;;;국제 및 지역
+1326;framework;일상 및 여가 생활;명;뼈대;The framework of the building was constructed from steel beams.;;;;;;;국제 및 지역
+1327;heredity;스포츠;명;유전;Heredity plays a significant role in determining one's physical traits.;;;;;;;국제 및 지역
+1328;naive;일상 및 여가 생활;형;순진한;His naive belief in the goodness of people often led to disappointment.;;;;;;;국제 및 지역
+1329;shed;일상 및 여가 생활;동;흘리다;The tree shed its leaves in the autumn.;;;;;;;국제 및 지역
+1330;metropolitan;일상 및 여가 생활;형;대도시의;She enjoyed the hustle and bustle of metropolitan life.;;;;;;;국제 및 지역
+1331;shield;일상 및 여가 생활;명;방패;The knight raised his shield to protect himself from the enemy's arrows.;;;;;;;국제 및 지역
+1332;induce;일상 및 여가 생활;동;유도하다;The advertisement was designed to induce consumers to purchase the product.;;;;;;;국제 및 지역
+1333;bazaar;일상 및 여가 생활;명;장터;She enjoyed browsing the stalls at the local bazaar.;;;;;;;국제 및 지역
+1334;expel;일상 및 여가 생활;동;추방하다;The student was expelled from school for his disruptive behavior.;;;;;;;국제 및 지역
+1335;plow;일상 및 여가 생활;동;쟁기질하다;The farmer used a plow to prepare the soil for planting.;;;;;;;국제 및 지역
+1336;prolong;문화와 예술;동;연장하다;The negotiations were prolonged due to disagreements between the two parties.;;;;;;;국제 및 지역
+1337;fluent;일상 및 여가 생활;형;유창한;She was fluent in three languages.;;;;;;;국제 및 지역
+1338;margin;일상 및 여가 생활;명;여백;She wrote her notes in the margins of the textbook.;;;;;;;국제 및 지역
+1339;ecology;교육과 학습;명;생태학;The study of ecology examines the relationships between organisms and their environments.;;;;;;;국제 및 지역
+1340;interior;일상 및 여가 생활;명;실내;The interior of the house was decorated in a modern style.;;;;;;;국제 및 지역
+1341;ornament;일상 및 여가 생활;명;장식품;The Christmas tree was adorned with ornaments and lights.;;;;;;;국제 및 지역
+1342;separate;일상 및 여가 생활;동;분리하다;He used a knife to separate the pieces of cake.;;;;;;;국제 및 지역
+1343;ripe;일상 및 여가 생활;형;익은;The fruit is ripe and ready to be picked.;;;;;;;국제 및 지역
+1344;vibrate;일상 및 여가 생활;동;진동하다;The phone vibrated in her pocket signaling a new message.;;;;;;;국제 및 지역
+1345;urgent;일상 및 여가 생활;형;긴급한;He received an urgent call and had to leave immediately.;;;;;;;국제 및 지역
+1346;speculate;정치, 법률 및 사회;동;추측하다;They speculated about the outcome of the election.;;;;;;;국제 및 지역
+1347;epidemic;정치, 법률 및 사회;명;전염병;The government declared a state of emergency due to the epidemic.;;;;;;;국제 및 지역
+1348;precede;일상 및 여가 생활;동;앞서다;The main course was preceded by a salad.;;;;;;;국제 및 지역
+1349;breathtaking;음식과 요리;형;아름다운;The view from the mountaintop was breathtaking.;;;;;;;국제 및 지역
+1350;portfolio;일상 및 여가 생활;명;포트폴리오;She presented her portfolio to the potential employer during the interview.;;;;;;;국제 및 지역
+1351;beware;일상 및 여가 생활;동;조심하다;Beware of the dog sign was posted on the gate.;;;;;;;국제 및 지역
+1352;handcuff;일상 및 여가 생활;명;수갑;The criminal was handcuffed and taken into custody.;;;;;;;국제 및 지역
+1353;overturn;일상 및 여가 생활;동;전복시키다;The storm overturned several trees in the park.;;;;;;;국제 및 지역
+1354;pregnant;일상 및 여가 생활;형;임신한;She announced that she was pregnant with her first child.;;;;;;;국제 및 지역
+1355;intelligence;문화와 예술;명;지능;The artificial intelligence system was designed to analyze large amounts of data.;;;;;;;국제 및 지역
+1356;adapt;기타;동;적응하다;She had to adapt quickly to the new working environment.;;;;;;;국제 및 지역
+1357;settle;일상 및 여가 생활;동;정착하다;After years of traveling, she decided to settle down in a small town.;;;;;;;국제 및 지역
+1358;assassinate;일상 및 여가 생활;동;암살하다;The political leader was assassinated by a lone gunman.;;;;;;;국제 및 지역
+1359;vapor;일상 및 여가 생활;명;증기;The cold air turned the water into vapor as it evaporated.;;;;;;;국제 및 지역
+1360;tuition;일상 및 여가 생활;명;교육;She paid her tuition fees for the semester.;;;;;;;국제 및 지역
+1361;literature;일상 및 여가 생활;명;문학;She studied English literature at university.;;;;;;;국제 및 지역
+1362;loop;일상 및 여가 생활;명;루프;She sewed a loop onto the back of the dress for the button.;;;;;;;국제 및 지역
+1363;quote;일상 및 여가 생활;동;인용하다;She quoted Shakespeare in her graduation speech.;;;;;;;국제 및 지역
+1364;inhale;일상 및 여가 생활;동;들이쉬다;He inhaled deeply and closed his eyes.;;;;;;;국제 및 지역
+1365;prospect;일상 및 여가 생활;명;전망;The prospect of a promotion motivated him to work harder.;;;;;;;국제 및 지역
+1366;anchor;일상 및 여가 생활;명;앵커;The ship dropped anchor in the harbor.;;;;;;;국제 및 지역
+1367;reference;일상 및 여가 생활;명;참고;She included a list of references with her job application.;;;;;;;국제 및 지역
+1368;compound;과학과 기술;명;화합물;The compound was used in various experiments in the laboratory.;형;복합의;This solution is particularly compound in its approach.;;;;국제 및 지역
+1369;withstand;일상 및 여가 생활;동;견디다;The bridge was designed to withstand strong winds and heavy rain.;;;;;;;국제 및 지역
+1370;implement;교육과 학습;명;도구;The teacher used various implements to demonstrate the experiment to the class.;;;;;;;국제 및 지역
+1371;anonymous;일상 및 여가 생활;형;익명의;She received an anonymous gift in the mail.;;;;;;;국제 및 지역
+1372;collide;일상 및 여가 생활;동;충돌하다;The two cars collided at the intersection.;;;;;;;국제 및 지역
+1373;memorial;일상 및 여가 생활;명;기념물;They visited the war memorial to pay their respects to the fallen soldiers.;;;;;;;국제 및 지역
+1374;vacant;문화와 예술;형;빈;The apartment had been vacant for months before they moved in.;;;;;;;국제 및 지역
+1375;technical;일상 및 여가 생활;형;기술적인;She lacked the technical skills required for the job.;;;;;;;국제 및 지역
+1376;summon;음식과 요리;동;소환하다;The wizard summoned a magical creature to help him in battle.;;;;;;;국제 및 지역
+1377;orchard;일상 및 여가 생활;명;과수원;They went apple picking in the orchard.;;;;;;;국제 및 지역
+1378;proportion;일상 및 여가 생활;명;비율;The proportion of students who passed the exam was higher than expected.;;;;;;;국제 및 지역
+1379;antibiotic;음식과 요리;명;항생제;She was prescribed antibiotics to treat the infection.;;;;;;;국제 및 지역
+1380;overtake;일상 및 여가 생활;동;앞지르다;He overtook the other runners and won the race.;;;;;;;국제 및 지역
+1381;resemble;일상 및 여가 생활;동;닮다;She closely resembled her mother in appearance.;;;;;;;국제 및 지역
+1382;wander;기타;동;헤매다;They wandered through the forest, enjoying the beauty of nature.;;;;;;;국제 및 지역
+1383;compassion;일상 및 여가 생활;명;동정심;She showed compassion for the homeless man by giving him some food.;;;;;;;국제 및 지역
+1384;preoccupation;기타;명;몰두;Her preoccupation with work often left little time for socializing.;;;;;;;국제 및 지역
+1385;paste;일상 및 여가 생활;동;붙이다;She pasted the picture onto the page of her scrapbook.;;;;;;;국제 및 지역
+1386;provoke;일상 및 여가 생활;동;자극하다;His comments provoked anger among the other members of the group.;;;;;;;국제 및 지역
+1387;wicked;일상 및 여가 생활;형;악랄한;The villain in the story was depicted as a wicked sorcerer.;;;;;;;국제 및 지역
+1388;sprain;스포츠;명;삐다;He suffered a sprain in his ankle while playing basketball.;;;;;;;국제 및 지역
+1389;propaganda;정치, 법률 및 사회;명;선전;The government used propaganda to sway public opinion.;;;;;;;국제 및 지역
+1390;consistent;일상 및 여가 생활;형;일관된;His performance on the field was consistent throughout the season.;;;;;;;국제 및 지역
+1391;disrupt;일상 및 여가 생활;동;방해하다;The loud noise from the construction site disrupted their concentration.;;;;;;;국제 및 지역
+1392;solitary;일상 및 여가 생활;형;고독한;He led a solitary life in the mountains, away from civilization.;;;;;;;국제 및 지역
+1393;bury;일상 및 여가 생활;동;묻다;They buried the treasure in the backyard and drew a map to remember its location.;;;;;;;국제 및 지역
+1394;rust;일상 및 여가 생활;명;녹;The old car had patches of rust on its exterior.;동;녹슬다;The metal railing had begun to rust due to exposure to the elements.;;;;국제 및 지역
+1395;discuss;일상 및 여가 생활;동;논의하다;They sat down to discuss the terms of the agreement.;;;;;;;국제 및 지역
+1396;referee;일상 및 여가 생활;명;심판;The referee blew the whistle to signal the end of the game.;;;;;;;국제 및 지역
+1397;sector;과학과 기술;명;부문;The technology sector has seen rapid growth in recent years.;;;;;;;인간과 사회
+1398;boost;정치, 법률 및 사회;명;증가;The government implemented policies to boost economic growth.;;;;;;;국제 및 지역
+1399;gymnastics;일상 및 여가 생활;명;체조;She trained for hours every day to improve her gymnastics skills.;;;;;;;국제 및 지역
+1400;gross;문화와 예술;형;총;The company reported a gross profit of $1 million for the quarter.;;;;;;;국제 및 지역
+1401;last;일상 및 여가 생활;형;마지막;The last train to the city leaves at midnight.;;;;;;;국제 및 지역
+1402;tariff;정치, 법률 및 사회;명;관세;The government imposed tariffs on imported goods to protect domestic industries.;;;;;;;국제 및 지역
+1403;beloved;일상 및 여가 생활;형;사랑하는;She was reunited with her beloved pet after it went missing for a week.;;;;;;;국제 및 지역
+1404;lyric;일상 및 여가 생활;명;가사;She wrote the lyrics to the song herself.;;;;;;;국제 및 지역
+1405;yeast;일상 및 여가 생활;명;효모;The baker used yeast to make the bread rise.;;;;;;;국제 및 지역
+1406;skyscraper;일상 및 여가 생활;명;고층 건물;The skyline of the city was dominated by skyscrapers.;;;;;;;국제 및 지역
+1407;inquire;음악과 엔터테인먼트;동;문의하다;She inquired about the availability of tickets for the concert.;;;;;;;국제 및 지역
+1408;spade;일상 및 여가 생활;명;삽;He used a spade to dig a hole in the garden.;;;;;;;국제 및 지역
+1409;vacuum;일상 및 여가 생활;명;진공;She cleaned the carpet with a vacuum cleaner.;;;;;;;국제 및 지역
+1410;migrate;기타;동;이주하다;The birds migrate to warmer climates in the winter.;;;;;;;국제 및 지역
+1411;spectacle;스포츠;명;광경;The fireworks display was a spectacular spectacle.;;;;;;;국제 및 지역
+1412;surplus;일상 및 여가 생활;명;초과;The surplus of goods led to a decrease in prices.;;;;;;;국제 및 지역
+1413;simulate;과학과 기술;동;모의실험하다;The scientists used computer models to simulate the effects of climate change.;;;;;;;국제 및 지역
+1414;integration;과학과 기술;명;통합;The integration of technology into everyday life has transformed society.;;;;;;;국제 및 지역
+1415;hypothesis;과학과 기술;명;가설;The scientist proposed a new hypothesis to explain the results of the experiment.;;;;;;;국제 및 지역
+1416;affirm;일상 및 여가 생활;동;확인하다;She affirmed her commitment to the project.;;;;;;;국제 및 지역
+1417;fortress;일상 및 여가 생활;명;요새;The old fortress had stood for centuries.;;;;;;;국제 및 지역
+1418;reed;일상 및 여가 생활;명;갈대;The wind rustled through the reeds by the riverbank.;;;;;;;국제 및 지역
+1419;cue;일상 및 여가 생활;명;신호;The actor waited for his cue to enter the stage.;;;;;;;국제 및 지역
+1420;mole;일상 및 여가 생활;명;점;She had a mole on her cheek.;;;;;;;국제 및 지역
+1421;divide;일상 및 여가 생활;동;나누다;The river divided the city in two.;;;;;;;국제 및 지역
+1422;inborn;음악과 엔터테인먼트;형;선천적인;Her talent for music seemed to be inborn.;;;;;;;국제 및 지역
+1423;overlap;일상 및 여가 생활;동;겹치다;The schedules of the two events overlapped causing some attendees to miss out on one or the other.;;;;;;;국제 및 지역
+1424;fatigue;일상 및 여가 생활;명;피로;She felt a deep sense of fatigue after working long hours.;;;;;;;국제 및 지역
+1425;clone;일상 및 여가 생활;명;복제;The scientist successfully cloned the sheep.;;;;;;;국제 및 지역
+1426;peel;일상 및 여가 생활;동;껍질을 벗기다;She peeled an orange and offered a slice to her friend.;;;;;;;국제 및 지역
+1427;ease;일상 및 여가 생활;명;편안함;The massage therapist helped to ease the tension in her muscles.;;;;;;;국제 및 지역
+1428;overcome;일상 및 여가 생활;동;극복하다;She had to overcome many obstacles to achieve her goals.;;;;;;;국제 및 지역
+1429;fund;일상 및 여가 생활;명;자금;The charity received a large fund from anonymous donors.;;;;;;;국제 및 지역
+1430;bias;교육과 학습;명;편견;The study aimed to investigate the effects of bias on decision-making.;;;;;;;국제 및 지역
+1431;vaccine;일상 및 여가 생활;명;백신;The vaccine was developed to prevent the spread of the disease.;;;;;;;국제 및 지역
+1432;tread;일상 및 여가 생활;동;밟다;He carefully treaded through the muddy path.;;;;;;;국제 및 지역
+1433;vomit;음식과 요리;명;구토;The dog vomited after eating something from the garbage.;;;;;;;국제 및 지역
+1434;prophecy;음식과 요리;명;예언;The prophecy foretold of a great disaster that would befall the kingdom.;;;;;;;국제 및 지역
+1435;correspond;일상 및 여가 생활;동;일치하다;The evidence did not correspond with the witness's testimony.;;;;;;;국제 및 지역
+1436;cling;일상 및 여가 생활;동;달라붙다;The wet clothes clung to her body.;;;;;;;국제 및 지역
+1437;mutation;일상 및 여가 생활;명;돌연변이;The mutation in the gene caused the plant to develop unusual characteristics.;;;;;;;국제 및 지역
+1438;obscure;일상 및 여가 생활;형;애매한;The meaning of the poem was obscure and open to interpretation.;;;;;;;국제 및 지역
+1439;instinct;일상 및 여가 생활;명;본능;Her instinct told her that something was wrong.;;;;;;;국제 및 지역
+1440;repel;일상 및 여가 생활;동;물리치다;The strong smell of the repellent repelled mosquitoes.;;;;;;;국제 및 지역
+1441;exhaust;일상 및 여가 생활;동;다 써버리다;She was exhausted after running a marathon.;;;;;;;국제 및 지역
+1442;artisan;문화와 예술;명;장인;The artisan carefully crafted each piece of furniture by hand.;;;;;;;국제 및 지역
+1443;territory;일상 및 여가 생활;명;영토;The two countries disputed the ownership of the territory along the border.;;;;;;;국제 및 지역
+1444;ambush;일상 및 여가 생활;명;매복;The soldiers lay in wait; planning to ambush the enemy convoy.;동;매복하다;The rebels ambushed the convoy as it passed through the narrow canyon.;;;국제 및 지역
+1445;meditation;일상 및 여가 생활;명;명상;She found peace and clarity through daily meditation.;;;;;;;국제 및 지역
+1446;invoke;일상 및 여가 생활;동;호출하다;She invoked the name of the ancient gods in her prayers.;;;;;;;국제 및 지역
+1447;foliage;일상 및 여가 생활;명;잎;The trees were covered in lush green foliage.;;;;;;;국제 및 지역
+1448;exhale;음식과 요리;동;내쉬다;He took a deep breath and slowly exhaled.;;;;;;;국제 및 지역
+1449;infection;음식과 요리;명;감염;She was treated for a bacterial infection.;;;;;;;국제 및 지역
+1450;patrol;일상 및 여가 생활;동;순찰하다;The security guard patrolled the building to ensure its safety.;;;;;;;국제 및 지역
+1451;originate;일상 및 여가 생활;동;유래하다;The concept of democracy originated in ancient Greece.;;;;;;;국제 및 지역
+1452;flour;음식과 요리;명;밀가루;Whole wheat flour is rich in nutrients.;;;;;;;국제 및 지역
+1453;manipulate;일상 및 여가 생활;동;조작하다, 잘 다루다;The magician deftly manipulated the deck of cards.;;;;;;;국제 및 지역
+1454;experiment;과학과 기술;명;실험;Scientists conducted a series of experiments to test their hypothesis.;;;;;;;국제 및 지역
+1455;patriot;일상 및 여가 생활;명;애국자;The patriot proudly waved the flag of his country.;;;;;;;국제 및 지역
+1456;interchange;일상 및 여가 생활;동;교환하다;The students decided to interchange their books for the semester.;;;;;;;국제 및 지역
+1457;intuitive;일상 및 여가 생활;형;직감에 의한, 직관력 있는;She has an intuitive understanding of people's emotions.;;;;;;;국제 및 지역
+1458;garment;일상 및 여가 생활;명;의류;The fashion designer showcased her latest garment collection.;;;;;;;국제 및 지역
+1459;spontaneous;일상 및 여가 생활;형;자발적인, 즉흥적인;The couple's spontaneous decision to go on a road trip led to unforgettable memories.;;;;;;;국제 및 지역
+1460;vertical;일상 및 여가 생활;형;수직의, 세로의;The skyscraper's vertical design stood out in the city skyline.;;;;;;;국제 및 지역
+1461;testify;정치, 법률 및 사회;동;증언하다, 증명하다;The witness was called to testify in court.;;;;;;;국제 및 지역
+1462;mentor;일상 및 여가 생활;명;조언자;The young entrepreneur sought guidance from an experienced mentor.;;;;;;;국제 및 지역
+1463;vivid;문화와 예술;형;생생한, 선명한;The artist used vivid colors to capture the beauty of the sunset.;;;;;;;국제 및 지역
+1464;pasture;일상 및 여가 생활;명;초원;The shepherd led his flock to graze in the lush pasture.;;;;;;;국제 및 지역
+1465;crust;일상 및 여가 생활;명;(빵, 파이의)껍질, 딱딱한 표면;The baker brushed the crust of the bread with melted butter.;;;;;;;국제 및 지역
+1466;comprehend;일상 및 여가 생활;동;이해하다, 파악하다;It took her a while to comprehend the complexity of the scientific theory.;;;;;;;국제 및 지역
+1467;plunge;일상 및 여가 생활;동;뛰어들다, 급락하다;The stock market experienced a sudden plunge due to economic uncertainty.;;;;;;;국제 및 지역
+1468;nasty;정치, 법률 및 사회;형;더러운, 비열한;The politician resorted to nasty tactics during the election campaign.;;;;;;;국제 및 지역
+1469;appreciate;일상 및 여가 생활;동;진가를 알아보다, 고맙게 여기다, 감상하다;I deeply appreciate your kindness and support during this difficult time.;;;;;;;국제 및 지역
+1470;emigrate;일상 및 여가 생활;동;이민을 가다;Many families chose to emigrate to escape the war-torn country.;;;;;;;국제 및 지역
+1471;deed;일상 및 여가 생활;명;행동, 공적;His selfless deeds earned him the admiration of the community.;;;;;;;국제 및 지역
+1472;skinny;일상 및 여가 생활;형;깡마른, 옷이 몸에 딱 붙는;Despite his skinny frame he was surprisingly strong.;;;;;;;국제 및 지역
+1473;grill;일상 및 여가 생활;명;그릴, 석쇠;The chef cooked the steak on the grill to perfection.;;;;;;;국제 및 지역
+1474;canal;일상 및 여가 생활;명;운하, 수로;The canal served as an important waterway for transportation.;;;;;;;국제 및 지역
+1475;curse;음식과 요리;명;저주;She muttered a curse under her breath as she stubbed her toe.;;;;;;;국제 및 지역
+1476;adverse;음식과 요리;형;불리한, 반대의;The adverse weather conditions forced the cancellation of the outdoor event.;;;;;;;국제 및 지역
+1477;censorship;정치, 법률 및 사회;명;검열관;The government imposed strict censorship on the media.;;;;;;;국제 및 지역
+1478;forehead;음식과 요리;명;이마;She wiped the sweat off her forehead with the back of her hand.;;;;;;;국제 및 지역
+1479;appetite;일상 및 여가 생활;명;식욕, 욕망;The aroma of freshly baked bread whetted her appetite.;;;;;;;국제 및 지역
+1480;flaw;정치, 법률 및 사회;명;결함, 결점;Despite its flaws the antique vase had a certain charm.;;;;;;;국제 및 지역
+1481;outgoing;일상 및 여가 생활;형;외향적인, 사교적인;Her outgoing personality made her popular among her peers.;;;;;;;국제 및 지역
+1482;verbal;일상 및 여가 생활;형;말의, 구두의;His verbal skills were unmatched in the debate competition.;;;;;;;국제 및 지역
+1483;liberate;일상 및 여가 생활;동;해방시키다;The activist fought tirelessly to liberate oppressed communities.;;;;;;;국제 및 지역
+1484;segregation;일상 및 여가 생활;명;인종 차별, 차별정책, 분리;The civil rights movement aimed to end racial segregation in schools.;;;;;;;국제 및 지역
+1485;advance;일상 및 여가 생활;명;전진하다, 진보하다;The army made steady advances against the enemy's defenses.;;;;;;;국제 및 지역
+1486;contemplate;일상 및 여가 생활;동;~을 숙고하다, 심사숙고하다, 고려하다, 응시하다;She sat quietly by the window, lost in thought as she contemplated her future.;;;;;;;국제 및 지역
+1487;underlying;일상 및 여가 생활;형;기초를 이루는, 근본적인, 밑에 있는;The underlying causes of the economic crisis were complex and multifaceted.;;;;;;;국제 및 지역
+1488;academic;일상 및 여가 생활;형;학문적인, 학구적인;Her academic achievements earned her a scholarship to the prestigious university.;;;;;;;국제 및 지역
+1489;stem;일상 및 여가 생활;명;줄기;The stem of the flower was slender and delicate.;동;생기다, 일어나다;Efforts to stem the tide of corruption were met with resistance.;;;;일상 생활
+1490;irrigation;일상 및 여가 생활;명;관개;The irrigation system ensured that the crops received enough water during the dry season.;;;;;;;국제 및 지역
+1491;artisan;문화와 예술;명;장인;The artisan crafted each piece of furniture with meticulous attention to detail.;;;;;;;국제 및 지역
+1492;endorse;일상 및 여가 생활;동;지지하다, 승인하다;The celebrity endorsed the new perfume leading to a surge in sales.;;;;;;;국제 및 지역
+1493;pedestrian;일상 및 여가 생활;명;보행자;The pedestrian crossed the street at the designated crosswalk.;;;;;;;국제 및 지역
+1494;commute;일상 및 여가 생활;동;통근하다, 왕복하다;She commutes to work by train every day.;;;;;;;국제 및 지역
+1495;deprive;일상 및 여가 생활;동;빼앗다, 박탈하다;The war deprived many families of their homes and livelihoods.;;;;;;;국제 및 지역
+1496;renaissance;음식과 요리;명;르네상스;The Renaissance was a period of great cultural and artistic flourishing in Europe.;;;;;;;국제 및 지역
+1497;auditory;일상 및 여가 생활;형;청각의;The auditory system is responsible for processing sound information.;;;;;;;국제 및 지역
+1498;orchard;일상 및 여가 생활;명;과수원;The orchard was filled with apple trees laden with ripe fruit.;;;;;;;국제 및 지역
+1499;curriculum;일상 및 여가 생활;명;교육과정;The school's curriculum includes a wide range of subjects.;;;;;;;국제 및 지역
+1500;clergy;일상 및 여가 생활;명;성직자;The clergy presided over the religious ceremony.;;;;;;;국제 및 지역
+1501;allege;일상 및 여가 생활;동;주장하다, 혐의를 제기하다;The prosecution alleged that the defendant had committed the crime.;;;;;;;국제 및 지역
+1502;postpone;일상 및 여가 생활;동;연기하다;The meeting was postponed until next week due to scheduling conflicts.;;;;;;;국제 및 지역
+1503;distract;일상 및 여가 생활;동;산만하게 하다, 주의를 딴 데로 돌리다;The noise outside distracted her from her work.;;;;;;;국제 및 지역
+1504;utilize;과학과 기술;동;활용하다, 이용하다;The company utilized advanced technology to improve efficiency.;;;;;;;국제 및 지역
+1505;substitute;음식과 요리;명;대체물, 대리인;She used applesauce as a substitute for eggs in the recipe.;;;;;;;국제 및 지역
+1506;feat;음식과 요리;명;위업, 공적;Climbing Mount Everest is a remarkable feat of human endurance.;;;;;;;국제 및 지역
+1507;petition;문화와 예술;명;청원서;She started a petition to protest against the construction of the new highway.;;;;;;;국제 및 지역
+1508;manifest;음식과 요리;동;나타내다, 명백히 보이다;His nervousness manifested in sweaty palms and a shaky voice.;;;;;;;국제 및 지역
+1509;exploit;일상 및 여가 생활;동;이용하다, 착취하다;The company was accused of exploiting its workers by paying them low wages.;;;;;;;국제 및 지역
+1510;terrain;일상 및 여가 생활;명;지형;The rugged terrain made hiking in the mountains challenging.;;;;;;;국제 및 지역
+1511;alliance;일상 및 여가 생활;명;동맹, 연합;The two countries formed a strategic alliance to combat terrorism.;;;;;;;국제 및 지역
+1512;subsidy;정치, 법률 및 사회;명;보조금;The government provided subsidies to farmers to support agricultural production.;;;;;;;국제 및 지역
+1513;embody;일상 및 여가 생활;동;구현하다, 몸소 나타내다;The sculpture seemed to embody the spirit of freedom and resilience.;;;;;;;국제 및 지역
+1514;perpetual;일상 및 여가 생활;형;영원한, 끊임없는;The perpetual motion of the waves was mesmerizing to watch.;;;;;;;국제 및 지역
+1515;intrigue;일상 및 여가 생활;명;음모, 미스터리한 일;The novel was filled with mystery and political intrigue.;;;;;;;국제 및 지역
+1516;condemn;일상 및 여가 생활;동;비난하다, 욕하다;The international community condemned the use of chemical weapons in the conflict.;;;;;;;국제 및 지역
+1517;concede;일상 및 여가 생활;동;인정하다, 양보하다;After hours of negotiation, they finally conceded to the terms of the agreement.;;;;;;;국제 및 지역
+1518;exquisite;일상 및 여가 생활;형;정교한, 아주 아름다운;The exquisite craftsmanship of the antique vase was evident in every detail.;;;;;;;국제 및 지역
+1519;temperament;일상 및 여가 생활;명;성격;Her cheerful temperament brightened up the room.;;;;;;;국제 및 지역
+1520;corrupt;일상 및 여가 생활;동;부패시키다, 타락시키다;The politician was accused of using his power to corrupt the judicial system.;;;;;;;국제 및 지역
+1521;erect;일상 및 여가 생활;동;건설하다, 세우다;The workers were busy erecting scaffolding around the building.;;;;;;;국제 및 지역
+1522;recede;일상 및 여가 생활;동;물러나다, 줄어들다;The floodwaters began to recede as the rain stopped.;;;;;;;국제 및 지역
+1523;asylum;일상 및 여가 생활;명;망명, 보호;The refugee sought asylum in a neighboring country to escape persecution.;;;;;;;국제 및 지역
+1524;drought;일상 및 여가 생활;명;가뭄;The drought devastated crops and caused water shortages in the region.;;;;;;;국제 및 지역
+1525;glacier;일상 및 여가 생활;명;빙하;The glacier slowly carved its way through the rugged landscape.;;;;;;;국제 및 지역
+1526;suppress;정치, 법률 및 사회;동;억제하다, 진압하다;The government attempted to suppress dissent by censoring the media.;;;;;;;국제 및 지역
+1527;feasible;기타;형;실행 가능한, 가능성 있는;The proposed project is economically feasible and environmentally sustainable.;;;;;;;국제 및 지역
+1528;apparel;일상 및 여가 생활;명;의류;The fashion designer showcased his latest apparel collection on the runway.;;;;;;;국제 및 지역
+1529;unanimous;일상 및 여가 생활;형;만장일치의, 동의하는;The decision to renovate the park was met with unanimous approval from the community.;;;;;;;국제 및 지역
+1530;graceful;일상 및 여가 생활;형;우아한, 아름다운;The ballerina's graceful movements captivated the audience.;;;;;;;국제 및 지역
+1531;contend;스포츠;동;경쟁하다, 다투다;The two teams will contend for the championship title in the upcoming match.;;;;;;;국제 및 지역
+1532;deliberate;일상 및 여가 생활;동;숙고하다, 심사숙고하다;The jury will deliberate on the evidence presented during the trial.;;;;;;;국제 및 지역
+1533;adhere;일상 및 여가 생활;동;고수하다, 따르다;It's important to adhere to the instructions to ensure safety.;;;;;;;국제 및 지역
+1534;demeanor;일상 및 여가 생활;명;행동;His calm demeanor helped defuse the tense situation.;;;;;;;국제 및 지역
+1535;bounty;일상 및 여가 생활;명;풍족, 관대함;The lush forest was a bounty of resources for the indigenous tribes.;;;;;;;국제 및 지역
+1536;edible;일상 및 여가 생활;형;식용할 수 있는, 먹을 수 있는;Some mushrooms are not edible and can be poisonous if consumed.;;;;;;;국제 및 지역
+1537;sanction;일상 및 여가 생활;명;제재, 인가;The United Nations imposed economic sanctions on the country for violating human rights.;;;;;;;국제 및 지역
+1538;ceasefire;일상 및 여가 생활;명;휴전, 정전;The ceasefire allowed humanitarian aid to reach the war-torn region.;;;;;;;국제 및 지역
+1539;oblige;일상 및 여가 생활;동;의무를 지우다, 강요하다;As a citizen, you are obliged to pay taxes.;;;;;;;국제 및 지역
+1540;obliterate;일상 및 여가 생활;동;완전히 파괴하다, 없애다;The hurricane obliterated entire neighborhoods along the coast.;;;;;;;국제 및 지역
+1541;exemplify;일상 및 여가 생활;동;전형적이다, 모범이 되다;Her dedication to her work exemplifies professionalism.;;;;;;;국제 및 지역
+1542;entice;일상 및 여가 생활;동;유혹하다, 끌어들이다;The aroma of freshly baked cookies enticed customers into the bakery.;;;;;;;국제 및 지역
+1543;gritty;일상 및 여가 생활;형;파우더 또는 모래 같은, 현실적인;The gritty crime drama portrayed the harsh realities of urban life.;;;;;;;국제 및 지역
+1544;gruesome;음악과 엔터테인먼트;형;무시무시한, 소름 끼치는;The horror movie was filled with gruesome scenes of violence.;;;;;;;국제 및 지역
+1545;impair;일상 및 여가 생활;동;손상시키다, 약화시키다;The accident impaired his ability to walk.;;;;;;;국제 및 지역
+1546;impede;일상 및 여가 생활;동;방해하다, 가로막다;Heavy snowfall impeded traffic on the highways.;;;;;;;국제 및 지역
+1547;indulge;일상 및 여가 생활;동;마음대로 하다, 만족시키다;She liked to indulge in chocolate cake on special occasions.;;;;;;;국제 및 지역
+1548;innate;음악과 엔터테인먼트;형;타고난, 선천적인;Her innate talent for music was evident from a young age.;;;;;;;국제 및 지역
+1549;invoke;일상 및 여가 생활;동;호출하다, 기원하다;He invoked the name of the ancient gods in his prayers.;;;;;;;국제 및 지역
+1550;magnitude;문화와 예술;명;규모, 크기;The earthquake measured 7.0 on the Richter scale, indicating its magnitude.;;;;;;;국제 및 지역
+1551;oblige;일상 및 여가 생활;동;의무를 지우다, 강요하다;As a citizen, you are obliged to pay taxes.;;;;;;;국제 및 지역
+1552;obliterate;일상 및 여가 생활;동;완전히 파괴하다, 없애다;The hurricane obliterated entire neighborhoods along the coast.;;;;;;;국제 및 지역
+1553;exemplify;일상 및 여가 생활;동;전형적이다, 모범이 되다;Her dedication to her work exemplifies professionalism.;;;;;;;국제 및 지역
+1554;entice;일상 및 여가 생활;동;유혹하다, 끌어들이다;The aroma of freshly baked cookies enticed customers into the bakery.;;;;;;;국제 및 지역
+1555;gritty;일상 및 여가 생활;형;파우더 또는 모래 같은, 현실적인;The gritty crime drama portrayed the harsh realities of urban life.;;;;;;;국제 및 지역
+1556;gruesome;음악과 엔터테인먼트;형;무시무시한, 소름 끼치는;The horror movie was filled with gruesome scenes of violence.;;;;;;;국제 및 지역
+1557;impair;일상 및 여가 생활;동;손상시키다, 약화시키다;The accident impaired his ability to walk.;;;;;;;국제 및 지역
+1558;impede;일상 및 여가 생활;동;방해하다, 가로막다;Heavy snowfall impeded traffic on the highways.;;;;;;;국제 및 지역
+1559;indulge;일상 및 여가 생활;동;마음대로 하다, 만족시키다;She liked to indulge in chocolate cake on special occasions.;;;;;;;국제 및 지역
+1560;innate;음악과 엔터테인먼트;형;타고난, 선천적인;Her innate talent for music was evident from a young age.;;;;;;;국제 및 지역
+1561;invoke;일상 및 여가 생활;동;호출하다, 기원하다;He invoked the name of the ancient gods in his prayers.;;;;;;;국제 및 지역
+1562;magnitude;문화와 예술;명;규모, 크기;The earthquake measured 7.0 on the Richter scale, indicating its magnitude.;;;;;;;국제 및 지역
+1563;congestion;일상 및 여가 생활;명;혼잡, 막힘;The city experiences heavy traffic congestion during rush hour.;;;;;;;국제 및 지역
+1564;feasible;일상 및 여가 생활;형;실행 가능한, 가능성 있는;The proposed plan is feasible given the available resources.;;;;;;;국제 및 지역
+1565;apparel;일상 및 여가 생활;명;의류;The boutique specializes in designer apparel for women.;;;;;;;국제 및 지역
+1566;legitimate;일상 및 여가 생활;형;합법적인, 정당한;She had legitimate reasons for being late to the meeting.;;;;;;;국제 및 지역
+1567;conscientious;일상 및 여가 생활;형;양심적인, 성실한;He was a conscientious student who always completed his assignments on time.;;;;;;;국제 및 지역
+1568;desolate;일상 및 여가 생활;형;황량한, 적막한;The desert was desolate, with no signs of life for miles around.;;;;;;;국제 및 지역
+1569;manifesto;문화와 예술;명;선언문, 성명서;The political party published its manifesto outlining its goals and principles.;;;;;;;국제 및 지역
+1570;amplify;일상 및 여가 생활;동;확대하다, 증폭시키다;The microphone amplified his voice so that everyone could hear him.;;;;;;;국제 및 지역
+1571;intrusive;일상 및 여가 생활;형;침범적인, 거슬리는;The reporter's intrusive questions made the celebrity uncomfortable.;;;;;;;국제 및 지역
+1572;oblige;일상 및 여가 생활;동;의무를 지우다, 강요하다;As a citizen, you are obliged to pay taxes.;;;;;;;국제 및 지역
+1573;obliterate;일상 및 여가 생활;동;완전히 파괴하다, 없애다;The hurricane obliterated entire neighborhoods along the coast.;;;;;;;국제 및 지역
+1574;exemplify;일상 및 여가 생활;동;전형적이다, 모범이 되다;Her dedication to her work exemplifies professionalism.;;;;;;;국제 및 지역
+1575;entice;일상 및 여가 생활;동;유혹하다, 끌어들이다;The aroma of freshly baked cookies enticed customers into the bakery.;;;;;;;국제 및 지역
+1576;gritty;일상 및 여가 생활;형;파우더 또는 모래 같은, 현실적인;The gritty crime drama portrayed the harsh realities of urban life.;;;;;;;국제 및 지역
+1577;gruesome;음악과 엔터테인먼트;형;무시무시한, 소름 끼치는;The horror movie was filled with gruesome scenes of violence.;;;;;;;국제 및 지역
+1578;impair;일상 및 여가 생활;동;손상시키다, 약화시키다;The accident impaired his ability to walk.;;;;;;;국제 및 지역
+1579;impede;일상 및 여가 생활;동;방해하다, 가로막다;Heavy snowfall impeded traffic on the highways.;;;;;;;국제 및 지역
+1580;indulge;일상 및 여가 생활;동;마음대로 하다, 만족시키다;She liked to indulge in chocolate cake on special occasions.;;;;;;;국제 및 지역
+1581;innate;음악과 엔터테인먼트;형;타고난, 선천적인;Her innate talent for music was evident from a young age.;;;;;;;국제 및 지역
+1582;invoke;일상 및 여가 생활;동;호출하다, 기원하다;He invoked the name of the ancient gods in his prayers.;;;;;;;국제 및 지역
+1583;magnitude;문화와 예술;명;규모, 크기;The earthquake measured 7.0 on the Richter scale, indicating its magnitude.;;;;;;;국제 및 지역
+1584;congestion;일상 및 여가 생활;명;혼잡, 막힘;The city experiences heavy traffic congestion during rush hour.;;;;;;;국제 및 지역
+1585;feasible;일상 및 여가 생활;형;실행 가능한, 가능성 있는;The proposed plan is feasible given the available resources.;;;;;;;국제 및 지역
+1586;apparel;일상 및 여가 생활;명;의류;The boutique specializes in designer apparel for women.;;;;;;;국제 및 지역
+1587;legitimate;일상 및 여가 생활;형;합법적인, 정당한;She had legitimate reasons for being late to the meeting.;;;;;;;국제 및 지역
+1588;conscientious;일상 및 여가 생활;형;양심적인, 성실한;He was a conscientious student who always completed his assignments on time.;;;;;;;국제 및 지역
+1589;desolate;일상 및 여가 생활;형;황량한, 적막한;The desert was desolate with no signs of life for miles around.;;;;;;;국제 및 지역
+1590;manifesto;문화와 예술;명;선언문, 성명서;The political party published its manifesto outlining its goals and principles.;;;;;;;국제 및 지역
+1591;amplify;일상 및 여가 생활;동;확대하다, 증폭시키다;The microphone amplified his voice so that everyone could hear him.;;;;;;;국제 및 지역
+1592;intrusive;일상 및 여가 생활;형;침범적인, 거슬리는;The reporter's intrusive questions made the celebrity uncomfortable.;;;;;;;국제 및 지역
+1593;oblige;일상 및 여가 생활;동;의무를 지우다, 강요하다;As a citizen, you are obliged to pay taxes.;;;;;;;국제 및 지역
+1594;obliterate;일상 및 여가 생활;동;완전히 파괴하다, 없애다;The hurricane obliterated entire neighborhoods along the coast.;;;;;;;국제 및 지역
+1595;exemplify;일상 및 여가 생활;동;전형적이다, 모범이 되다;Her dedication to her work exemplifies professionalism.;;;;;;;국제 및 지역
+1596;entice;일상 및 여가 생활;동;유혹하다, 끌어들이다;The aroma of freshly baked cookies enticed customers into the bakery.;;;;;;;국제 및 지역
+1597;gritty;일상 및 여가 생활;형;파우더 또는 모래 같은, 현실적인;The gritty crime drama portrayed the harsh realities of urban life.;;;;;;;국제 및 지역
+1598;gruesome;음악과 엔터테인먼트;형;무시무시한, 소름 끼치는;The horror movie was filled with gruesome scenes of violence.;;;;;;;국제 및 지역
+1599;impair;일상 및 여가 생활;동;손상시키다, 약화시키다;The accident impaired his ability to walk.;;;;;;;국제 및 지역
+1600;impede;일상 및 여가 생활;동;방해하다, 가로막다;Heavy snowfall impeded traffic on the highways.;;;;;;;국제 및 지역
